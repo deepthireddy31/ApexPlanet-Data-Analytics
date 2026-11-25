@@ -7,13 +7,6 @@ What this script does
   2. SQL business questions (SQLite) - queries and results are saved
   3. Multivariate analysis (correlation heatmap, scatter plots, pair plot, heatmaps)
   4. Static dashboard mock-up (image) with the KPIs I propose to track
-
-Setup:
-  pip install pandas matplotlib seaborn
-  Put this file next to task1.py. It reads data/cleaned_sales_data.csv,
-  which is created by task1.py, and writes everything to task2_output/
-Run:
-  python task2.py
 """
 import os
 import json
