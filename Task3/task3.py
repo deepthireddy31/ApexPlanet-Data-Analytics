@@ -10,10 +10,6 @@ What this script does
   3. Checks with K-Means whether the data has natural clusters (silhouette score)
   4. Exports a dashboard-ready file for Power BI / Looker Studio / Tableau
   5. Builds the interactive HTML dashboard (dashboard_template.html -> index.html)
-
-Setup:   pip install pandas matplotlib seaborn scikit-learn
-Files:   put task3.py and dashboard_template.html next to task1.py / task2.py
-Run:     python task3.py
 """
 import os
 import json
