@@ -1,0 +1,1001 @@
+Order_ID,Order_ID_Original,Order_ID_Fixed_Flag,Order_Date,Order_Year,Order_Quarter,Order_Month,Order_Month_Name,Order_Day_Name,Is_Weekend,Customer_ID,Customer_Name,Age,Age_Imputed_Flag,Age_Group,Gender,City,Product,Category,Quantity,Unit_Price,Total_Sales,Order_Value_Band,Sales_Outlier_Flag
+ORD100002,ORD100002,False,2025-02-25,2025,Q1,2,Feb,Tuesday,False,CUST5529,Customer_227,30,False,25-34,Female,Bengaluru,Rice,Grocery,7,2829.77,19808.39,Low,False
+ORD100003,ORD100003,False,2025-10-14,2025,Q4,10,Oct,Tuesday,False,CUST3127,Customer_182,63,False,55-65,Male,Bengaluru,Book,Education,5,27906.16,139530.8,High,False
+ORD100004,ORD100004,False,2025-05-13,2025,Q2,5,May,Tuesday,False,CUST8887,Customer_487,62,False,55-65,Female,Bengaluru,Book,Education,8,37491.06,299928.48,Very High,False
+ORD100005,ORD100005,False,2025-12-02,2025,Q4,12,Dec,Tuesday,False,CUST2515,Customer_470,65,False,55-65,Female,Kolkata,Mobile,Electronics,9,28541.36,256872.24,Very High,False
+ORD100006,ORD100006,False,2025-11-20,2025,Q4,11,Nov,Thursday,False,CUST4796,Customer_380,44,False,35-44,Male,Bengaluru,Rice,Grocery,10,14036.59,140365.9,High,False
+ORD100007,ORD100007,False,2025-12-31,2025,Q4,12,Dec,Wednesday,False,CUST3952,Customer_71,40,False,35-44,Female,Hyderabad,Laptop,Electronics,9,35947.47,323527.23,Very High,False
+ORD100008,ORD100008,False,2025-10-14,2025,Q4,10,Oct,Tuesday,False,CUST1758,Customer_335,61,False,55-65,Male,Patna,Mobile,Electronics,6,49997.53,299985.18,Very High,False
+ORD100009,ORD100009,False,2025-12-05,2025,Q4,12,Dec,Friday,False,CUST9622,Customer_224,35,False,35-44,Male,Kolkata,Laptop,Electronics,3,9488.83,28466.49,Low,False
+ORD100010,ORD100010,False,2025-11-21,2025,Q4,11,Nov,Friday,False,CUST9770,Customer_494,41,False,35-44,Female,Mumbai,Book,Education,6,19488.23,116929.38,High,False
+ORD100011,ORD100011,False,2025-04-16,2025,Q2,4,Apr,Wednesday,False,CUST1312,Customer_40,30,False,25-34,Male,Kolkata,Mobile,Electronics,8,18024.34,144194.72,High,False
+ORD100012,ORD100012,False,2025-05-05,2025,Q2,5,May,Monday,False,CUST9642,Customer_162,51,False,45-54,Male,Delhi,Shoes,Fashion,3,14151.42,42454.26,Low,False
+ORD100013,ORD100013,False,2025-05-02,2025,Q2,5,May,Friday,False,CUST3228,Customer_209,55,False,55-65,Female,Patna,Chair,Furniture,6,47175.43,283052.58,Very High,False
+ORD100014,ORD100014,False,2025-05-06,2025,Q2,5,May,Tuesday,False,CUST1038,Customer_454,32,False,25-34,Male,Patna,Rice,Grocery,5,7413.68,37068.4,Low,False
+ORD100015,ORD100015,False,2025-04-24,2025,Q2,4,Apr,Thursday,False,CUST6413,Customer_490,50,False,45-54,Female,Patna,Shoes,Fashion,8,12042.52,96340.16,Medium,False
+ORD100016,ORD100016,False,2025-03-12,2025,Q1,3,Mar,Wednesday,False,CUST8660,Customer_213,42,False,35-44,Female,Patna,Mobile,Electronics,8,25465.31,203722.48,High,False
+ORD100017,ORD100017,False,2025-08-30,2025,Q3,8,Aug,Saturday,True,CUST9307,Customer_313,36,False,35-44,Female,Delhi,Shoes,Fashion,10,20111.09,201110.9,High,False
+ORD100018,ORD100018,False,2025-11-30,2025,Q4,11,Nov,Sunday,True,CUST4363,Customer_161,30,False,25-34,Female,Delhi,Book,Education,10,40109.12,401091.2,Very High,False
+ORD100019,ORD100019,False,2025-10-19,2025,Q4,10,Oct,Sunday,True,CUST3508,Customer_67,31,False,25-34,Male,Gaya,Shoes,Fashion,1,7280.64,7280.64,Low,False
+ORD100020,ORD100020,False,2025-07-24,2025,Q3,7,Jul,Thursday,False,CUST5806,Customer_103,57,False,55-65,Female,Mumbai,Chair,Furniture,5,6122.59,30612.95,Low,False
+ORD100021,ORD100021,False,2025-03-20,2025,Q1,3,Mar,Thursday,False,CUST6504,Customer_357,34,False,25-34,Male,Kolkata,Laptop,Electronics,8,23770.36,190162.88,High,False
+ORD100022,ORD100022,False,2025-03-18,2025,Q1,3,Mar,Tuesday,False,CUST8908,Customer_190,65,False,55-65,Male,Pune,Shoes,Fashion,1,2344.98,2344.98,Low,False
+ORD100023,ORD100023,False,2025-10-04,2025,Q4,10,Oct,Saturday,True,CUST2903,Customer_122,31,False,25-34,Female,Mumbai,Book,Education,7,15396.37,107774.59,Medium,False
+ORD100024,ORD100024,False,2025-11-23,2025,Q4,11,Nov,Sunday,True,CUST1406,Customer_499,52,False,45-54,Male,Gaya,Shoes,Fashion,10,31576.5,315765.0,Very High,False
+ORD100025,ORD100025,False,2025-09-14,2025,Q3,9,Sep,Sunday,True,CUST8036,Customer_173,44,False,35-44,Male,Patna,Laptop,Electronics,2,11127.06,22254.12,Low,False
+ORD100026,ORD100026,False,2025-03-16,2025,Q1,3,Mar,Sunday,True,CUST6532,Customer_348,30,False,25-34,Male,Pune,Rice,Grocery,7,36069.86,252489.02,Very High,False
+ORD100027,ORD100027,False,2025-04-10,2025,Q2,4,Apr,Thursday,False,CUST2482,Customer_183,65,False,55-65,Male,Mumbai,Book,Education,9,39414.46,354730.14,Very High,False
+ORD100028,ORD100028,False,2025-08-01,2025,Q3,8,Aug,Friday,False,CUST2003,Customer_48,35,False,35-44,Female,Mumbai,Rice,Grocery,2,23837.41,47674.82,Medium,False
+ORD100029,ORD100029,False,2025-08-10,2025,Q3,8,Aug,Sunday,True,CUST6149,Customer_181,32,False,25-34,Female,Patna,Laptop,Electronics,5,14534.79,72673.95,Medium,False
+ORD100030,ORD100030,False,2025-02-05,2025,Q1,2,Feb,Wednesday,False,CUST3688,Customer_205,38,False,35-44,Female,Bengaluru,Mobile,Electronics,10,21393.69,213936.9,Very High,False
+ORD100031,ORD100031,False,2025-08-09,2025,Q3,8,Aug,Saturday,True,CUST3212,Customer_415,33,False,25-34,Male,Gaya,Rice,Grocery,2,21382.16,42764.32,Low,False
+ORD100032,ORD100032,False,2025-05-13,2025,Q2,5,May,Tuesday,False,CUST5063,Customer_50,33,False,25-34,Female,Mumbai,Mobile,Electronics,1,15831.03,15831.03,Low,False
+ORD100033,ORD100033,False,2025-10-22,2025,Q4,10,Oct,Wednesday,False,CUST9565,Customer_350,21,False,18-24,Female,Mumbai,Book,Education,8,21791.66,174333.28,High,False
+ORD100034,ORD100034,False,2025-12-04,2025,Q4,12,Dec,Thursday,False,CUST9325,Customer_352,44,False,35-44,Female,Mumbai,Laptop,Electronics,5,17556.08,87780.4,Medium,False
+ORD100035,ORD100035,False,2025-05-03,2025,Q2,5,May,Saturday,True,CUST4002,Customer_388,18,False,18-24,Female,Gaya,Laptop,Electronics,5,46822.84,234114.2,Very High,False
+ORD100036,ORD100036,False,2025-03-08,2025,Q1,3,Mar,Saturday,True,CUST8975,Customer_315,36,False,35-44,Female,Gaya,Mobile,Electronics,4,47896.7,191586.8,High,False
+ORD100037,ORD100037,False,2025-02-07,2025,Q1,2,Feb,Friday,False,CUST2669,Customer_151,46,False,45-54,Male,Bengaluru,Laptop,Electronics,8,44911.49,359291.92,Very High,False
+ORD100038,ORD100038,False,2025-02-20,2025,Q1,2,Feb,Thursday,False,CUST5869,Customer_415,23,False,18-24,Male,Delhi,Chair,Furniture,7,40746.79,285227.53,Very High,False
+ORD100039,ORD100039,False,2025-10-20,2025,Q4,10,Oct,Monday,False,CUST7249,Customer_144,29,False,25-34,Male,Kolkata,Rice,Grocery,4,4794.08,19176.32,Low,False
+ORD100040,ORD100040,False,2025-03-07,2025,Q1,3,Mar,Friday,False,CUST7465,Customer_345,58,False,55-65,Female,Bengaluru,Shoes,Fashion,8,29270.98,234167.84,Very High,False
+ORD100041,ORD100041,False,2025-04-21,2025,Q2,4,Apr,Monday,False,CUST7988,Customer_383,39,False,35-44,Female,Mumbai,Shoes,Fashion,1,3992.85,3992.85,Low,False
+ORD100042,ORD100042,False,2025-05-31,2025,Q2,5,May,Saturday,True,CUST9953,Customer_484,50,False,45-54,Female,Hyderabad,Mobile,Electronics,5,44365.94,221829.7,Very High,False
+ORD100043,ORD100043,False,2025-04-20,2025,Q2,4,Apr,Sunday,True,CUST6938,Customer_344,43,False,35-44,Female,Kolkata,Mobile,Electronics,4,29915.72,119662.88,High,False
+ORD100044,ORD100044,False,2025-09-22,2025,Q3,9,Sep,Monday,False,CUST3006,Customer_256,58,False,55-65,Male,Patna,Chair,Furniture,6,16521.44,99128.64,Medium,False
+ORD100045,ORD100045,False,2025-07-04,2025,Q3,7,Jul,Friday,False,CUST5151,Customer_409,55,False,55-65,Female,Bengaluru,Rice,Grocery,6,14399.11,86394.66,Medium,False
+ORD100046,ORD100046,False,2025-04-26,2025,Q2,4,Apr,Saturday,True,CUST5903,Customer_396,27,False,25-34,Female,Hyderabad,Shoes,Fashion,9,1491.63,13424.67,Low,False
+ORD100047,ORD100047,False,2025-05-11,2025,Q2,5,May,Sunday,True,CUST4943,Customer_198,34,False,25-34,Male,Mumbai,Rice,Grocery,2,6210.24,12420.48,Low,False
+ORD100048,ORD100048,False,2025-09-02,2025,Q3,9,Sep,Tuesday,False,CUST4750,Customer_78,42,False,35-44,Female,Delhi,Mobile,Electronics,2,47649.61,95299.22,Medium,False
+ORD100049,ORD100049,False,2025-10-25,2025,Q4,10,Oct,Saturday,True,CUST2705,Customer_117,55,False,55-65,Male,Kolkata,Mobile,Electronics,5,24854.05,124270.25,High,False
+ORD100050,ORD100050,False,2025-10-03,2025,Q4,10,Oct,Friday,False,CUST5523,Customer_432,40,True,35-44,Male,Pune,Chair,Furniture,9,30834.87,277513.83,Very High,False
+ORD100051,ORD100051,False,2025-02-27,2025,Q1,2,Feb,Thursday,False,CUST1557,Customer_87,39,False,35-44,Female,Mumbai,Chair,Furniture,6,20561.97,123371.82,High,False
+ORD100052,ORD100052,False,2025-09-09,2025,Q3,9,Sep,Tuesday,False,CUST2062,Customer_254,58,False,55-65,Male,Patna,Book,Education,10,49367.75,493677.5,Very High,True
+ORD100053,ORD100053,False,2025-06-08,2025,Q2,6,Jun,Sunday,True,CUST9203,Customer_70,33,False,25-34,Male,Delhi,Laptop,Electronics,6,4656.1,27936.6,Low,False
+ORD100054,ORD100054,False,2025-07-07,2025,Q3,7,Jul,Monday,False,CUST8053,Customer_408,58,False,55-65,Male,Delhi,Rice,Grocery,7,42345.82,296420.74,Very High,False
+ORD100055,ORD100055,False,2025-04-16,2025,Q2,4,Apr,Wednesday,False,CUST1017,Customer_387,42,False,35-44,Female,Pune,Shoes,Fashion,7,37747.24,264230.68,Very High,False
+ORD100056,ORD100056,False,2025-11-16,2025,Q4,11,Nov,Sunday,True,CUST2690,Customer_11,26,False,25-34,Male,Delhi,Book,Education,2,33304.17,66608.34,Medium,False
+ORD100057,ORD100057,False,2025-12-07,2025,Q4,12,Dec,Sunday,True,CUST2791,Customer_20,58,False,55-65,Female,Bengaluru,Laptop,Electronics,6,41157.44,246944.64,Very High,False
+ORD100058,ORD100058,False,2025-03-12,2025,Q1,3,Mar,Wednesday,False,CUST4496,Customer_53,18,False,18-24,Female,Bengaluru,Chair,Furniture,7,47669.63,333687.41,Very High,False
+ORD100059,ORD100059,False,2025-12-12,2025,Q4,12,Dec,Friday,False,CUST8811,Customer_115,50,False,45-54,Female,Bengaluru,Chair,Furniture,1,44708.5,44708.5,Low,False
+ORD100060,ORD100060,False,2025-01-15,2025,Q1,1,Jan,Wednesday,False,CUST2411,Customer_292,47,False,45-54,Female,Mumbai,Mobile,Electronics,5,36809.08,184045.4,High,False
+ORD100061,ORD100061,False,2025-11-08,2025,Q4,11,Nov,Saturday,True,CUST2350,Customer_205,46,False,45-54,Male,Pune,Mobile,Electronics,4,25292.97,101171.88,Medium,False
+ORD100062,ORD100062,False,2025-07-06,2025,Q3,7,Jul,Sunday,True,CUST9745,Customer_48,27,False,25-34,Male,Mumbai,Shoes,Fashion,1,29263.26,29263.26,Low,False
+ORD100063,ORD100063,False,2025-07-15,2025,Q3,7,Jul,Tuesday,False,CUST6236,Customer_312,43,False,35-44,Female,Kolkata,Laptop,Electronics,3,5679.91,17039.73,Low,False
+ORD100064,ORD100064,False,2025-09-26,2025,Q3,9,Sep,Friday,False,CUST1887,Customer_209,21,False,18-24,Male,Hyderabad,Chair,Furniture,6,46235.96,277415.76,Very High,False
+ORD100065,ORD100065,False,2025-05-16,2025,Q2,5,May,Friday,False,CUST5386,Customer_125,47,False,45-54,Male,Gaya,Rice,Grocery,9,27164.06,244476.54,Very High,False
+ORD100066,ORD100066,False,2025-07-25,2025,Q3,7,Jul,Friday,False,CUST8065,Customer_92,53,False,45-54,Male,Kolkata,Mobile,Electronics,10,8905.49,89054.9,Medium,False
+ORD100067,ORD100067,False,2025-01-30,2025,Q1,1,Jan,Thursday,False,CUST8841,Customer_407,36,False,35-44,Female,Patna,Book,Education,10,17406.52,174065.2,High,False
+ORD100068,ORD100068,False,2025-02-25,2025,Q1,2,Feb,Tuesday,False,CUST5871,Customer_335,39,False,35-44,Female,Delhi,Chair,Furniture,5,27366.58,136832.9,High,False
+ORD100069,ORD100069,False,2025-06-24,2025,Q2,6,Jun,Tuesday,False,CUST9869,Customer_394,40,False,35-44,Female,Hyderabad,Book,Education,5,41282.63,206413.15,Very High,False
+ORD100070,ORD100070,False,2025-08-15,2025,Q3,8,Aug,Friday,False,CUST9017,Customer_51,26,False,25-34,Female,Delhi,Book,Education,8,13645.41,109163.28,High,False
+ORD100071,ORD100071,False,2025-10-21,2025,Q4,10,Oct,Tuesday,False,CUST1808,Customer_150,56,False,55-65,Male,Patna,Chair,Furniture,8,27337.64,218701.12,Very High,False
+ORD100072,ORD100072,False,2025-08-25,2025,Q3,8,Aug,Monday,False,CUST2565,Customer_360,52,False,45-54,Female,Hyderabad,Shoes,Fashion,5,29219.72,146098.6,High,False
+ORD100073,ORD100073,False,2025-06-19,2025,Q2,6,Jun,Thursday,False,CUST4958,Customer_160,45,False,45-54,Male,Gaya,Rice,Grocery,3,8572.65,25717.95,Low,False
+ORD100074,ORD100074,False,2025-12-04,2025,Q4,12,Dec,Thursday,False,CUST7587,Customer_223,27,False,25-34,Male,Pune,Laptop,Electronics,9,45419.62,408776.58,Very High,False
+ORD100075,ORD100075,False,2025-03-30,2025,Q1,3,Mar,Sunday,True,CUST2157,Customer_31,58,False,55-65,Male,Unknown,Mobile,Electronics,4,21599.26,86397.04,Medium,False
+ORD100076,ORD100076,False,2025-12-30,2025,Q4,12,Dec,Tuesday,False,CUST8430,Customer_277,45,False,45-54,Male,Gaya,Laptop,Electronics,2,8883.45,17766.9,Low,False
+ORD100077,ORD100077,False,2025-12-27,2025,Q4,12,Dec,Saturday,True,CUST1956,Customer_317,22,False,18-24,Female,Bengaluru,Shoes,Fashion,9,12290.45,110614.05,High,False
+ORD100078,ORD100078,False,2025-04-14,2025,Q2,4,Apr,Monday,False,CUST9846,Customer_298,58,False,55-65,Female,Patna,Book,Education,6,10784.64,64707.84,Medium,False
+ORD100079,ORD100079,False,2026-01-01,2026,Q1,1,Jan,Thursday,False,CUST4706,Customer_34,62,False,55-65,Female,Delhi,Rice,Grocery,1,35862.34,35862.34,Low,False
+ORD100080,ORD100080,False,2025-08-21,2025,Q3,8,Aug,Thursday,False,CUST5607,Customer_265,61,False,55-65,Female,Gaya,Rice,Grocery,1,13129.64,13129.64,Low,False
+ORD100081,ORD100081,False,2025-03-05,2025,Q1,3,Mar,Wednesday,False,CUST8211,Customer_62,19,False,18-24,Female,Gaya,Chair,Furniture,9,45747.37,411726.33,Very High,False
+ORD100082,ORD100082,False,2025-09-01,2025,Q3,9,Sep,Monday,False,CUST5367,Customer_499,25,False,25-34,Female,Hyderabad,Book,Education,6,5849.89,35099.34,Low,False
+ORD100083,ORD100083,False,2025-01-06,2025,Q1,1,Jan,Monday,False,CUST8346,Customer_384,30,False,25-34,Male,Hyderabad,Laptop,Electronics,9,48845.5,439609.5,Very High,True
+ORD100084,ORD100084,False,2025-10-24,2025,Q4,10,Oct,Friday,False,CUST7484,Customer_478,36,False,35-44,Male,Gaya,Book,Education,9,24828.05,223452.45,Very High,False
+ORD100085,ORD100085,False,2025-03-07,2025,Q1,3,Mar,Friday,False,CUST7911,Customer_7,59,False,55-65,Male,Delhi,Mobile,Electronics,8,17841.4,142731.2,High,False
+ORD100086,ORD100086,False,2025-08-24,2025,Q3,8,Aug,Sunday,True,CUST4229,Customer_234,51,False,45-54,Male,Hyderabad,Book,Education,10,13662.66,136626.6,High,False
+ORD100087,ORD100087,False,2025-03-17,2025,Q1,3,Mar,Monday,False,CUST2290,Customer_195,56,False,55-65,Male,Mumbai,Book,Education,4,12169.49,48677.96,Medium,False
+ORD100088,ORD100088,False,2025-12-17,2025,Q4,12,Dec,Wednesday,False,CUST1246,Customer_165,59,False,55-65,Female,Kolkata,Mobile,Electronics,6,349.06,2094.36,Low,False
+ORD100089,ORD100089,False,2025-04-16,2025,Q2,4,Apr,Wednesday,False,CUST3689,Customer_179,44,False,35-44,Female,Delhi,Laptop,Electronics,8,20498.74,163989.92,High,False
+ORD100090,ORD100090,False,2025-10-29,2025,Q4,10,Oct,Wednesday,False,CUST7476,Customer_45,21,False,18-24,Female,Hyderabad,Book,Education,9,13111.39,118002.51,High,False
+ORD100091,ORD100091,False,2025-12-15,2025,Q4,12,Dec,Monday,False,CUST7037,Customer_45,34,False,25-34,Male,Mumbai,Rice,Grocery,9,45000.49,405004.41,Very High,False
+ORD100092,ORD100092,False,2025-12-24,2025,Q4,12,Dec,Wednesday,False,CUST8578,Customer_154,48,False,45-54,Male,Kolkata,Laptop,Electronics,2,3455.06,6910.12,Low,False
+ORD100093,ORD100093,False,2025-04-28,2025,Q2,4,Apr,Monday,False,CUST6618,Customer_311,19,False,18-24,Male,Pune,Shoes,Fashion,8,28874.64,230997.12,Very High,False
+ORD100094,ORD100094,False,2025-11-07,2025,Q4,11,Nov,Friday,False,CUST4650,Customer_370,32,False,25-34,Male,Delhi,Shoes,Fashion,3,47917.49,143752.47,High,False
+ORD100095,ORD100095,False,2025-02-19,2025,Q1,2,Feb,Wednesday,False,CUST5091,Customer_375,47,False,45-54,Male,Bengaluru,Rice,Grocery,10,21399.51,213995.1,Very High,False
+ORD100096,ORD100096,False,2025-05-31,2025,Q2,5,May,Saturday,True,CUST2190,Customer_318,38,False,35-44,Male,Hyderabad,Rice,Grocery,5,15127.88,75639.4,Medium,False
+ORD100097,ORD100097,False,2025-11-12,2025,Q4,11,Nov,Wednesday,False,CUST7277,Customer_320,62,False,55-65,Female,Mumbai,Shoes,Fashion,7,41677.34,291741.38,Very High,False
+ORD100098,ORD100098,False,2025-01-22,2025,Q1,1,Jan,Wednesday,False,CUST8623,Customer_84,32,False,25-34,Male,Hyderabad,Mobile,Electronics,10,40745.55,407455.5,Very High,False
+ORD100099,ORD100099,False,2025-02-13,2025,Q1,2,Feb,Thursday,False,CUST5232,Customer_395,54,False,45-54,Male,Gaya,Mobile,Electronics,2,31217.12,62434.24,Medium,False
+ORD100100,ORD100100,False,2025-11-02,2025,Q4,11,Nov,Sunday,True,CUST7462,Customer_379,40,True,35-44,Male,Patna,Laptop,Electronics,5,553.62,2768.1,Low,False
+ORD100101,ORD100101,False,2025-10-05,2025,Q4,10,Oct,Sunday,True,CUST7588,Customer_67,47,False,45-54,Male,Pune,Rice,Grocery,4,6974.66,27898.64,Low,False
+ORD100102,ORD100102,False,2025-12-19,2025,Q4,12,Dec,Friday,False,CUST5005,Customer_176,20,False,18-24,Female,Kolkata,Book,Education,9,19437.88,174940.92,High,False
+ORD100103,ORD100103,False,2025-01-14,2025,Q1,1,Jan,Tuesday,False,CUST3210,Customer_15,43,False,35-44,Female,Mumbai,Laptop,Electronics,9,13617.93,122561.37,High,False
+ORD100104,ORD100104,False,2025-12-12,2025,Q4,12,Dec,Friday,False,CUST5926,Customer_308,54,False,45-54,Male,Gaya,Chair,Furniture,8,38897.58,311180.64,Very High,False
+ORD100105,ORD100105,False,2025-11-23,2025,Q4,11,Nov,Sunday,True,CUST3809,Customer_394,44,False,35-44,Female,Gaya,Book,Education,6,8547.07,51282.42,Medium,False
+ORD100106,ORD100106,False,2025-10-26,2025,Q4,10,Oct,Sunday,True,CUST2079,Customer_35,44,False,35-44,Male,Mumbai,Chair,Furniture,7,46263.01,323841.07,Very High,False
+ORD100107,ORD100107,False,2025-08-09,2025,Q3,8,Aug,Saturday,True,CUST4881,Customer_389,32,False,25-34,Male,Patna,Book,Education,2,2814.55,5629.1,Low,False
+ORD100108,ORD100108,False,2025-03-20,2025,Q1,3,Mar,Thursday,False,CUST6707,Customer_420,33,False,25-34,Male,Pune,Mobile,Electronics,8,41112.05,328896.4,Very High,False
+ORD100109,ORD100109,False,2025-09-18,2025,Q3,9,Sep,Thursday,False,CUST2796,Customer_471,29,False,25-34,Male,Patna,Book,Education,4,36826.88,147307.52,High,False
+ORD100110,ORD100110,False,2025-10-15,2025,Q4,10,Oct,Wednesday,False,CUST5524,Customer_154,44,False,35-44,Male,Hyderabad,Chair,Furniture,3,42806.52,128419.56,High,False
+ORD100111,ORD100111,False,2025-09-04,2025,Q3,9,Sep,Thursday,False,CUST9882,Customer_103,28,False,25-34,Female,Kolkata,Laptop,Electronics,6,5533.0,33198.0,Low,False
+ORD100112,ORD100112,False,2025-03-01,2025,Q1,3,Mar,Saturday,True,CUST3001,Customer_341,32,False,25-34,Male,Gaya,Laptop,Electronics,3,2638.97,7916.91,Low,False
+ORD100113,ORD100113,False,2025-01-17,2025,Q1,1,Jan,Friday,False,CUST5433,Customer_355,49,False,45-54,Male,Delhi,Book,Education,4,25002.72,100010.88,Medium,False
+ORD100114,ORD100114,False,2025-07-11,2025,Q3,7,Jul,Friday,False,CUST3794,Customer_315,35,False,35-44,Female,Hyderabad,Book,Education,10,10391.75,103917.5,Medium,False
+ORD100115,ORD100115,False,2025-09-09,2025,Q3,9,Sep,Tuesday,False,CUST2345,Customer_302,48,False,45-54,Male,Bengaluru,Book,Education,10,22437.16,224371.6,Very High,False
+ORD100116,ORD100116,False,2025-02-13,2025,Q1,2,Feb,Thursday,False,CUST8316,Customer_121,63,False,55-65,Female,Hyderabad,Laptop,Electronics,9,41053.56,369482.04,Very High,False
+ORD100117,ORD100117,False,2025-03-27,2025,Q1,3,Mar,Thursday,False,CUST9354,Customer_241,46,False,45-54,Female,Patna,Rice,Grocery,2,21391.19,42782.38,Low,False
+ORD100118,ORD100118,False,2025-09-18,2025,Q3,9,Sep,Thursday,False,CUST2871,Customer_8,33,False,25-34,Female,Delhi,Chair,Furniture,4,36875.19,147500.76,High,False
+ORD100119,ORD100119,False,2025-04-10,2025,Q2,4,Apr,Thursday,False,CUST7341,Customer_457,49,False,45-54,Female,Hyderabad,Mobile,Electronics,4,41640.74,166562.96,High,False
+ORD100120,ORD100050,True,2025-01-22,2025,Q1,1,Jan,Wednesday,False,CUST3194,Customer_114,34,False,25-34,Male,Kolkata,Book,Education,2,25795.55,51591.1,Medium,False
+ORD100121,ORD100121,False,2025-05-19,2025,Q2,5,May,Monday,False,CUST9563,Customer_166,24,False,18-24,Male,Gaya,Book,Education,8,4391.72,35133.76,Low,False
+ORD100122,ORD100122,False,2025-12-22,2025,Q4,12,Dec,Monday,False,CUST2286,Customer_298,39,False,35-44,Female,Patna,Laptop,Electronics,2,18152.14,36304.28,Low,False
+ORD100123,ORD100123,False,2025-11-20,2025,Q4,11,Nov,Thursday,False,CUST2423,Customer_376,23,False,18-24,Male,Hyderabad,Mobile,Electronics,7,16254.12,113778.84,High,False
+ORD100124,ORD100124,False,2025-07-08,2025,Q3,7,Jul,Tuesday,False,CUST2378,Customer_95,53,False,45-54,Male,Hyderabad,Shoes,Fashion,5,3805.27,19026.35,Low,False
+ORD100125,ORD100125,False,2025-01-14,2025,Q1,1,Jan,Tuesday,False,CUST6995,Customer_374,33,False,25-34,Male,Hyderabad,Book,Education,7,46489.41,325425.87,Very High,False
+ORD100126,ORD100126,False,2025-06-13,2025,Q2,6,Jun,Friday,False,CUST3677,Customer_459,34,False,25-34,Female,Patna,Shoes,Fashion,1,17041.21,17041.21,Low,False
+ORD100127,ORD100127,False,2025-01-14,2025,Q1,1,Jan,Tuesday,False,CUST6627,Customer_353,57,False,55-65,Male,Patna,Rice,Grocery,6,41494.43,248966.58,Very High,False
+ORD100128,ORD100128,False,2025-12-04,2025,Q4,12,Dec,Thursday,False,CUST6238,Customer_258,55,False,55-65,Male,Gaya,Rice,Grocery,10,25930.1,259301.0,Very High,False
+ORD100129,ORD100129,False,2025-03-04,2025,Q1,3,Mar,Tuesday,False,CUST8352,Customer_400,44,False,35-44,Male,Gaya,Laptop,Electronics,8,26281.83,210254.64,Very High,False
+ORD100130,ORD100130,False,2025-03-09,2025,Q1,3,Mar,Sunday,True,CUST2870,Customer_495,33,False,25-34,Male,Patna,Mobile,Electronics,8,21833.32,174666.56,High,False
+ORD100131,ORD100131,False,2025-11-29,2025,Q4,11,Nov,Saturday,True,CUST4751,Customer_260,20,False,18-24,Male,Patna,Rice,Grocery,6,40577.1,243462.6,Very High,False
+ORD100132,ORD100132,False,2025-01-17,2025,Q1,1,Jan,Friday,False,CUST7031,Customer_224,37,False,35-44,Female,Gaya,Shoes,Fashion,5,39039.96,195199.8,High,False
+ORD100133,ORD100133,False,2025-03-25,2025,Q1,3,Mar,Tuesday,False,CUST8366,Customer_355,65,False,55-65,Female,Bengaluru,Book,Education,10,29902.97,299029.7,Very High,False
+ORD100134,ORD100134,False,2025-02-10,2025,Q1,2,Feb,Monday,False,CUST2863,Customer_375,34,False,25-34,Female,Patna,Mobile,Electronics,7,18967.46,132772.22,High,False
+ORD100135,ORD100135,False,2025-03-10,2025,Q1,3,Mar,Monday,False,CUST8298,Customer_489,45,False,45-54,Female,Delhi,Mobile,Electronics,10,42943.17,429431.7,Very High,False
+ORD100136,ORD100136,False,2025-03-21,2025,Q1,3,Mar,Friday,False,CUST9577,Customer_302,46,False,45-54,Male,Mumbai,Laptop,Electronics,6,24216.91,145301.46,High,False
+ORD100137,ORD100137,False,2025-05-30,2025,Q2,5,May,Friday,False,CUST3054,Customer_96,28,False,25-34,Female,Mumbai,Chair,Furniture,9,7093.9,63845.1,Medium,False
+ORD100138,ORD100138,False,2025-11-27,2025,Q4,11,Nov,Thursday,False,CUST6791,Customer_430,22,False,18-24,Female,Pune,Chair,Furniture,5,29748.17,148740.85,High,False
+ORD100139,ORD100139,False,2025-09-18,2025,Q3,9,Sep,Thursday,False,CUST7062,Customer_92,52,False,45-54,Male,Bengaluru,Laptop,Electronics,8,22563.72,180509.76,High,False
+ORD100140,ORD100140,False,2025-04-04,2025,Q2,4,Apr,Friday,False,CUST6625,Customer_121,18,False,18-24,Male,Hyderabad,Mobile,Electronics,7,17321.68,121251.76,High,False
+ORD100141,ORD100141,False,2025-01-25,2025,Q1,1,Jan,Saturday,True,CUST4824,Customer_98,24,False,18-24,Male,Gaya,Laptop,Electronics,9,25138.42,226245.78,Very High,False
+ORD100142,ORD100142,False,2025-07-31,2025,Q3,7,Jul,Thursday,False,CUST1339,Customer_107,54,False,45-54,Male,Kolkata,Book,Education,6,33887.35,203324.1,High,False
+ORD100143,ORD100143,False,2025-03-05,2025,Q1,3,Mar,Wednesday,False,CUST1113,Customer_104,33,False,25-34,Female,Gaya,Shoes,Fashion,6,30177.21,181063.26,High,False
+ORD100144,ORD100144,False,2025-06-30,2025,Q2,6,Jun,Monday,False,CUST4034,Customer_271,32,False,25-34,Female,Kolkata,Mobile,Electronics,3,28572.4,85717.2,Medium,False
+ORD100145,ORD100145,False,2025-12-06,2025,Q4,12,Dec,Saturday,True,CUST6997,Customer_244,28,False,25-34,Male,Gaya,Mobile,Electronics,4,6898.4,27593.6,Low,False
+ORD100146,ORD100146,False,2025-03-12,2025,Q1,3,Mar,Wednesday,False,CUST2480,Customer_491,59,False,55-65,Female,Gaya,Shoes,Fashion,1,20740.93,20740.93,Low,False
+ORD100147,ORD100147,False,2025-06-08,2025,Q2,6,Jun,Sunday,True,CUST9450,Customer_230,18,False,18-24,Male,Bengaluru,Laptop,Electronics,3,37576.35,112729.05,High,False
+ORD100148,ORD100148,False,2025-07-07,2025,Q3,7,Jul,Monday,False,CUST8408,Customer_249,51,False,45-54,Female,Delhi,Mobile,Electronics,6,20416.04,122496.24,High,False
+ORD100149,ORD100149,False,2025-09-17,2025,Q3,9,Sep,Wednesday,False,CUST7178,Customer_478,64,False,55-65,Male,Bengaluru,Chair,Furniture,2,8092.78,16185.56,Low,False
+ORD100150,ORD100150,False,2025-04-01,2025,Q2,4,Apr,Tuesday,False,CUST4132,Customer_47,41,True,35-44,Female,Unknown,Chair,Furniture,4,1973.64,7894.56,Low,False
+ORD100151,ORD100151,False,2025-09-13,2025,Q3,9,Sep,Saturday,True,CUST4829,Customer_202,19,False,18-24,Female,Mumbai,Shoes,Fashion,8,41749.55,333996.4,Very High,False
+ORD100152,ORD100152,False,2025-02-08,2025,Q1,2,Feb,Saturday,True,CUST5188,Customer_286,53,False,45-54,Male,Gaya,Laptop,Electronics,9,48833.27,439499.43,Very High,True
+ORD100153,ORD100153,False,2025-06-26,2025,Q2,6,Jun,Thursday,False,CUST1928,Customer_17,30,False,25-34,Female,Mumbai,Mobile,Electronics,7,48642.53,340497.71,Very High,False
+ORD100154,ORD100154,False,2025-10-26,2025,Q4,10,Oct,Sunday,True,CUST3887,Customer_371,56,False,55-65,Female,Mumbai,Laptop,Electronics,4,42299.16,169196.64,High,False
+ORD100155,ORD100155,False,2025-03-18,2025,Q1,3,Mar,Tuesday,False,CUST5211,Customer_215,53,False,45-54,Female,Patna,Book,Education,5,38233.51,191167.55,High,False
+ORD100156,ORD100156,False,2025-07-22,2025,Q3,7,Jul,Tuesday,False,CUST2236,Customer_173,64,False,55-65,Male,Pune,Mobile,Electronics,4,6502.53,26010.12,Low,False
+ORD100157,ORD100157,False,2025-03-11,2025,Q1,3,Mar,Tuesday,False,CUST5375,Customer_265,60,False,55-65,Male,Bengaluru,Book,Education,2,18293.96,36587.92,Low,False
+ORD100158,ORD100158,False,2025-08-31,2025,Q3,8,Aug,Sunday,True,CUST4137,Customer_221,36,False,35-44,Male,Gaya,Mobile,Electronics,2,40810.01,81620.02,Medium,False
+ORD100159,ORD100159,False,2025-02-16,2025,Q1,2,Feb,Sunday,True,CUST5113,Customer_271,30,False,25-34,Female,Kolkata,Mobile,Electronics,7,28469.0,199283.0,High,False
+ORD100160,ORD100160,False,2025-09-20,2025,Q3,9,Sep,Saturday,True,CUST7263,Customer_120,55,False,55-65,Male,Hyderabad,Chair,Furniture,10,1085.13,10851.3,Low,False
+ORD100161,ORD100161,False,2025-10-22,2025,Q4,10,Oct,Wednesday,False,CUST2562,Customer_280,65,False,55-65,Male,Bengaluru,Rice,Grocery,3,145.78,437.34,Low,False
+ORD100162,ORD100162,False,2025-06-03,2025,Q2,6,Jun,Tuesday,False,CUST9297,Customer_488,27,False,25-34,Female,Kolkata,Mobile,Electronics,9,22636.01,203724.09,Very High,False
+ORD100163,ORD100163,False,2025-11-04,2025,Q4,11,Nov,Tuesday,False,CUST2295,Customer_319,57,False,55-65,Male,Mumbai,Book,Education,6,39830.65,238983.9,Very High,False
+ORD100164,ORD100164,False,2025-01-07,2025,Q1,1,Jan,Tuesday,False,CUST3839,Customer_274,61,False,55-65,Male,Bengaluru,Mobile,Electronics,10,41054.72,410547.2,Very High,False
+ORD100165,ORD100165,False,2026-01-01,2026,Q1,1,Jan,Thursday,False,CUST8010,Customer_187,41,False,35-44,Female,Hyderabad,Rice,Grocery,4,35300.11,141200.44,High,False
+ORD100166,ORD100166,False,2025-10-20,2025,Q4,10,Oct,Monday,False,CUST9008,Customer_279,54,False,45-54,Female,Hyderabad,Book,Education,5,25053.25,125266.25,High,False
+ORD100167,ORD100167,False,2025-09-04,2025,Q3,9,Sep,Thursday,False,CUST3714,Customer_295,37,False,35-44,Female,Patna,Rice,Grocery,7,23674.97,165724.79,High,False
+ORD100168,ORD100168,False,2025-03-03,2025,Q1,3,Mar,Monday,False,CUST5036,Customer_468,32,False,25-34,Male,Patna,Chair,Furniture,8,37436.26,299490.08,Very High,False
+ORD100169,ORD100169,False,2025-08-06,2025,Q3,8,Aug,Wednesday,False,CUST1479,Customer_375,35,False,35-44,Female,Bengaluru,Chair,Furniture,10,31730.57,317305.7,Very High,False
+ORD100170,ORD100170,False,2025-04-04,2025,Q2,4,Apr,Friday,False,CUST9875,Customer_6,49,False,45-54,Male,Bengaluru,Laptop,Electronics,4,30139.27,120557.08,High,False
+ORD100171,ORD100171,False,2025-01-20,2025,Q1,1,Jan,Monday,False,CUST3522,Customer_67,24,False,18-24,Male,Bengaluru,Chair,Furniture,3,10289.67,30869.01,Low,False
+ORD100172,ORD100172,False,2025-05-10,2025,Q2,5,May,Saturday,True,CUST4062,Customer_23,56,False,55-65,Female,Mumbai,Chair,Furniture,1,8906.18,8906.18,Low,False
+ORD100173,ORD100173,False,2025-01-26,2025,Q1,1,Jan,Sunday,True,CUST4009,Customer_273,18,False,18-24,Male,Hyderabad,Rice,Grocery,2,21856.64,43713.28,Low,False
+ORD100174,ORD100174,False,2025-04-08,2025,Q2,4,Apr,Tuesday,False,CUST4685,Customer_22,35,False,35-44,Male,Gaya,Rice,Grocery,9,26781.39,241032.51,Very High,False
+ORD100175,ORD100175,False,2025-06-07,2025,Q2,6,Jun,Saturday,True,CUST3564,Customer_267,41,False,35-44,Male,Patna,Rice,Grocery,9,49390.42,444513.78,Very High,True
+ORD100176,ORD100176,False,2025-01-11,2025,Q1,1,Jan,Saturday,True,CUST8722,Customer_475,21,False,18-24,Male,Mumbai,Laptop,Electronics,9,21792.76,196134.84,High,False
+ORD100177,ORD100177,False,2025-06-04,2025,Q2,6,Jun,Wednesday,False,CUST3602,Customer_295,54,False,45-54,Male,Pune,Mobile,Electronics,4,16850.46,67401.84,Medium,False
+ORD100178,ORD100178,False,2025-06-21,2025,Q2,6,Jun,Saturday,True,CUST9812,Customer_333,20,False,18-24,Female,Pune,Mobile,Electronics,2,14098.13,28196.26,Low,False
+ORD100179,ORD100179,False,2025-07-01,2025,Q3,7,Jul,Tuesday,False,CUST4747,Customer_193,44,False,35-44,Male,Gaya,Mobile,Electronics,3,34033.11,102099.33,Medium,False
+ORD100180,ORD100180,False,2025-03-05,2025,Q1,3,Mar,Wednesday,False,CUST1766,Customer_319,27,False,25-34,Male,Kolkata,Laptop,Electronics,5,1423.81,7119.05,Low,False
+ORD100181,ORD100181,False,2025-10-31,2025,Q4,10,Oct,Friday,False,CUST3366,Customer_363,55,False,55-65,Male,Delhi,Rice,Grocery,8,29735.57,237884.56,Very High,False
+ORD100182,ORD100182,False,2025-01-26,2025,Q1,1,Jan,Sunday,True,CUST1215,Customer_19,35,False,35-44,Male,Gaya,Chair,Furniture,7,1481.0,10367.0,Low,False
+ORD100183,ORD100183,False,2025-11-14,2025,Q4,11,Nov,Friday,False,CUST3508,Customer_163,60,False,55-65,Female,Pune,Laptop,Electronics,8,23129.36,185034.88,High,False
+ORD100184,ORD100184,False,2025-10-24,2025,Q4,10,Oct,Friday,False,CUST5988,Customer_266,43,False,35-44,Male,Kolkata,Chair,Furniture,2,44336.38,88672.76,Medium,False
+ORD100185,ORD100185,False,2025-01-15,2025,Q1,1,Jan,Wednesday,False,CUST3662,Customer_223,34,False,25-34,Female,Hyderabad,Laptop,Electronics,5,2983.97,14919.85,Low,False
+ORD100186,ORD100186,False,2025-03-08,2025,Q1,3,Mar,Saturday,True,CUST3397,Customer_101,44,False,35-44,Male,Gaya,Chair,Furniture,3,8820.55,26461.65,Low,False
+ORD100187,ORD100187,False,2025-05-13,2025,Q2,5,May,Tuesday,False,CUST4777,Customer_233,60,False,55-65,Female,Gaya,Laptop,Electronics,1,21001.73,21001.73,Low,False
+ORD100188,ORD100188,False,2025-04-27,2025,Q2,4,Apr,Sunday,True,CUST9059,Customer_288,33,False,25-34,Male,Delhi,Laptop,Electronics,9,16767.5,150907.5,High,False
+ORD100189,ORD100189,False,2025-06-26,2025,Q2,6,Jun,Thursday,False,CUST5600,Customer_176,27,False,25-34,Male,Bengaluru,Rice,Grocery,3,47959.38,143878.14,High,False
+ORD100190,ORD100190,False,2025-09-08,2025,Q3,9,Sep,Monday,False,CUST7574,Customer_66,43,False,35-44,Female,Delhi,Chair,Furniture,5,7642.84,38214.2,Low,False
+ORD100191,ORD100191,False,2025-11-27,2025,Q4,11,Nov,Thursday,False,CUST1436,Customer_144,60,False,55-65,Female,Delhi,Laptop,Electronics,10,1959.05,19590.5,Low,False
+ORD100192,ORD100192,False,2025-02-26,2025,Q1,2,Feb,Wednesday,False,CUST3625,Customer_382,55,False,55-65,Female,Kolkata,Mobile,Electronics,4,26460.39,105841.56,Medium,False
+ORD100193,ORD100193,False,2025-06-05,2025,Q2,6,Jun,Thursday,False,CUST5168,Customer_295,25,False,25-34,Male,Hyderabad,Laptop,Electronics,6,9132.85,54797.1,Medium,False
+ORD100194,ORD100194,False,2025-06-13,2025,Q2,6,Jun,Friday,False,CUST6821,Customer_73,24,False,18-24,Male,Pune,Book,Education,8,34260.45,274083.6,Very High,False
+ORD100195,ORD100195,False,2025-08-06,2025,Q3,8,Aug,Wednesday,False,CUST6228,Customer_466,41,False,35-44,Female,Pune,Book,Education,4,22321.8,89287.2,Medium,False
+ORD100196,ORD100196,False,2025-11-19,2025,Q4,11,Nov,Wednesday,False,CUST3002,Customer_57,61,False,55-65,Male,Mumbai,Book,Education,8,27492.16,219937.28,Very High,False
+ORD100197,ORD100197,False,2025-10-26,2025,Q4,10,Oct,Sunday,True,CUST3685,Customer_94,23,False,18-24,Female,Delhi,Chair,Furniture,1,35489.21,35489.21,Low,False
+ORD100198,ORD100198,False,2025-02-08,2025,Q1,2,Feb,Saturday,True,CUST3417,Customer_102,36,False,35-44,Male,Patna,Laptop,Electronics,8,31510.55,252084.4,Very High,False
+ORD100199,ORD100199,False,2025-01-04,2025,Q1,1,Jan,Saturday,True,CUST7187,Customer_149,38,False,35-44,Male,Patna,Mobile,Electronics,1,16633.85,16633.85,Low,False
+ORD100200,ORD100200,False,2025-02-24,2025,Q1,2,Feb,Monday,False,CUST2953,Customer_435,41,True,35-44,Female,Kolkata,Rice,Grocery,8,27608.55,220868.4,Very High,False
+ORD100201,ORD100201,False,2025-12-23,2025,Q4,12,Dec,Tuesday,False,CUST2779,Customer_336,44,False,35-44,Female,Patna,Rice,Grocery,7,25521.26,178648.82,High,False
+ORD100202,ORD100202,False,2025-02-26,2025,Q1,2,Feb,Wednesday,False,CUST6564,Customer_216,59,False,55-65,Female,Patna,Mobile,Electronics,4,35658.89,142635.56,High,False
+ORD100203,ORD100203,False,2025-03-10,2025,Q1,3,Mar,Monday,False,CUST4996,Customer_449,61,False,55-65,Female,Hyderabad,Laptop,Electronics,8,18088.02,144704.16,High,False
+ORD100204,ORD100204,False,2025-12-16,2025,Q4,12,Dec,Tuesday,False,CUST2428,Customer_127,52,False,45-54,Female,Mumbai,Book,Education,3,16041.29,48123.87,Medium,False
+ORD100205,ORD100205,False,2025-02-26,2025,Q1,2,Feb,Wednesday,False,CUST2448,Customer_444,59,False,55-65,Female,Kolkata,Chair,Furniture,9,16533.74,148803.66,High,False
+ORD100206,ORD100206,False,2025-03-09,2025,Q1,3,Mar,Sunday,True,CUST1049,Customer_243,55,False,55-65,Female,Hyderabad,Book,Education,1,16714.64,16714.64,Low,False
+ORD100207,ORD100207,False,2025-08-30,2025,Q3,8,Aug,Saturday,True,CUST9728,Customer_338,45,False,45-54,Male,Gaya,Rice,Grocery,4,46356.08,185424.32,High,False
+ORD100208,ORD100208,False,2025-02-25,2025,Q1,2,Feb,Tuesday,False,CUST6932,Customer_304,31,False,25-34,Male,Kolkata,Shoes,Fashion,8,2636.28,21090.24,Low,False
+ORD100209,ORD100209,False,2025-04-05,2025,Q2,4,Apr,Saturday,True,CUST9159,Customer_12,40,False,35-44,Female,Kolkata,Mobile,Electronics,6,34808.76,208852.56,Very High,False
+ORD100210,ORD100210,False,2025-08-25,2025,Q3,8,Aug,Monday,False,CUST6518,Customer_410,44,False,35-44,Female,Hyderabad,Shoes,Fashion,10,17713.87,177138.7,High,False
+ORD100211,ORD100211,False,2025-04-16,2025,Q2,4,Apr,Wednesday,False,CUST4756,Customer_15,55,False,55-65,Female,Bengaluru,Book,Education,3,4421.33,13263.99,Low,False
+ORD100212,ORD100212,False,2025-04-10,2025,Q2,4,Apr,Thursday,False,CUST7659,Customer_445,20,False,18-24,Male,Patna,Chair,Furniture,1,49067.82,49067.82,Medium,False
+ORD100213,ORD100213,False,2025-11-09,2025,Q4,11,Nov,Sunday,True,CUST6727,Customer_452,34,False,25-34,Female,Mumbai,Mobile,Electronics,6,18644.18,111865.08,High,False
+ORD100214,ORD100214,False,2025-08-25,2025,Q3,8,Aug,Monday,False,CUST8049,Customer_384,37,False,35-44,Female,Delhi,Laptop,Electronics,9,14462.81,130165.29,High,False
+ORD100215,ORD100215,False,2025-07-18,2025,Q3,7,Jul,Friday,False,CUST4705,Customer_53,43,False,35-44,Female,Hyderabad,Shoes,Fashion,1,29838.32,29838.32,Low,False
+ORD100216,ORD100216,False,2025-03-20,2025,Q1,3,Mar,Thursday,False,CUST5355,Customer_108,23,False,18-24,Male,Delhi,Rice,Grocery,5,9508.4,47542.0,Medium,False
+ORD100217,ORD100217,False,2025-03-23,2025,Q1,3,Mar,Sunday,True,CUST3186,Customer_412,60,False,55-65,Female,Delhi,Mobile,Electronics,4,39054.95,156219.8,High,False
+ORD100218,ORD100218,False,2025-10-07,2025,Q4,10,Oct,Tuesday,False,CUST1822,Customer_174,39,False,35-44,Male,Kolkata,Mobile,Electronics,6,20308.85,121853.1,High,False
+ORD100219,ORD100219,False,2025-01-13,2025,Q1,1,Jan,Monday,False,CUST9645,Customer_341,25,False,25-34,Female,Hyderabad,Rice,Grocery,4,15549.95,62199.8,Medium,False
+ORD100220,ORD100220,False,2025-09-14,2025,Q3,9,Sep,Sunday,True,CUST2997,Customer_181,23,False,18-24,Female,Hyderabad,Laptop,Electronics,1,34192.3,34192.3,Low,False
+ORD100221,ORD100221,False,2025-04-27,2025,Q2,4,Apr,Sunday,True,CUST2088,Customer_382,65,False,55-65,Female,Hyderabad,Book,Education,2,12214.1,24428.2,Low,False
+ORD100222,ORD100222,False,2025-07-13,2025,Q3,7,Jul,Sunday,True,CUST1711,Customer_36,20,False,18-24,Female,Bengaluru,Shoes,Fashion,10,49086.64,490866.4,Very High,True
+ORD100223,ORD100223,False,2025-01-10,2025,Q1,1,Jan,Friday,False,CUST9840,Customer_347,38,False,35-44,Female,Bengaluru,Mobile,Electronics,8,20404.62,163236.96,High,False
+ORD100224,ORD100224,False,2025-12-06,2025,Q4,12,Dec,Saturday,True,CUST7613,Customer_432,22,False,18-24,Male,Mumbai,Laptop,Electronics,8,49347.28,394778.24,Very High,False
+ORD100225,ORD100225,False,2025-12-07,2025,Q4,12,Dec,Sunday,True,CUST1443,Customer_315,37,False,35-44,Female,Unknown,Rice,Grocery,1,25336.7,25336.7,Low,False
+ORD100226,ORD100226,False,2025-02-08,2025,Q1,2,Feb,Saturday,True,CUST9319,Customer_434,54,False,45-54,Female,Pune,Rice,Grocery,5,7361.11,36805.55,Low,False
+ORD100227,ORD100227,False,2025-04-07,2025,Q2,4,Apr,Monday,False,CUST6773,Customer_200,22,False,18-24,Male,Hyderabad,Laptop,Electronics,4,33205.94,132823.76,High,False
+ORD100228,ORD100228,False,2025-06-19,2025,Q2,6,Jun,Thursday,False,CUST5214,Customer_142,63,False,55-65,Female,Patna,Chair,Furniture,4,21609.52,86438.08,Medium,False
+ORD100229,ORD100229,False,2025-07-08,2025,Q3,7,Jul,Tuesday,False,CUST3618,Customer_131,28,False,25-34,Male,Pune,Laptop,Electronics,10,33072.39,330723.9,Very High,False
+ORD100230,ORD100230,False,2025-11-01,2025,Q4,11,Nov,Saturday,True,CUST3668,Customer_415,63,False,55-65,Male,Patna,Mobile,Electronics,6,46679.69,280078.14,Very High,False
+ORD100231,ORD100231,False,2025-05-16,2025,Q2,5,May,Friday,False,CUST7315,Customer_283,45,False,45-54,Female,Mumbai,Book,Education,3,17931.34,53794.02,Medium,False
+ORD100232,ORD100232,False,2025-04-11,2025,Q2,4,Apr,Friday,False,CUST9158,Customer_297,61,False,55-65,Male,Gaya,Chair,Furniture,4,5518.32,22073.28,Low,False
+ORD100233,ORD100233,False,2025-06-21,2025,Q2,6,Jun,Saturday,True,CUST6522,Customer_468,61,False,55-65,Male,Mumbai,Book,Education,7,15331.09,107317.63,Medium,False
+ORD100234,ORD100234,False,2025-09-05,2025,Q3,9,Sep,Friday,False,CUST3760,Customer_360,63,False,55-65,Female,Bengaluru,Shoes,Fashion,1,41626.11,41626.11,Low,False
+ORD100235,ORD100235,False,2025-10-22,2025,Q4,10,Oct,Wednesday,False,CUST5079,Customer_348,41,False,35-44,Female,Bengaluru,Chair,Furniture,8,33479.62,267836.96,Very High,False
+ORD100236,ORD100236,False,2025-05-19,2025,Q2,5,May,Monday,False,CUST6082,Customer_301,62,False,55-65,Male,Mumbai,Laptop,Electronics,9,44135.66,397220.94,Very High,False
+ORD100237,ORD100237,False,2025-06-25,2025,Q2,6,Jun,Wednesday,False,CUST8311,Customer_225,32,False,25-34,Male,Bengaluru,Mobile,Electronics,10,4504.89,45048.9,Low,False
+ORD100238,ORD100238,False,2025-02-04,2025,Q1,2,Feb,Tuesday,False,CUST5945,Customer_49,40,False,35-44,Female,Kolkata,Shoes,Fashion,7,28710.98,200976.86,High,False
+ORD100239,ORD100239,False,2025-02-23,2025,Q1,2,Feb,Sunday,True,CUST9191,Customer_323,38,False,35-44,Male,Hyderabad,Book,Education,6,25562.3,153373.8,High,False
+ORD100240,ORD100050,True,2025-03-01,2025,Q1,3,Mar,Saturday,True,CUST8467,Customer_104,23,False,18-24,Male,Bengaluru,Book,Education,3,2860.83,8582.49,Low,False
+ORD100241,ORD100241,False,2025-02-12,2025,Q1,2,Feb,Wednesday,False,CUST1197,Customer_419,36,False,35-44,Male,Pune,Book,Education,4,1486.03,5944.12,Low,False
+ORD100242,ORD100242,False,2025-12-22,2025,Q4,12,Dec,Monday,False,CUST6111,Customer_204,34,False,25-34,Female,Hyderabad,Laptop,Electronics,8,4159.17,33273.36,Low,False
+ORD100243,ORD100243,False,2025-05-04,2025,Q2,5,May,Sunday,True,CUST1367,Customer_48,21,False,18-24,Female,Bengaluru,Book,Education,7,6218.47,43529.29,Low,False
+ORD100244,ORD100244,False,2025-03-27,2025,Q1,3,Mar,Thursday,False,CUST6584,Customer_449,21,False,18-24,Male,Mumbai,Mobile,Electronics,10,29646.26,296462.6,Very High,False
+ORD100245,ORD100245,False,2025-09-21,2025,Q3,9,Sep,Sunday,True,CUST2862,Customer_122,25,False,25-34,Male,Bengaluru,Rice,Grocery,7,10674.88,74724.16,Medium,False
+ORD100246,ORD100246,False,2025-05-31,2025,Q2,5,May,Saturday,True,CUST4094,Customer_382,51,False,45-54,Male,Hyderabad,Rice,Grocery,4,44577.29,178309.16,High,False
+ORD100247,ORD100247,False,2025-09-17,2025,Q3,9,Sep,Wednesday,False,CUST5129,Customer_404,54,False,45-54,Male,Bengaluru,Book,Education,6,36587.03,219522.18,Very High,False
+ORD100248,ORD100248,False,2025-02-09,2025,Q1,2,Feb,Sunday,True,CUST4629,Customer_167,40,False,35-44,Female,Patna,Mobile,Electronics,3,25277.79,75833.37,Medium,False
+ORD100249,ORD100249,False,2025-01-23,2025,Q1,1,Jan,Thursday,False,CUST5454,Customer_368,19,False,18-24,Female,Hyderabad,Chair,Furniture,10,30855.5,308555.0,Very High,False
+ORD100250,ORD100250,False,2025-12-20,2025,Q4,12,Dec,Saturday,True,CUST3169,Customer_138,41,True,35-44,Female,Delhi,Mobile,Electronics,7,19829.73,138808.11,High,False
+ORD100251,ORD100251,False,2025-04-02,2025,Q2,4,Apr,Wednesday,False,CUST9047,Customer_363,42,False,35-44,Male,Patna,Laptop,Electronics,7,46461.17,325228.19,Very High,False
+ORD100252,ORD100252,False,2025-08-28,2025,Q3,8,Aug,Thursday,False,CUST9097,Customer_384,26,False,25-34,Male,Hyderabad,Book,Education,2,32168.36,64336.72,Medium,False
+ORD100253,ORD100253,False,2025-04-16,2025,Q2,4,Apr,Wednesday,False,CUST2006,Customer_131,50,False,45-54,Male,Kolkata,Book,Education,2,1655.36,3310.72,Low,False
+ORD100254,ORD100254,False,2025-08-17,2025,Q3,8,Aug,Sunday,True,CUST5418,Customer_491,41,False,35-44,Female,Kolkata,Book,Education,4,44463.18,177852.72,High,False
+ORD100255,ORD100255,False,2025-05-02,2025,Q2,5,May,Friday,False,CUST8067,Customer_283,47,False,45-54,Female,Patna,Chair,Furniture,6,43576.14,261456.84,Very High,False
+ORD100256,ORD100256,False,2025-05-03,2025,Q2,5,May,Saturday,True,CUST3080,Customer_378,41,False,35-44,Female,Pune,Chair,Furniture,1,43789.89,43789.89,Low,False
+ORD100257,ORD100257,False,2025-12-15,2025,Q4,12,Dec,Monday,False,CUST6728,Customer_413,64,False,55-65,Male,Bengaluru,Mobile,Electronics,1,34757.71,34757.71,Low,False
+ORD100258,ORD100258,False,2025-09-10,2025,Q3,9,Sep,Wednesday,False,CUST7801,Customer_150,41,False,35-44,Male,Pune,Chair,Furniture,7,6196.22,43373.54,Low,False
+ORD100259,ORD100259,False,2025-06-18,2025,Q2,6,Jun,Wednesday,False,CUST4686,Customer_473,27,False,25-34,Male,Pune,Rice,Grocery,8,36364.84,290918.72,Very High,False
+ORD100260,ORD100260,False,2025-01-20,2025,Q1,1,Jan,Monday,False,CUST6345,Customer_420,32,False,25-34,Male,Hyderabad,Chair,Furniture,3,15948.34,47845.02,Medium,False
+ORD100261,ORD100261,False,2025-07-09,2025,Q3,7,Jul,Wednesday,False,CUST6927,Customer_165,23,False,18-24,Male,Gaya,Chair,Furniture,5,17292.4,86462.0,Medium,False
+ORD100262,ORD100262,False,2025-10-28,2025,Q4,10,Oct,Tuesday,False,CUST8686,Customer_404,56,False,55-65,Female,Patna,Chair,Furniture,6,29255.02,175530.12,High,False
+ORD100263,ORD100263,False,2025-06-22,2025,Q2,6,Jun,Sunday,True,CUST6585,Customer_214,21,False,18-24,Male,Hyderabad,Rice,Grocery,4,25906.46,103625.84,Medium,False
+ORD100264,ORD100264,False,2025-04-18,2025,Q2,4,Apr,Friday,False,CUST7176,Customer_434,33,False,25-34,Male,Bengaluru,Chair,Furniture,9,6110.1,54990.9,Medium,False
+ORD100265,ORD100265,False,2025-05-04,2025,Q2,5,May,Sunday,True,CUST9233,Customer_485,35,False,35-44,Male,Hyderabad,Chair,Furniture,10,36331.75,363317.5,Very High,False
+ORD100266,ORD100266,False,2025-11-26,2025,Q4,11,Nov,Wednesday,False,CUST7501,Customer_2,40,False,35-44,Female,Gaya,Rice,Grocery,8,6459.95,51679.6,Medium,False
+ORD100267,ORD100267,False,2025-05-06,2025,Q2,5,May,Tuesday,False,CUST7082,Customer_492,21,False,18-24,Female,Bengaluru,Book,Education,4,25164.5,100658.0,Medium,False
+ORD100268,ORD100268,False,2025-04-04,2025,Q2,4,Apr,Friday,False,CUST2463,Customer_390,25,False,25-34,Male,Bengaluru,Laptop,Electronics,5,49665.71,248328.55,Very High,False
+ORD100269,ORD100269,False,2025-08-01,2025,Q3,8,Aug,Friday,False,CUST1662,Customer_365,31,False,25-34,Female,Pune,Book,Education,7,13789.53,96526.71,Medium,False
+ORD100270,ORD100270,False,2025-10-25,2025,Q4,10,Oct,Saturday,True,CUST7413,Customer_4,54,False,45-54,Male,Kolkata,Laptop,Electronics,5,16404.25,82021.25,Medium,False
+ORD100271,ORD100271,False,2025-12-26,2025,Q4,12,Dec,Friday,False,CUST1994,Customer_390,48,False,45-54,Male,Pune,Book,Education,3,32373.88,97121.64,Medium,False
+ORD100272,ORD100272,False,2025-08-03,2025,Q3,8,Aug,Sunday,True,CUST6173,Customer_51,22,False,18-24,Male,Pune,Mobile,Electronics,7,21466.96,150268.72,High,False
+ORD100273,ORD100273,False,2025-01-10,2025,Q1,1,Jan,Friday,False,CUST7374,Customer_375,62,False,55-65,Female,Patna,Book,Education,5,47201.84,236009.2,Very High,False
+ORD100274,ORD100274,False,2025-09-11,2025,Q3,9,Sep,Thursday,False,CUST4737,Customer_367,22,False,18-24,Female,Patna,Book,Education,5,36171.66,180858.3,High,False
+ORD100275,ORD100275,False,2025-06-07,2025,Q2,6,Jun,Saturday,True,CUST3689,Customer_335,34,False,25-34,Female,Patna,Laptop,Electronics,8,47311.77,378494.16,Very High,False
+ORD100276,ORD100276,False,2025-09-06,2025,Q3,9,Sep,Saturday,True,CUST6444,Customer_251,23,False,18-24,Female,Mumbai,Book,Education,9,28865.26,259787.34,Very High,False
+ORD100277,ORD100277,False,2025-09-13,2025,Q3,9,Sep,Saturday,True,CUST2152,Customer_99,63,False,55-65,Female,Bengaluru,Mobile,Electronics,2,48433.7,96867.4,Medium,False
+ORD100278,ORD100278,False,2025-09-14,2025,Q3,9,Sep,Sunday,True,CUST1636,Customer_243,63,False,55-65,Female,Patna,Chair,Furniture,7,7528.42,52698.94,Medium,False
+ORD100279,ORD100279,False,2025-09-30,2025,Q3,9,Sep,Tuesday,False,CUST3341,Customer_263,54,False,45-54,Male,Gaya,Mobile,Electronics,4,46629.93,186519.72,High,False
+ORD100280,ORD100280,False,2025-08-19,2025,Q3,8,Aug,Tuesday,False,CUST1463,Customer_397,21,False,18-24,Female,Bengaluru,Shoes,Fashion,3,32403.32,97209.96,Medium,False
+ORD100281,ORD100281,False,2025-12-26,2025,Q4,12,Dec,Friday,False,CUST3877,Customer_133,18,False,18-24,Male,Delhi,Mobile,Electronics,6,14220.63,85323.78,Medium,False
+ORD100282,ORD100282,False,2025-12-28,2025,Q4,12,Dec,Sunday,True,CUST6407,Customer_157,26,False,25-34,Female,Delhi,Laptop,Electronics,6,5810.2,34861.2,Low,False
+ORD100283,ORD100283,False,2025-01-09,2025,Q1,1,Jan,Thursday,False,CUST4381,Customer_324,39,False,35-44,Female,Kolkata,Laptop,Electronics,6,22627.46,135764.76,High,False
+ORD100284,ORD100284,False,2025-05-09,2025,Q2,5,May,Friday,False,CUST5097,Customer_302,65,False,55-65,Female,Mumbai,Mobile,Electronics,9,20619.08,185571.72,High,False
+ORD100285,ORD100285,False,2025-10-17,2025,Q4,10,Oct,Friday,False,CUST9910,Customer_110,18,False,18-24,Male,Hyderabad,Shoes,Fashion,2,45034.12,90068.24,Medium,False
+ORD100286,ORD100286,False,2025-10-23,2025,Q4,10,Oct,Thursday,False,CUST7806,Customer_4,64,False,55-65,Female,Hyderabad,Rice,Grocery,2,40768.5,81537.0,Medium,False
+ORD100287,ORD100287,False,2025-01-11,2025,Q1,1,Jan,Saturday,True,CUST8105,Customer_385,52,False,45-54,Male,Delhi,Mobile,Electronics,3,35888.63,107665.89,Medium,False
+ORD100288,ORD100288,False,2025-11-04,2025,Q4,11,Nov,Tuesday,False,CUST6002,Customer_83,46,False,45-54,Male,Delhi,Laptop,Electronics,9,23875.09,214875.81,Very High,False
+ORD100289,ORD100289,False,2025-11-07,2025,Q4,11,Nov,Friday,False,CUST1334,Customer_364,31,False,25-34,Male,Kolkata,Shoes,Fashion,2,17100.29,34200.58,Low,False
+ORD100290,ORD100290,False,2025-04-06,2025,Q2,4,Apr,Sunday,True,CUST9248,Customer_451,51,False,45-54,Male,Mumbai,Chair,Furniture,7,15202.84,106419.88,Medium,False
+ORD100291,ORD100291,False,2025-08-31,2025,Q3,8,Aug,Sunday,True,CUST7152,Customer_423,22,False,18-24,Female,Patna,Mobile,Electronics,6,17696.96,106181.76,Medium,False
+ORD100292,ORD100292,False,2025-02-20,2025,Q1,2,Feb,Thursday,False,CUST8650,Customer_384,23,False,18-24,Male,Gaya,Rice,Grocery,6,13138.1,78828.6,Medium,False
+ORD100293,ORD100293,False,2025-04-16,2025,Q2,4,Apr,Wednesday,False,CUST9284,Customer_212,44,False,35-44,Female,Kolkata,Book,Education,5,3842.06,19210.3,Low,False
+ORD100294,ORD100294,False,2025-03-02,2025,Q1,3,Mar,Sunday,True,CUST4169,Customer_307,41,False,35-44,Female,Hyderabad,Rice,Grocery,4,6495.5,25982.0,Low,False
+ORD100295,ORD100295,False,2025-05-04,2025,Q2,5,May,Sunday,True,CUST3464,Customer_1,18,False,18-24,Female,Bengaluru,Book,Education,4,43207.48,172829.92,High,False
+ORD100296,ORD100296,False,2025-07-04,2025,Q3,7,Jul,Friday,False,CUST8294,Customer_103,30,False,25-34,Female,Hyderabad,Book,Education,4,49876.67,199506.68,High,False
+ORD100297,ORD100297,False,2025-11-18,2025,Q4,11,Nov,Tuesday,False,CUST4845,Customer_401,18,False,18-24,Male,Mumbai,Chair,Furniture,1,2599.12,2599.12,Low,False
+ORD100298,ORD100298,False,2025-07-28,2025,Q3,7,Jul,Monday,False,CUST6538,Customer_365,37,False,35-44,Female,Pune,Mobile,Electronics,4,6652.95,26611.8,Low,False
+ORD100299,ORD100299,False,2025-03-25,2025,Q1,3,Mar,Tuesday,False,CUST6028,Customer_58,39,False,35-44,Male,Delhi,Laptop,Electronics,4,20533.23,82132.92,Medium,False
+ORD100300,ORD100300,False,2025-07-01,2025,Q3,7,Jul,Tuesday,False,CUST7944,Customer_282,40,True,35-44,Male,Unknown,Chair,Furniture,6,28595.31,171571.86,High,False
+ORD100301,ORD100301,False,2025-09-12,2025,Q3,9,Sep,Friday,False,CUST5406,Customer_164,30,False,25-34,Male,Kolkata,Mobile,Electronics,5,9509.13,47545.65,Medium,False
+ORD100302,ORD100302,False,2025-08-09,2025,Q3,8,Aug,Saturday,True,CUST9552,Customer_340,30,False,25-34,Male,Patna,Chair,Furniture,7,1106.55,7745.85,Low,False
+ORD100303,ORD100303,False,2025-03-27,2025,Q1,3,Mar,Thursday,False,CUST3059,Customer_104,36,False,35-44,Male,Patna,Shoes,Fashion,6,39075.07,234450.42,Very High,False
+ORD100304,ORD100304,False,2025-07-06,2025,Q3,7,Jul,Sunday,True,CUST1183,Customer_189,20,False,18-24,Female,Gaya,Chair,Furniture,7,7046.4,49324.8,Medium,False
+ORD100305,ORD100305,False,2025-08-27,2025,Q3,8,Aug,Wednesday,False,CUST1088,Customer_1,40,False,35-44,Male,Patna,Shoes,Fashion,5,40763.95,203819.75,Very High,False
+ORD100306,ORD100306,False,2025-08-02,2025,Q3,8,Aug,Saturday,True,CUST8195,Customer_388,52,False,45-54,Female,Patna,Shoes,Fashion,1,3727.43,3727.43,Low,False
+ORD100307,ORD100307,False,2026-01-01,2026,Q1,1,Jan,Thursday,False,CUST1231,Customer_339,53,False,45-54,Male,Patna,Rice,Grocery,4,46771.94,187087.76,High,False
+ORD100308,ORD100308,False,2025-12-12,2025,Q4,12,Dec,Friday,False,CUST6206,Customer_18,50,False,45-54,Male,Kolkata,Book,Education,7,43207.91,302455.37,Very High,False
+ORD100309,ORD100309,False,2025-03-23,2025,Q1,3,Mar,Sunday,True,CUST7625,Customer_251,50,False,45-54,Female,Patna,Book,Education,3,5803.11,17409.33,Low,False
+ORD100310,ORD100310,False,2025-07-29,2025,Q3,7,Jul,Tuesday,False,CUST1762,Customer_141,27,False,25-34,Male,Delhi,Book,Education,4,30974.95,123899.8,High,False
+ORD100311,ORD100311,False,2025-09-08,2025,Q3,9,Sep,Monday,False,CUST1743,Customer_222,56,False,55-65,Male,Hyderabad,Shoes,Fashion,4,40276.76,161107.04,High,False
+ORD100312,ORD100312,False,2025-11-12,2025,Q4,11,Nov,Wednesday,False,CUST9788,Customer_229,64,False,55-65,Male,Hyderabad,Mobile,Electronics,8,17270.72,138165.76,High,False
+ORD100313,ORD100313,False,2025-10-23,2025,Q4,10,Oct,Thursday,False,CUST2687,Customer_190,64,False,55-65,Female,Hyderabad,Book,Education,6,8249.36,49496.16,Medium,False
+ORD100314,ORD100314,False,2025-07-22,2025,Q3,7,Jul,Tuesday,False,CUST3094,Customer_47,49,False,45-54,Female,Bengaluru,Mobile,Electronics,8,42935.06,343480.48,Very High,False
+ORD100315,ORD100315,False,2025-06-08,2025,Q2,6,Jun,Sunday,True,CUST7059,Customer_224,51,False,45-54,Female,Delhi,Laptop,Electronics,8,1722.06,13776.48,Low,False
+ORD100316,ORD100316,False,2025-04-21,2025,Q2,4,Apr,Monday,False,CUST8229,Customer_161,32,False,25-34,Male,Pune,Mobile,Electronics,5,25857.91,129289.55,High,False
+ORD100317,ORD100317,False,2025-02-25,2025,Q1,2,Feb,Tuesday,False,CUST9307,Customer_274,37,False,35-44,Female,Hyderabad,Book,Education,4,47319.13,189276.52,High,False
+ORD100318,ORD100318,False,2025-01-30,2025,Q1,1,Jan,Thursday,False,CUST2457,Customer_462,51,False,45-54,Male,Kolkata,Mobile,Electronics,2,21816.67,43633.34,Low,False
+ORD100319,ORD100319,False,2025-06-08,2025,Q2,6,Jun,Sunday,True,CUST5057,Customer_158,52,False,45-54,Female,Patna,Shoes,Fashion,3,10075.98,30227.94,Low,False
+ORD100320,ORD100320,False,2025-05-07,2025,Q2,5,May,Wednesday,False,CUST1516,Customer_148,52,False,45-54,Male,Mumbai,Laptop,Electronics,9,22182.44,199641.96,High,False
+ORD100321,ORD100321,False,2025-06-22,2025,Q2,6,Jun,Sunday,True,CUST4527,Customer_359,54,False,45-54,Male,Mumbai,Book,Education,6,35006.3,210037.8,Very High,False
+ORD100322,ORD100322,False,2025-08-15,2025,Q3,8,Aug,Friday,False,CUST2650,Customer_276,56,False,55-65,Female,Kolkata,Chair,Furniture,10,16222.64,162226.4,High,False
+ORD100323,ORD100323,False,2025-09-20,2025,Q3,9,Sep,Saturday,True,CUST1932,Customer_369,35,False,35-44,Male,Delhi,Mobile,Electronics,4,1935.28,7741.12,Low,False
+ORD100324,ORD100324,False,2025-07-20,2025,Q3,7,Jul,Sunday,True,CUST2094,Customer_165,54,False,45-54,Female,Hyderabad,Book,Education,4,28385.87,113543.48,High,False
+ORD100325,ORD100325,False,2025-08-26,2025,Q3,8,Aug,Tuesday,False,CUST7196,Customer_286,40,False,35-44,Male,Delhi,Chair,Furniture,8,33388.11,267104.88,Very High,False
+ORD100326,ORD100326,False,2025-05-27,2025,Q2,5,May,Tuesday,False,CUST2537,Customer_32,30,False,25-34,Female,Bengaluru,Mobile,Electronics,1,1005.21,1005.21,Low,False
+ORD100327,ORD100327,False,2025-03-30,2025,Q1,3,Mar,Sunday,True,CUST9627,Customer_444,47,False,45-54,Male,Gaya,Rice,Grocery,5,27900.36,139501.8,High,False
+ORD100328,ORD100328,False,2025-05-06,2025,Q2,5,May,Tuesday,False,CUST3044,Customer_27,65,False,55-65,Female,Bengaluru,Rice,Grocery,10,31855.44,318554.4,Very High,False
+ORD100329,ORD100329,False,2025-04-12,2025,Q2,4,Apr,Saturday,True,CUST9693,Customer_343,48,False,45-54,Male,Patna,Book,Education,9,45988.02,413892.18,Very High,False
+ORD100330,ORD100330,False,2025-10-14,2025,Q4,10,Oct,Tuesday,False,CUST5621,Customer_427,62,False,55-65,Female,Delhi,Shoes,Fashion,7,19261.81,134832.67,High,False
+ORD100331,ORD100331,False,2025-04-28,2025,Q2,4,Apr,Monday,False,CUST6067,Customer_316,55,False,55-65,Male,Patna,Laptop,Electronics,8,22233.15,177865.2,High,False
+ORD100332,ORD100332,False,2025-02-03,2025,Q1,2,Feb,Monday,False,CUST9465,Customer_470,44,False,35-44,Male,Kolkata,Shoes,Fashion,4,2247.11,8988.44,Low,False
+ORD100333,ORD100333,False,2025-07-23,2025,Q3,7,Jul,Wednesday,False,CUST3773,Customer_336,41,False,35-44,Female,Pune,Chair,Furniture,6,27965.93,167795.58,High,False
+ORD100334,ORD100334,False,2025-01-29,2025,Q1,1,Jan,Wednesday,False,CUST5933,Customer_92,29,False,25-34,Male,Mumbai,Chair,Furniture,5,13013.63,65068.15,Medium,False
+ORD100335,ORD100335,False,2025-10-16,2025,Q4,10,Oct,Thursday,False,CUST8904,Customer_152,28,False,25-34,Female,Kolkata,Rice,Grocery,2,31943.19,63886.38,Medium,False
+ORD100336,ORD100336,False,2025-02-24,2025,Q1,2,Feb,Monday,False,CUST2599,Customer_390,35,False,35-44,Male,Mumbai,Laptop,Electronics,5,26823.14,134115.7,High,False
+ORD100337,ORD100337,False,2025-12-05,2025,Q4,12,Dec,Friday,False,CUST5249,Customer_236,57,False,55-65,Male,Pune,Shoes,Fashion,10,11637.38,116373.8,High,False
+ORD100338,ORD100338,False,2025-09-21,2025,Q3,9,Sep,Sunday,True,CUST9849,Customer_264,53,False,45-54,Female,Delhi,Chair,Furniture,5,38518.95,192594.75,High,False
+ORD100339,ORD100339,False,2025-03-02,2025,Q1,3,Mar,Sunday,True,CUST3891,Customer_453,65,False,55-65,Male,Mumbai,Laptop,Electronics,6,25123.86,150743.16,High,False
+ORD100340,ORD100340,False,2025-10-28,2025,Q4,10,Oct,Tuesday,False,CUST8154,Customer_224,47,False,45-54,Female,Pune,Mobile,Electronics,9,47289.86,425608.74,Very High,False
+ORD100341,ORD100341,False,2025-02-13,2025,Q1,2,Feb,Thursday,False,CUST1614,Customer_267,52,False,45-54,Female,Bengaluru,Book,Education,4,18655.09,74620.36,Medium,False
+ORD100342,ORD100342,False,2025-01-28,2025,Q1,1,Jan,Tuesday,False,CUST9557,Customer_475,47,False,45-54,Male,Mumbai,Book,Education,3,45718.65,137155.95,High,False
+ORD100343,ORD100343,False,2025-10-29,2025,Q4,10,Oct,Wednesday,False,CUST9253,Customer_371,50,False,45-54,Female,Pune,Rice,Grocery,10,21580.33,215803.3,Very High,False
+ORD100344,ORD100344,False,2025-12-18,2025,Q4,12,Dec,Thursday,False,CUST2794,Customer_98,31,False,25-34,Female,Patna,Shoes,Fashion,5,10932.32,54661.6,Medium,False
+ORD100345,ORD100345,False,2025-05-01,2025,Q2,5,May,Thursday,False,CUST1463,Customer_257,56,False,55-65,Female,Gaya,Mobile,Electronics,6,12740.73,76444.38,Medium,False
+ORD100346,ORD100346,False,2025-02-09,2025,Q1,2,Feb,Sunday,True,CUST2051,Customer_103,31,False,25-34,Male,Bengaluru,Rice,Grocery,9,12137.54,109237.86,High,False
+ORD100347,ORD100347,False,2025-02-16,2025,Q1,2,Feb,Sunday,True,CUST1577,Customer_59,37,False,35-44,Male,Delhi,Shoes,Fashion,1,36943.51,36943.51,Low,False
+ORD100348,ORD100348,False,2025-07-16,2025,Q3,7,Jul,Wednesday,False,CUST7654,Customer_172,42,False,35-44,Male,Delhi,Rice,Grocery,2,33566.2,67132.4,Medium,False
+ORD100349,ORD100349,False,2025-03-27,2025,Q1,3,Mar,Thursday,False,CUST9304,Customer_216,38,False,35-44,Female,Bengaluru,Shoes,Fashion,2,32332.27,64664.54,Medium,False
+ORD100350,ORD100350,False,2025-07-11,2025,Q3,7,Jul,Friday,False,CUST9709,Customer_409,40,True,35-44,Male,Pune,Laptop,Electronics,8,47254.7,378037.6,Very High,False
+ORD100351,ORD100351,False,2025-03-26,2025,Q1,3,Mar,Wednesday,False,CUST6828,Customer_222,50,False,45-54,Male,Bengaluru,Chair,Furniture,3,42538.14,127614.42,High,False
+ORD100352,ORD100352,False,2025-02-24,2025,Q1,2,Feb,Monday,False,CUST1170,Customer_67,37,False,35-44,Male,Mumbai,Mobile,Electronics,4,25840.34,103361.36,Medium,False
+ORD100353,ORD100353,False,2025-02-13,2025,Q1,2,Feb,Thursday,False,CUST3075,Customer_249,55,False,55-65,Male,Bengaluru,Laptop,Electronics,1,8162.84,8162.84,Low,False
+ORD100354,ORD100354,False,2025-11-08,2025,Q4,11,Nov,Saturday,True,CUST7104,Customer_498,34,False,25-34,Male,Mumbai,Chair,Furniture,5,49012.25,245061.25,Very High,False
+ORD100355,ORD100355,False,2025-10-20,2025,Q4,10,Oct,Monday,False,CUST3265,Customer_256,29,False,25-34,Male,Gaya,Rice,Grocery,5,19538.67,97693.35,Medium,False
+ORD100356,ORD100356,False,2025-08-17,2025,Q3,8,Aug,Sunday,True,CUST4601,Customer_82,55,False,55-65,Female,Hyderabad,Book,Education,1,5053.68,5053.68,Low,False
+ORD100357,ORD100357,False,2025-07-15,2025,Q3,7,Jul,Tuesday,False,CUST5743,Customer_248,28,False,25-34,Male,Gaya,Laptop,Electronics,6,14400.18,86401.08,Medium,False
+ORD100358,ORD100358,False,2025-08-11,2025,Q3,8,Aug,Monday,False,CUST8871,Customer_345,43,False,35-44,Female,Kolkata,Chair,Furniture,4,28464.26,113857.04,High,False
+ORD100359,ORD100359,False,2025-01-26,2025,Q1,1,Jan,Sunday,True,CUST3763,Customer_221,32,False,25-34,Female,Delhi,Shoes,Fashion,5,40682.5,203412.5,High,False
+ORD100360,ORD100050,True,2025-02-11,2025,Q1,2,Feb,Tuesday,False,CUST6467,Customer_181,24,False,18-24,Female,Pune,Rice,Grocery,7,45480.39,318362.73,Very High,False
+ORD100361,ORD100361,False,2025-04-26,2025,Q2,4,Apr,Saturday,True,CUST7309,Customer_266,52,False,45-54,Female,Delhi,Book,Education,6,42742.96,256457.76,Very High,False
+ORD100362,ORD100362,False,2025-10-01,2025,Q4,10,Oct,Wednesday,False,CUST3281,Customer_243,64,False,55-65,Female,Pune,Laptop,Electronics,10,19010.69,190106.9,High,False
+ORD100363,ORD100363,False,2025-04-30,2025,Q2,4,Apr,Wednesday,False,CUST9724,Customer_220,35,False,35-44,Male,Pune,Laptop,Electronics,5,31244.32,156221.6,High,False
+ORD100364,ORD100364,False,2025-11-16,2025,Q4,11,Nov,Sunday,True,CUST5468,Customer_463,32,False,25-34,Male,Bengaluru,Laptop,Electronics,7,42733.08,299131.56,Very High,False
+ORD100365,ORD100365,False,2025-12-30,2025,Q4,12,Dec,Tuesday,False,CUST7621,Customer_375,61,False,55-65,Female,Gaya,Shoes,Fashion,1,44751.42,44751.42,Low,False
+ORD100366,ORD100366,False,2025-03-13,2025,Q1,3,Mar,Thursday,False,CUST9551,Customer_230,18,False,18-24,Male,Bengaluru,Mobile,Electronics,10,47493.59,474935.9,Very High,True
+ORD100367,ORD100367,False,2025-09-07,2025,Q3,9,Sep,Sunday,True,CUST3023,Customer_223,43,False,35-44,Female,Gaya,Shoes,Fashion,8,46122.45,368979.6,Very High,False
+ORD100368,ORD100368,False,2025-06-06,2025,Q2,6,Jun,Friday,False,CUST5318,Customer_376,61,False,55-65,Male,Bengaluru,Shoes,Fashion,3,31028.12,93084.36,Medium,False
+ORD100369,ORD100369,False,2025-06-12,2025,Q2,6,Jun,Thursday,False,CUST9900,Customer_496,26,False,25-34,Male,Bengaluru,Shoes,Fashion,2,48986.48,97972.96,Medium,False
+ORD100370,ORD100370,False,2025-01-26,2025,Q1,1,Jan,Sunday,True,CUST6142,Customer_410,37,False,35-44,Male,Patna,Mobile,Electronics,10,12839.38,128393.8,High,False
+ORD100371,ORD100371,False,2025-09-25,2025,Q3,9,Sep,Thursday,False,CUST8318,Customer_189,29,False,25-34,Female,Kolkata,Mobile,Electronics,1,6050.27,6050.27,Low,False
+ORD100372,ORD100372,False,2025-06-15,2025,Q2,6,Jun,Sunday,True,CUST9485,Customer_43,57,False,55-65,Male,Mumbai,Mobile,Electronics,2,42518.8,85037.6,Medium,False
+ORD100373,ORD100373,False,2025-06-04,2025,Q2,6,Jun,Wednesday,False,CUST9022,Customer_131,49,False,45-54,Female,Mumbai,Rice,Grocery,4,22806.21,91224.84,Medium,False
+ORD100374,ORD100374,False,2025-01-18,2025,Q1,1,Jan,Saturday,True,CUST4041,Customer_433,32,False,25-34,Female,Bengaluru,Laptop,Electronics,4,39453.46,157813.84,High,False
+ORD100375,ORD100375,False,2025-05-06,2025,Q2,5,May,Tuesday,False,CUST5835,Customer_362,20,False,18-24,Male,Unknown,Laptop,Electronics,2,28311.58,56623.16,Medium,False
+ORD100376,ORD100376,False,2025-02-28,2025,Q1,2,Feb,Friday,False,CUST9776,Customer_345,54,False,45-54,Female,Delhi,Rice,Grocery,3,11513.96,34541.88,Low,False
+ORD100377,ORD100377,False,2025-10-25,2025,Q4,10,Oct,Saturday,True,CUST9292,Customer_89,33,False,25-34,Male,Bengaluru,Shoes,Fashion,8,16079.7,128637.6,High,False
+ORD100378,ORD100378,False,2025-09-29,2025,Q3,9,Sep,Monday,False,CUST3607,Customer_266,64,False,55-65,Female,Patna,Book,Education,5,21152.92,105764.6,Medium,False
+ORD100379,ORD100379,False,2025-04-28,2025,Q2,4,Apr,Monday,False,CUST1032,Customer_20,22,False,18-24,Female,Pune,Mobile,Electronics,7,20998.7,146990.9,High,False
+ORD100380,ORD100380,False,2025-04-04,2025,Q2,4,Apr,Friday,False,CUST6531,Customer_218,57,False,55-65,Male,Kolkata,Rice,Grocery,6,13054.61,78327.66,Medium,False
+ORD100381,ORD100381,False,2025-06-07,2025,Q2,6,Jun,Saturday,True,CUST4482,Customer_139,53,False,45-54,Male,Pune,Mobile,Electronics,9,46780.58,421025.22,Very High,False
+ORD100382,ORD100382,False,2025-10-16,2025,Q4,10,Oct,Thursday,False,CUST4655,Customer_167,35,False,35-44,Male,Kolkata,Shoes,Fashion,7,34258.83,239811.81,Very High,False
+ORD100383,ORD100383,False,2025-08-25,2025,Q3,8,Aug,Monday,False,CUST3365,Customer_80,23,False,18-24,Male,Delhi,Mobile,Electronics,7,17055.84,119390.88,High,False
+ORD100384,ORD100384,False,2025-10-15,2025,Q4,10,Oct,Wednesday,False,CUST1481,Customer_40,40,False,35-44,Female,Patna,Chair,Furniture,10,7876.48,78764.8,Medium,False
+ORD100385,ORD100385,False,2025-11-24,2025,Q4,11,Nov,Monday,False,CUST2242,Customer_331,53,False,45-54,Female,Delhi,Mobile,Electronics,10,34976.79,349767.9,Very High,False
+ORD100386,ORD100386,False,2025-06-30,2025,Q2,6,Jun,Monday,False,CUST8164,Customer_156,34,False,25-34,Female,Delhi,Chair,Furniture,8,38672.34,309378.72,Very High,False
+ORD100387,ORD100387,False,2025-06-17,2025,Q2,6,Jun,Tuesday,False,CUST9469,Customer_426,18,False,18-24,Female,Kolkata,Shoes,Fashion,1,48695.59,48695.59,Medium,False
+ORD100388,ORD100388,False,2025-10-04,2025,Q4,10,Oct,Saturday,True,CUST3129,Customer_138,39,False,35-44,Male,Hyderabad,Book,Education,9,41871.43,376842.87,Very High,False
+ORD100389,ORD100389,False,2025-08-30,2025,Q3,8,Aug,Saturday,True,CUST6180,Customer_73,64,False,55-65,Male,Patna,Mobile,Electronics,6,26179.81,157078.86,High,False
+ORD100390,ORD100390,False,2025-03-23,2025,Q1,3,Mar,Sunday,True,CUST2671,Customer_58,52,False,45-54,Male,Delhi,Shoes,Fashion,1,23398.57,23398.57,Low,False
+ORD100391,ORD100391,False,2025-03-30,2025,Q1,3,Mar,Sunday,True,CUST6111,Customer_388,20,False,18-24,Male,Kolkata,Laptop,Electronics,5,24596.56,122982.8,High,False
+ORD100392,ORD100392,False,2025-08-11,2025,Q3,8,Aug,Monday,False,CUST9927,Customer_357,37,False,35-44,Female,Bengaluru,Shoes,Fashion,1,35804.49,35804.49,Low,False
+ORD100393,ORD100393,False,2025-09-09,2025,Q3,9,Sep,Tuesday,False,CUST3393,Customer_175,24,False,18-24,Female,Hyderabad,Mobile,Electronics,3,36239.15,108717.45,High,False
+ORD100394,ORD100394,False,2025-11-22,2025,Q4,11,Nov,Saturday,True,CUST5569,Customer_188,27,False,25-34,Female,Pune,Shoes,Fashion,5,21143.07,105715.35,Medium,False
+ORD100395,ORD100395,False,2025-04-01,2025,Q2,4,Apr,Tuesday,False,CUST5128,Customer_192,47,False,45-54,Male,Bengaluru,Rice,Grocery,8,30277.06,242216.48,Very High,False
+ORD100396,ORD100396,False,2025-10-26,2025,Q4,10,Oct,Sunday,True,CUST8053,Customer_159,53,False,45-54,Female,Mumbai,Laptop,Electronics,4,41264.56,165058.24,High,False
+ORD100397,ORD100397,False,2025-02-12,2025,Q1,2,Feb,Wednesday,False,CUST3345,Customer_202,35,False,35-44,Female,Gaya,Book,Education,5,11761.9,58809.5,Medium,False
+ORD100398,ORD100398,False,2025-03-07,2025,Q1,3,Mar,Friday,False,CUST6600,Customer_242,58,False,55-65,Female,Bengaluru,Mobile,Electronics,9,48807.37,439266.33,Very High,True
+ORD100399,ORD100399,False,2025-06-14,2025,Q2,6,Jun,Saturday,True,CUST5615,Customer_56,63,False,55-65,Female,Bengaluru,Rice,Grocery,4,1895.99,7583.96,Low,False
+ORD100400,ORD100400,False,2025-04-20,2025,Q2,4,Apr,Sunday,True,CUST5102,Customer_416,41,True,35-44,Female,Hyderabad,Book,Education,3,26269.62,78808.86,Medium,False
+ORD100401,ORD100401,False,2025-01-13,2025,Q1,1,Jan,Monday,False,CUST6037,Customer_121,28,False,25-34,Male,Patna,Mobile,Electronics,2,1793.29,3586.58,Low,False
+ORD100402,ORD100402,False,2025-04-05,2025,Q2,4,Apr,Saturday,True,CUST2137,Customer_57,40,False,35-44,Female,Mumbai,Shoes,Fashion,5,18223.06,91115.3,Medium,False
+ORD100403,ORD100403,False,2025-02-22,2025,Q1,2,Feb,Saturday,True,CUST4625,Customer_296,25,False,25-34,Female,Gaya,Book,Education,7,43850.91,306956.37,Very High,False
+ORD100404,ORD100404,False,2025-01-10,2025,Q1,1,Jan,Friday,False,CUST4414,Customer_194,53,False,45-54,Female,Delhi,Book,Education,1,15617.29,15617.29,Low,False
+ORD100405,ORD100405,False,2025-04-05,2025,Q2,4,Apr,Saturday,True,CUST5778,Customer_346,37,False,35-44,Male,Patna,Shoes,Fashion,2,36062.36,72124.72,Medium,False
+ORD100406,ORD100406,False,2025-03-21,2025,Q1,3,Mar,Friday,False,CUST1528,Customer_170,46,False,45-54,Male,Patna,Mobile,Electronics,2,24194.96,48389.92,Medium,False
+ORD100407,ORD100407,False,2025-06-29,2025,Q2,6,Jun,Sunday,True,CUST5430,Customer_333,48,False,45-54,Male,Mumbai,Shoes,Fashion,3,46253.94,138761.82,High,False
+ORD100408,ORD100408,False,2025-02-28,2025,Q1,2,Feb,Friday,False,CUST8759,Customer_20,64,False,55-65,Female,Hyderabad,Chair,Furniture,1,22534.47,22534.47,Low,False
+ORD100409,ORD100409,False,2025-01-23,2025,Q1,1,Jan,Thursday,False,CUST9421,Customer_355,64,False,55-65,Female,Bengaluru,Shoes,Fashion,5,23003.28,115016.4,High,False
+ORD100410,ORD100410,False,2025-07-07,2025,Q3,7,Jul,Monday,False,CUST3440,Customer_28,32,False,25-34,Female,Pune,Laptop,Electronics,5,6619.66,33098.3,Low,False
+ORD100411,ORD100411,False,2025-07-11,2025,Q3,7,Jul,Friday,False,CUST6631,Customer_141,58,False,55-65,Male,Kolkata,Book,Education,4,7231.17,28924.68,Low,False
+ORD100412,ORD100412,False,2025-12-16,2025,Q4,12,Dec,Tuesday,False,CUST9089,Customer_177,24,False,18-24,Male,Patna,Book,Education,10,14441.39,144413.9,High,False
+ORD100413,ORD100413,False,2025-12-03,2025,Q4,12,Dec,Wednesday,False,CUST4703,Customer_394,58,False,55-65,Male,Patna,Laptop,Electronics,4,39636.15,158544.6,High,False
+ORD100414,ORD100414,False,2025-07-18,2025,Q3,7,Jul,Friday,False,CUST4598,Customer_96,33,False,25-34,Female,Patna,Shoes,Fashion,10,6633.6,66336.0,Medium,False
+ORD100415,ORD100415,False,2025-01-16,2025,Q1,1,Jan,Thursday,False,CUST3277,Customer_148,46,False,45-54,Female,Gaya,Mobile,Electronics,6,31722.52,190335.12,High,False
+ORD100416,ORD100416,False,2025-06-30,2025,Q2,6,Jun,Monday,False,CUST5932,Customer_183,62,False,55-65,Female,Gaya,Rice,Grocery,3,24990.09,74970.27,Medium,False
+ORD100417,ORD100417,False,2025-03-25,2025,Q1,3,Mar,Tuesday,False,CUST7628,Customer_120,56,False,55-65,Male,Bengaluru,Chair,Furniture,6,26716.59,160299.54,High,False
+ORD100418,ORD100418,False,2025-06-04,2025,Q2,6,Jun,Wednesday,False,CUST9942,Customer_466,29,False,25-34,Female,Kolkata,Mobile,Electronics,8,28813.93,230511.44,Very High,False
+ORD100419,ORD100419,False,2025-08-21,2025,Q3,8,Aug,Thursday,False,CUST6436,Customer_288,52,False,45-54,Male,Bengaluru,Shoes,Fashion,2,2209.43,4418.86,Low,False
+ORD100420,ORD100420,False,2025-05-12,2025,Q2,5,May,Monday,False,CUST2231,Customer_38,51,False,45-54,Male,Delhi,Mobile,Electronics,2,572.39,1144.78,Low,False
+ORD100421,ORD100421,False,2025-10-04,2025,Q4,10,Oct,Saturday,True,CUST2956,Customer_177,39,False,35-44,Male,Patna,Chair,Furniture,5,26522.29,132611.45,High,False
+ORD100422,ORD100422,False,2025-12-23,2025,Q4,12,Dec,Tuesday,False,CUST1764,Customer_47,24,False,18-24,Male,Hyderabad,Laptop,Electronics,2,25875.53,51751.06,Medium,False
+ORD100423,ORD100423,False,2025-04-03,2025,Q2,4,Apr,Thursday,False,CUST9649,Customer_322,58,False,55-65,Male,Gaya,Mobile,Electronics,9,37176.15,334585.35,Very High,False
+ORD100424,ORD100424,False,2025-10-03,2025,Q4,10,Oct,Friday,False,CUST6655,Customer_192,31,False,25-34,Female,Pune,Laptop,Electronics,10,315.67,3156.7,Low,False
+ORD100425,ORD100425,False,2025-02-28,2025,Q1,2,Feb,Friday,False,CUST4284,Customer_270,46,False,45-54,Male,Patna,Mobile,Electronics,1,30640.69,30640.69,Low,False
+ORD100426,ORD100426,False,2025-06-21,2025,Q2,6,Jun,Saturday,True,CUST4269,Customer_268,65,False,55-65,Female,Gaya,Laptop,Electronics,8,23432.88,187463.04,High,False
+ORD100427,ORD100427,False,2025-05-31,2025,Q2,5,May,Saturday,True,CUST1253,Customer_334,32,False,25-34,Female,Gaya,Laptop,Electronics,3,29297.53,87892.59,Medium,False
+ORD100428,ORD100428,False,2025-02-14,2025,Q1,2,Feb,Friday,False,CUST9754,Customer_304,19,False,18-24,Male,Delhi,Chair,Furniture,6,33928.27,203569.62,High,False
+ORD100429,ORD100429,False,2025-08-08,2025,Q3,8,Aug,Friday,False,CUST2697,Customer_155,49,False,45-54,Male,Hyderabad,Book,Education,6,13857.45,83144.7,Medium,False
+ORD100430,ORD100430,False,2025-10-24,2025,Q4,10,Oct,Friday,False,CUST9209,Customer_233,21,False,18-24,Female,Mumbai,Laptop,Electronics,9,29804.26,268238.34,Very High,False
+ORD100431,ORD100431,False,2025-07-21,2025,Q3,7,Jul,Monday,False,CUST4215,Customer_103,28,False,25-34,Male,Delhi,Shoes,Fashion,9,12279.11,110511.99,High,False
+ORD100432,ORD100432,False,2025-02-04,2025,Q1,2,Feb,Tuesday,False,CUST2935,Customer_26,28,False,25-34,Male,Delhi,Mobile,Electronics,6,5060.75,30364.5,Low,False
+ORD100433,ORD100433,False,2025-05-11,2025,Q2,5,May,Sunday,True,CUST9381,Customer_352,45,False,45-54,Male,Kolkata,Laptop,Electronics,2,42427.93,84855.86,Medium,False
+ORD100434,ORD100434,False,2025-06-10,2025,Q2,6,Jun,Tuesday,False,CUST4982,Customer_370,33,False,25-34,Male,Delhi,Mobile,Electronics,10,43997.22,439972.2,Very High,True
+ORD100435,ORD100435,False,2025-01-05,2025,Q1,1,Jan,Sunday,True,CUST4849,Customer_209,28,False,25-34,Male,Patna,Rice,Grocery,1,28812.06,28812.06,Low,False
+ORD100436,ORD100436,False,2025-05-28,2025,Q2,5,May,Wednesday,False,CUST3418,Customer_499,33,False,25-34,Female,Gaya,Mobile,Electronics,1,1229.02,1229.02,Low,False
+ORD100437,ORD100437,False,2025-08-01,2025,Q3,8,Aug,Friday,False,CUST3459,Customer_320,19,False,18-24,Male,Pune,Mobile,Electronics,3,29528.77,88586.31,Medium,False
+ORD100438,ORD100438,False,2025-11-29,2025,Q4,11,Nov,Saturday,True,CUST7937,Customer_158,43,False,35-44,Female,Mumbai,Chair,Furniture,9,24864.11,223776.99,Very High,False
+ORD100439,ORD100439,False,2025-12-13,2025,Q4,12,Dec,Saturday,True,CUST8269,Customer_104,34,False,25-34,Female,Bengaluru,Book,Education,8,11693.63,93549.04,Medium,False
+ORD100440,ORD100440,False,2025-05-26,2025,Q2,5,May,Monday,False,CUST9209,Customer_173,49,False,45-54,Female,Gaya,Shoes,Fashion,2,5988.17,11976.34,Low,False
+ORD100441,ORD100441,False,2025-01-22,2025,Q1,1,Jan,Wednesday,False,CUST9619,Customer_491,30,False,25-34,Male,Pune,Mobile,Electronics,1,3839.04,3839.04,Low,False
+ORD100442,ORD100442,False,2025-08-30,2025,Q3,8,Aug,Saturday,True,CUST6887,Customer_423,21,False,18-24,Male,Delhi,Chair,Furniture,5,3146.73,15733.65,Low,False
+ORD100443,ORD100443,False,2025-07-24,2025,Q3,7,Jul,Thursday,False,CUST8515,Customer_445,22,False,18-24,Male,Mumbai,Chair,Furniture,7,33771.26,236398.82,Very High,False
+ORD100444,ORD100444,False,2025-10-01,2025,Q4,10,Oct,Wednesday,False,CUST9942,Customer_227,47,False,45-54,Male,Delhi,Mobile,Electronics,3,28342.81,85028.43,Medium,False
+ORD100445,ORD100445,False,2025-06-16,2025,Q2,6,Jun,Monday,False,CUST1256,Customer_279,34,False,25-34,Male,Kolkata,Mobile,Electronics,5,48457.94,242289.7,Very High,False
+ORD100446,ORD100446,False,2025-02-23,2025,Q1,2,Feb,Sunday,True,CUST1841,Customer_129,45,False,45-54,Male,Kolkata,Book,Education,2,41096.75,82193.5,Medium,False
+ORD100447,ORD100447,False,2025-02-28,2025,Q1,2,Feb,Friday,False,CUST2777,Customer_417,49,False,45-54,Male,Gaya,Mobile,Electronics,9,19415.21,174736.89,High,False
+ORD100448,ORD100448,False,2025-02-08,2025,Q1,2,Feb,Saturday,True,CUST2031,Customer_309,45,False,45-54,Female,Gaya,Shoes,Fashion,4,8654.13,34616.52,Low,False
+ORD100449,ORD100449,False,2025-02-02,2025,Q1,2,Feb,Sunday,True,CUST9219,Customer_132,30,False,25-34,Female,Gaya,Laptop,Electronics,5,26337.15,131685.75,High,False
+ORD100450,ORD100450,False,2025-02-13,2025,Q1,2,Feb,Thursday,False,CUST6714,Customer_31,41,True,35-44,Female,Unknown,Book,Education,10,43946.96,439469.6,Very High,True
+ORD100451,ORD100451,False,2025-02-28,2025,Q1,2,Feb,Friday,False,CUST3773,Customer_181,27,False,25-34,Male,Patna,Chair,Furniture,8,30576.0,244608.0,Very High,False
+ORD100452,ORD100452,False,2025-01-22,2025,Q1,1,Jan,Wednesday,False,CUST5766,Customer_85,27,False,25-34,Male,Gaya,Shoes,Fashion,7,32289.77,226028.39,Very High,False
+ORD100453,ORD100453,False,2025-08-30,2025,Q3,8,Aug,Saturday,True,CUST1189,Customer_490,39,False,35-44,Female,Pune,Shoes,Fashion,2,18153.87,36307.74,Low,False
+ORD100454,ORD100454,False,2025-09-15,2025,Q3,9,Sep,Monday,False,CUST4756,Customer_104,57,False,55-65,Female,Delhi,Laptop,Electronics,1,5815.69,5815.69,Low,False
+ORD100455,ORD100455,False,2025-08-10,2025,Q3,8,Aug,Sunday,True,CUST9125,Customer_19,21,False,18-24,Female,Mumbai,Chair,Furniture,1,47927.36,47927.36,Medium,False
+ORD100456,ORD100456,False,2025-04-16,2025,Q2,4,Apr,Wednesday,False,CUST6806,Customer_316,46,False,45-54,Male,Pune,Laptop,Electronics,8,30816.21,246529.68,Very High,False
+ORD100457,ORD100457,False,2025-02-17,2025,Q1,2,Feb,Monday,False,CUST9543,Customer_448,45,False,45-54,Female,Bengaluru,Chair,Furniture,2,45809.09,91618.18,Medium,False
+ORD100458,ORD100458,False,2025-03-20,2025,Q1,3,Mar,Thursday,False,CUST6136,Customer_328,22,False,18-24,Male,Hyderabad,Chair,Furniture,10,7127.33,71273.3,Medium,False
+ORD100459,ORD100459,False,2025-04-28,2025,Q2,4,Apr,Monday,False,CUST9131,Customer_249,38,False,35-44,Female,Delhi,Book,Education,9,41434.83,372913.47,Very High,False
+ORD100460,ORD100460,False,2025-04-17,2025,Q2,4,Apr,Thursday,False,CUST4317,Customer_498,50,False,45-54,Female,Delhi,Book,Education,4,36242.41,144969.64,High,False
+ORD100461,ORD100461,False,2025-07-11,2025,Q3,7,Jul,Friday,False,CUST5702,Customer_381,48,False,45-54,Female,Pune,Book,Education,10,13908.48,139084.8,High,False
+ORD100462,ORD100462,False,2025-03-22,2025,Q1,3,Mar,Saturday,True,CUST9379,Customer_263,38,False,35-44,Female,Kolkata,Laptop,Electronics,1,9009.36,9009.36,Low,False
+ORD100463,ORD100463,False,2025-04-25,2025,Q2,4,Apr,Friday,False,CUST7664,Customer_376,43,False,35-44,Female,Delhi,Shoes,Fashion,6,36021.08,216126.48,Very High,False
+ORD100464,ORD100464,False,2025-09-17,2025,Q3,9,Sep,Wednesday,False,CUST1710,Customer_355,46,False,45-54,Female,Hyderabad,Book,Education,10,44045.66,440456.6,Very High,True
+ORD100465,ORD100465,False,2025-07-30,2025,Q3,7,Jul,Wednesday,False,CUST2680,Customer_90,65,False,55-65,Female,Patna,Book,Education,3,41596.85,124790.55,High,False
+ORD100466,ORD100466,False,2025-08-25,2025,Q3,8,Aug,Monday,False,CUST6783,Customer_7,30,False,25-34,Male,Kolkata,Book,Education,9,21020.37,189183.33,High,False
+ORD100467,ORD100467,False,2025-05-27,2025,Q2,5,May,Tuesday,False,CUST8039,Customer_391,55,False,55-65,Female,Kolkata,Book,Education,6,28483.33,170899.98,High,False
+ORD100468,ORD100468,False,2025-12-23,2025,Q4,12,Dec,Tuesday,False,CUST7564,Customer_478,20,False,18-24,Female,Patna,Book,Education,8,22060.38,176483.04,High,False
+ORD100469,ORD100469,False,2025-04-15,2025,Q2,4,Apr,Tuesday,False,CUST8899,Customer_482,30,False,25-34,Male,Delhi,Mobile,Electronics,9,17074.46,153670.14,High,False
+ORD100470,ORD100470,False,2025-05-05,2025,Q2,5,May,Monday,False,CUST1453,Customer_60,51,False,45-54,Male,Gaya,Shoes,Fashion,6,7136.1,42816.6,Low,False
+ORD100471,ORD100471,False,2025-11-18,2025,Q4,11,Nov,Tuesday,False,CUST5363,Customer_423,56,False,55-65,Male,Delhi,Rice,Grocery,4,33964.14,135856.56,High,False
+ORD100472,ORD100472,False,2025-03-19,2025,Q1,3,Mar,Wednesday,False,CUST8325,Customer_16,62,False,55-65,Female,Bengaluru,Chair,Furniture,7,46331.16,324318.12,Very High,False
+ORD100473,ORD100473,False,2025-02-23,2025,Q1,2,Feb,Sunday,True,CUST7374,Customer_382,21,False,18-24,Male,Mumbai,Rice,Grocery,10,27530.02,275300.2,Very High,False
+ORD100474,ORD100474,False,2025-12-08,2025,Q4,12,Dec,Monday,False,CUST3741,Customer_461,57,False,55-65,Female,Mumbai,Laptop,Electronics,2,24291.74,48583.48,Medium,False
+ORD100475,ORD100475,False,2025-07-24,2025,Q3,7,Jul,Thursday,False,CUST4758,Customer_372,63,False,55-65,Male,Pune,Laptop,Electronics,5,13257.79,66288.95,Medium,False
+ORD100476,ORD100476,False,2025-08-22,2025,Q3,8,Aug,Friday,False,CUST1940,Customer_40,48,False,45-54,Male,Gaya,Shoes,Fashion,10,16360.67,163606.7,High,False
+ORD100477,ORD100477,False,2025-05-27,2025,Q2,5,May,Tuesday,False,CUST3024,Customer_332,22,False,18-24,Female,Patna,Laptop,Electronics,6,40480.73,242884.38,Very High,False
+ORD100478,ORD100478,False,2025-10-09,2025,Q4,10,Oct,Thursday,False,CUST7981,Customer_196,46,False,45-54,Male,Mumbai,Chair,Furniture,2,747.57,1495.14,Low,False
+ORD100479,ORD100479,False,2025-08-22,2025,Q3,8,Aug,Friday,False,CUST9259,Customer_276,30,False,25-34,Male,Hyderabad,Laptop,Electronics,2,35420.46,70840.92,Medium,False
+ORD100480,ORD100050,True,2025-11-22,2025,Q4,11,Nov,Saturday,True,CUST8225,Customer_468,64,False,55-65,Male,Bengaluru,Rice,Grocery,8,38957.59,311660.72,Very High,False
+ORD100481,ORD100481,False,2025-08-26,2025,Q3,8,Aug,Tuesday,False,CUST4966,Customer_367,47,False,45-54,Female,Bengaluru,Chair,Furniture,3,2762.18,8286.54,Low,False
+ORD100482,ORD100482,False,2025-01-07,2025,Q1,1,Jan,Tuesday,False,CUST2632,Customer_321,56,False,55-65,Male,Kolkata,Laptop,Electronics,2,33800.83,67601.66,Medium,False
+ORD100483,ORD100483,False,2025-02-16,2025,Q1,2,Feb,Sunday,True,CUST3723,Customer_208,52,False,45-54,Male,Kolkata,Laptop,Electronics,4,4113.4,16453.6,Low,False
+ORD100484,ORD100484,False,2025-06-24,2025,Q2,6,Jun,Tuesday,False,CUST8322,Customer_429,28,False,25-34,Male,Hyderabad,Chair,Furniture,10,24297.48,242974.8,Very High,False
+ORD100485,ORD100485,False,2025-12-25,2025,Q4,12,Dec,Thursday,False,CUST9464,Customer_357,39,False,35-44,Male,Gaya,Book,Education,9,5037.6,45338.4,Low,False
+ORD100486,ORD100486,False,2025-11-15,2025,Q4,11,Nov,Saturday,True,CUST4264,Customer_304,26,False,25-34,Female,Patna,Mobile,Electronics,8,34803.41,278427.28,Very High,False
+ORD100487,ORD100487,False,2025-08-24,2025,Q3,8,Aug,Sunday,True,CUST8691,Customer_252,27,False,25-34,Male,Patna,Shoes,Fashion,9,9123.43,82110.87,Medium,False
+ORD100488,ORD100488,False,2025-02-22,2025,Q1,2,Feb,Saturday,True,CUST7117,Customer_6,53,False,45-54,Female,Gaya,Chair,Furniture,6,6567.81,39406.86,Low,False
+ORD100489,ORD100489,False,2025-08-24,2025,Q3,8,Aug,Sunday,True,CUST4167,Customer_113,41,False,35-44,Female,Kolkata,Mobile,Electronics,9,27766.56,249899.04,Very High,False
+ORD100490,ORD100490,False,2025-04-16,2025,Q2,4,Apr,Wednesday,False,CUST6969,Customer_83,41,False,35-44,Female,Hyderabad,Rice,Grocery,5,33535.53,167677.65,High,False
+ORD100491,ORD100491,False,2025-04-18,2025,Q2,4,Apr,Friday,False,CUST9486,Customer_19,29,False,25-34,Male,Hyderabad,Shoes,Fashion,9,48011.48,432103.32,Very High,False
+ORD100492,ORD100492,False,2025-03-21,2025,Q1,3,Mar,Friday,False,CUST2708,Customer_57,52,False,45-54,Male,Delhi,Book,Education,9,21084.4,189759.6,High,False
+ORD100493,ORD100493,False,2025-12-28,2025,Q4,12,Dec,Sunday,True,CUST1833,Customer_357,63,False,55-65,Male,Gaya,Book,Education,3,37002.06,111006.18,High,False
+ORD100494,ORD100494,False,2025-05-29,2025,Q2,5,May,Thursday,False,CUST8425,Customer_254,47,False,45-54,Male,Delhi,Laptop,Electronics,3,33382.46,100147.38,Medium,False
+ORD100495,ORD100495,False,2025-07-28,2025,Q3,7,Jul,Monday,False,CUST3911,Customer_304,26,False,25-34,Female,Gaya,Shoes,Fashion,5,16321.45,81607.25,Medium,False
+ORD100496,ORD100496,False,2025-05-29,2025,Q2,5,May,Thursday,False,CUST2812,Customer_249,55,False,55-65,Male,Gaya,Chair,Furniture,1,767.61,767.61,Low,False
+ORD100497,ORD100497,False,2025-04-07,2025,Q2,4,Apr,Monday,False,CUST8000,Customer_275,51,False,45-54,Male,Kolkata,Rice,Grocery,8,18862.36,150898.88,High,False
+ORD100498,ORD100498,False,2025-12-31,2025,Q4,12,Dec,Wednesday,False,CUST6862,Customer_257,45,False,45-54,Female,Patna,Chair,Furniture,2,47693.33,95386.66,Medium,False
+ORD100499,ORD100499,False,2025-08-24,2025,Q3,8,Aug,Sunday,True,CUST1616,Customer_288,44,False,35-44,Female,Delhi,Mobile,Electronics,3,33234.99,99704.97,Medium,False
+ORD100500,ORD100500,False,2025-06-26,2025,Q2,6,Jun,Thursday,False,CUST2835,Customer_468,40,True,35-44,Male,Kolkata,Chair,Furniture,9,7268.14,65413.26,Medium,False
+ORD100501,ORD100501,False,2025-06-18,2025,Q2,6,Jun,Wednesday,False,CUST7494,Customer_188,30,False,25-34,Female,Mumbai,Mobile,Electronics,10,10702.89,107028.9,Medium,False
+ORD100502,ORD100502,False,2025-12-07,2025,Q4,12,Dec,Sunday,True,CUST8789,Customer_4,52,False,45-54,Female,Delhi,Book,Education,2,13323.8,26647.6,Low,False
+ORD100503,ORD100503,False,2025-04-30,2025,Q2,4,Apr,Wednesday,False,CUST4457,Customer_212,31,False,25-34,Female,Hyderabad,Laptop,Electronics,4,27565.01,110260.04,High,False
+ORD100504,ORD100504,False,2025-07-15,2025,Q3,7,Jul,Tuesday,False,CUST6258,Customer_229,52,False,45-54,Male,Pune,Mobile,Electronics,1,40225.63,40225.63,Low,False
+ORD100505,ORD100505,False,2025-09-06,2025,Q3,9,Sep,Saturday,True,CUST9324,Customer_58,61,False,55-65,Female,Hyderabad,Chair,Furniture,1,12494.97,12494.97,Low,False
+ORD100506,ORD100506,False,2025-06-02,2025,Q2,6,Jun,Monday,False,CUST2027,Customer_458,32,False,25-34,Male,Gaya,Rice,Grocery,3,40440.72,121322.16,High,False
+ORD100507,ORD100507,False,2025-11-06,2025,Q4,11,Nov,Thursday,False,CUST9966,Customer_199,44,False,35-44,Male,Kolkata,Laptop,Electronics,10,25386.4,253864.0,Very High,False
+ORD100508,ORD100508,False,2025-03-08,2025,Q1,3,Mar,Saturday,True,CUST3747,Customer_322,47,False,45-54,Female,Mumbai,Laptop,Electronics,3,7991.06,23973.18,Low,False
+ORD100509,ORD100509,False,2025-08-25,2025,Q3,8,Aug,Monday,False,CUST9303,Customer_321,44,False,35-44,Female,Kolkata,Mobile,Electronics,9,41886.87,376981.83,Very High,False
+ORD100510,ORD100510,False,2025-04-21,2025,Q2,4,Apr,Monday,False,CUST9282,Customer_322,58,False,55-65,Female,Mumbai,Laptop,Electronics,10,7062.57,70625.7,Medium,False
+ORD100511,ORD100511,False,2025-10-22,2025,Q4,10,Oct,Wednesday,False,CUST1565,Customer_353,27,False,25-34,Female,Delhi,Book,Education,10,8028.98,80289.8,Medium,False
+ORD100512,ORD100512,False,2025-10-29,2025,Q4,10,Oct,Wednesday,False,CUST6704,Customer_335,24,False,18-24,Female,Mumbai,Chair,Furniture,7,49735.32,348147.24,Very High,False
+ORD100513,ORD100513,False,2025-10-24,2025,Q4,10,Oct,Friday,False,CUST8023,Customer_118,50,False,45-54,Female,Mumbai,Shoes,Fashion,4,25461.32,101845.28,Medium,False
+ORD100514,ORD100514,False,2025-08-09,2025,Q3,8,Aug,Saturday,True,CUST6860,Customer_168,30,False,25-34,Male,Bengaluru,Laptop,Electronics,1,30210.72,30210.72,Low,False
+ORD100515,ORD100515,False,2025-02-12,2025,Q1,2,Feb,Wednesday,False,CUST2661,Customer_370,41,False,35-44,Male,Delhi,Mobile,Electronics,6,42150.74,252904.44,Very High,False
+ORD100516,ORD100516,False,2025-05-12,2025,Q2,5,May,Monday,False,CUST1316,Customer_3,37,False,35-44,Female,Delhi,Mobile,Electronics,1,16249.69,16249.69,Low,False
+ORD100517,ORD100517,False,2025-05-09,2025,Q2,5,May,Friday,False,CUST7283,Customer_262,34,False,25-34,Male,Mumbai,Shoes,Fashion,6,16403.01,98418.06,Medium,False
+ORD100518,ORD100518,False,2025-12-16,2025,Q4,12,Dec,Tuesday,False,CUST3089,Customer_339,35,False,35-44,Female,Kolkata,Laptop,Electronics,7,19933.44,139534.08,High,False
+ORD100519,ORD100519,False,2025-12-19,2025,Q4,12,Dec,Friday,False,CUST8947,Customer_375,65,False,55-65,Female,Patna,Rice,Grocery,3,48879.87,146639.61,High,False
+ORD100520,ORD100520,False,2025-11-09,2025,Q4,11,Nov,Sunday,True,CUST9042,Customer_354,31,False,25-34,Female,Hyderabad,Chair,Furniture,2,32458.06,64916.12,Medium,False
+ORD100521,ORD100521,False,2025-10-23,2025,Q4,10,Oct,Thursday,False,CUST8907,Customer_51,47,False,45-54,Male,Hyderabad,Rice,Grocery,9,32104.55,288940.95,Very High,False
+ORD100522,ORD100522,False,2025-04-24,2025,Q2,4,Apr,Thursday,False,CUST6260,Customer_455,37,False,35-44,Male,Gaya,Laptop,Electronics,3,35318.2,105954.6,Medium,False
+ORD100523,ORD100523,False,2025-07-05,2025,Q3,7,Jul,Saturday,True,CUST9055,Customer_359,62,False,55-65,Male,Gaya,Mobile,Electronics,1,47870.04,47870.04,Medium,False
+ORD100524,ORD100524,False,2025-02-10,2025,Q1,2,Feb,Monday,False,CUST3778,Customer_96,39,False,35-44,Female,Bengaluru,Shoes,Fashion,1,47848.0,47848.0,Medium,False
+ORD100525,ORD100525,False,2025-12-31,2025,Q4,12,Dec,Wednesday,False,CUST1090,Customer_316,45,False,45-54,Female,Unknown,Shoes,Fashion,7,751.97,5263.79,Low,False
+ORD100526,ORD100526,False,2025-02-14,2025,Q1,2,Feb,Friday,False,CUST6706,Customer_215,54,False,45-54,Male,Mumbai,Mobile,Electronics,2,22666.98,45333.96,Low,False
+ORD100527,ORD100527,False,2025-03-27,2025,Q1,3,Mar,Thursday,False,CUST8200,Customer_147,22,False,18-24,Female,Patna,Mobile,Electronics,8,12225.23,97801.84,Medium,False
+ORD100528,ORD100528,False,2025-07-29,2025,Q3,7,Jul,Tuesday,False,CUST5010,Customer_46,41,False,35-44,Female,Pune,Rice,Grocery,7,17760.62,124324.34,High,False
+ORD100529,ORD100529,False,2025-09-08,2025,Q3,9,Sep,Monday,False,CUST5233,Customer_108,26,False,25-34,Male,Mumbai,Book,Education,6,8151.02,48906.12,Medium,False
+ORD100530,ORD100530,False,2025-12-18,2025,Q4,12,Dec,Thursday,False,CUST4089,Customer_79,42,False,35-44,Male,Gaya,Shoes,Fashion,9,12514.53,112630.77,High,False
+ORD100531,ORD100531,False,2025-05-15,2025,Q2,5,May,Thursday,False,CUST7568,Customer_12,65,False,55-65,Male,Gaya,Rice,Grocery,1,40250.63,40250.63,Low,False
+ORD100532,ORD100532,False,2025-09-20,2025,Q3,9,Sep,Saturday,True,CUST3835,Customer_256,45,False,45-54,Male,Delhi,Book,Education,3,48031.9,144095.7,High,False
+ORD100533,ORD100533,False,2025-06-08,2025,Q2,6,Jun,Sunday,True,CUST1124,Customer_360,18,False,18-24,Female,Patna,Rice,Grocery,8,45296.32,362370.56,Very High,False
+ORD100534,ORD100534,False,2025-07-16,2025,Q3,7,Jul,Wednesday,False,CUST8700,Customer_233,35,False,35-44,Female,Mumbai,Mobile,Electronics,5,25036.53,125182.65,High,False
+ORD100535,ORD100535,False,2025-04-05,2025,Q2,4,Apr,Saturday,True,CUST2742,Customer_216,22,False,18-24,Female,Delhi,Rice,Grocery,5,21466.01,107330.05,Medium,False
+ORD100536,ORD100536,False,2025-12-14,2025,Q4,12,Dec,Sunday,True,CUST6394,Customer_338,57,False,55-65,Female,Bengaluru,Rice,Grocery,2,28506.81,57013.62,Medium,False
+ORD100537,ORD100537,False,2025-01-30,2025,Q1,1,Jan,Thursday,False,CUST9469,Customer_154,37,False,35-44,Female,Mumbai,Chair,Furniture,6,30698.79,184192.74,High,False
+ORD100538,ORD100538,False,2025-08-09,2025,Q3,8,Aug,Saturday,True,CUST5133,Customer_86,56,False,55-65,Female,Pune,Laptop,Electronics,6,3230.47,19382.82,Low,False
+ORD100539,ORD100539,False,2025-10-17,2025,Q4,10,Oct,Friday,False,CUST5535,Customer_146,28,False,25-34,Male,Gaya,Rice,Grocery,6,13606.65,81639.9,Medium,False
+ORD100540,ORD100540,False,2025-06-12,2025,Q2,6,Jun,Thursday,False,CUST1419,Customer_226,28,False,25-34,Male,Mumbai,Rice,Grocery,6,9146.39,54878.34,Medium,False
+ORD100541,ORD100541,False,2025-11-17,2025,Q4,11,Nov,Monday,False,CUST3972,Customer_336,20,False,18-24,Male,Gaya,Rice,Grocery,9,26764.87,240883.83,Very High,False
+ORD100542,ORD100542,False,2025-09-16,2025,Q3,9,Sep,Tuesday,False,CUST2515,Customer_74,26,False,25-34,Female,Patna,Shoes,Fashion,7,6887.98,48215.86,Medium,False
+ORD100543,ORD100543,False,2025-06-30,2025,Q2,6,Jun,Monday,False,CUST2394,Customer_293,27,False,25-34,Male,Patna,Rice,Grocery,6,49889.13,299334.78,Very High,False
+ORD100544,ORD100544,False,2025-11-21,2025,Q4,11,Nov,Friday,False,CUST7033,Customer_359,33,False,25-34,Male,Gaya,Laptop,Electronics,4,39050.88,156203.52,High,False
+ORD100545,ORD100545,False,2025-02-19,2025,Q1,2,Feb,Wednesday,False,CUST7824,Customer_21,20,False,18-24,Male,Pune,Rice,Grocery,1,14634.25,14634.25,Low,False
+ORD100546,ORD100546,False,2025-02-24,2025,Q1,2,Feb,Monday,False,CUST2039,Customer_32,31,False,25-34,Male,Mumbai,Mobile,Electronics,7,33006.89,231048.23,Very High,False
+ORD100547,ORD100547,False,2025-12-25,2025,Q4,12,Dec,Thursday,False,CUST4569,Customer_238,38,False,35-44,Male,Patna,Laptop,Electronics,9,46663.92,419975.28,Very High,False
+ORD100548,ORD100548,False,2025-12-10,2025,Q4,12,Dec,Wednesday,False,CUST7568,Customer_212,37,False,35-44,Female,Pune,Shoes,Fashion,9,3626.27,32636.43,Low,False
+ORD100549,ORD100549,False,2025-05-31,2025,Q2,5,May,Saturday,True,CUST1780,Customer_250,64,False,55-65,Male,Hyderabad,Book,Education,8,13184.14,105473.12,Medium,False
+ORD100550,ORD100550,False,2025-03-27,2025,Q1,3,Mar,Thursday,False,CUST5244,Customer_44,40,True,35-44,Male,Pune,Rice,Grocery,5,41509.54,207547.7,Very High,False
+ORD100551,ORD100551,False,2025-09-26,2025,Q3,9,Sep,Friday,False,CUST7188,Customer_180,37,False,35-44,Male,Bengaluru,Laptop,Electronics,2,27044.74,54089.48,Medium,False
+ORD100552,ORD100552,False,2025-06-08,2025,Q2,6,Jun,Sunday,True,CUST7042,Customer_137,60,False,55-65,Male,Kolkata,Book,Education,2,35113.98,70227.96,Medium,False
+ORD100553,ORD100553,False,2025-12-25,2025,Q4,12,Dec,Thursday,False,CUST4646,Customer_365,36,False,35-44,Female,Bengaluru,Rice,Grocery,5,38032.02,190160.1,High,False
+ORD100554,ORD100554,False,2025-07-03,2025,Q3,7,Jul,Thursday,False,CUST3623,Customer_1,35,False,35-44,Male,Mumbai,Mobile,Electronics,9,37614.58,338531.22,Very High,False
+ORD100555,ORD100555,False,2025-01-28,2025,Q1,1,Jan,Tuesday,False,CUST1399,Customer_431,60,False,55-65,Male,Gaya,Book,Education,4,18505.56,74022.24,Medium,False
+ORD100556,ORD100556,False,2025-12-09,2025,Q4,12,Dec,Tuesday,False,CUST2515,Customer_219,21,False,18-24,Male,Hyderabad,Mobile,Electronics,6,21017.46,126104.76,High,False
+ORD100557,ORD100557,False,2025-03-05,2025,Q1,3,Mar,Wednesday,False,CUST7285,Customer_493,18,False,18-24,Female,Hyderabad,Book,Education,8,1204.93,9639.44,Low,False
+ORD100558,ORD100558,False,2025-10-02,2025,Q4,10,Oct,Thursday,False,CUST1401,Customer_151,35,False,35-44,Male,Delhi,Rice,Grocery,7,36390.58,254734.06,Very High,False
+ORD100559,ORD100559,False,2025-05-09,2025,Q2,5,May,Friday,False,CUST9458,Customer_25,22,False,18-24,Male,Delhi,Mobile,Electronics,2,17302.3,34604.6,Low,False
+ORD100560,ORD100560,False,2025-10-22,2025,Q4,10,Oct,Wednesday,False,CUST9612,Customer_463,21,False,18-24,Male,Kolkata,Mobile,Electronics,10,6613.42,66134.2,Medium,False
+ORD100561,ORD100561,False,2025-01-11,2025,Q1,1,Jan,Saturday,True,CUST2520,Customer_93,34,False,25-34,Female,Kolkata,Mobile,Electronics,5,28280.37,141401.85,High,False
+ORD100562,ORD100562,False,2025-09-07,2025,Q3,9,Sep,Sunday,True,CUST3001,Customer_327,56,False,55-65,Female,Delhi,Book,Education,1,6150.86,6150.86,Low,False
+ORD100563,ORD100563,False,2025-12-29,2025,Q4,12,Dec,Monday,False,CUST7491,Customer_139,46,False,45-54,Female,Bengaluru,Rice,Grocery,4,26924.41,107697.64,Medium,False
+ORD100564,ORD100564,False,2025-03-16,2025,Q1,3,Mar,Sunday,True,CUST3473,Customer_20,56,False,55-65,Male,Hyderabad,Book,Education,3,6301.32,18903.96,Low,False
+ORD100565,ORD100565,False,2025-10-12,2025,Q4,10,Oct,Sunday,True,CUST6748,Customer_2,40,False,35-44,Female,Patna,Book,Education,10,39690.68,396906.8,Very High,False
+ORD100566,ORD100566,False,2025-10-23,2025,Q4,10,Oct,Thursday,False,CUST4722,Customer_390,63,False,55-65,Male,Bengaluru,Chair,Furniture,6,36327.94,217967.64,Very High,False
+ORD100567,ORD100567,False,2025-01-20,2025,Q1,1,Jan,Monday,False,CUST5431,Customer_396,60,False,55-65,Female,Mumbai,Mobile,Electronics,10,21547.89,215478.9,Very High,False
+ORD100568,ORD100568,False,2025-04-13,2025,Q2,4,Apr,Sunday,True,CUST3316,Customer_458,41,False,35-44,Female,Patna,Book,Education,8,32749.76,261998.08,Very High,False
+ORD100569,ORD100569,False,2025-03-17,2025,Q1,3,Mar,Monday,False,CUST9510,Customer_345,21,False,18-24,Female,Kolkata,Chair,Furniture,10,43251.3,432513.0,Very High,False
+ORD100570,ORD100570,False,2025-03-08,2025,Q1,3,Mar,Saturday,True,CUST9273,Customer_162,32,False,25-34,Female,Hyderabad,Chair,Furniture,3,47748.45,143245.35,High,False
+ORD100571,ORD100571,False,2025-12-22,2025,Q4,12,Dec,Monday,False,CUST5206,Customer_327,52,False,45-54,Female,Patna,Book,Education,4,16276.94,65107.76,Medium,False
+ORD100572,ORD100572,False,2025-05-10,2025,Q2,5,May,Saturday,True,CUST3820,Customer_312,48,False,45-54,Female,Delhi,Rice,Grocery,9,11122.7,100104.3,Medium,False
+ORD100573,ORD100573,False,2025-01-09,2025,Q1,1,Jan,Thursday,False,CUST5791,Customer_113,62,False,55-65,Male,Patna,Shoes,Fashion,2,39005.27,78010.54,Medium,False
+ORD100574,ORD100574,False,2026-01-01,2026,Q1,1,Jan,Thursday,False,CUST2343,Customer_39,28,False,25-34,Male,Patna,Mobile,Electronics,6,16346.82,98080.92,Medium,False
+ORD100575,ORD100575,False,2025-09-20,2025,Q3,9,Sep,Saturday,True,CUST6654,Customer_66,38,False,35-44,Female,Pune,Mobile,Electronics,4,3859.9,15439.6,Low,False
+ORD100576,ORD100576,False,2025-05-16,2025,Q2,5,May,Friday,False,CUST8820,Customer_339,39,False,35-44,Female,Kolkata,Laptop,Electronics,6,49058.94,294353.64,Very High,False
+ORD100577,ORD100577,False,2025-06-18,2025,Q2,6,Jun,Wednesday,False,CUST9181,Customer_122,24,False,18-24,Female,Patna,Mobile,Electronics,7,413.2,2892.4,Low,False
+ORD100578,ORD100578,False,2025-03-09,2025,Q1,3,Mar,Sunday,True,CUST8098,Customer_337,26,False,25-34,Female,Patna,Shoes,Fashion,5,21555.12,107775.6,Medium,False
+ORD100579,ORD100579,False,2025-04-19,2025,Q2,4,Apr,Saturday,True,CUST6006,Customer_344,38,False,35-44,Male,Delhi,Chair,Furniture,5,37214.58,186072.9,High,False
+ORD100580,ORD100580,False,2025-06-20,2025,Q2,6,Jun,Friday,False,CUST1094,Customer_91,31,False,25-34,Female,Patna,Mobile,Electronics,10,21194.59,211945.9,Very High,False
+ORD100581,ORD100581,False,2025-07-07,2025,Q3,7,Jul,Monday,False,CUST1468,Customer_266,49,False,45-54,Female,Kolkata,Shoes,Fashion,8,44971.9,359775.2,Very High,False
+ORD100582,ORD100582,False,2025-12-29,2025,Q4,12,Dec,Monday,False,CUST6704,Customer_141,39,False,35-44,Male,Pune,Shoes,Fashion,4,26046.5,104186.0,Medium,False
+ORD100583,ORD100583,False,2025-03-07,2025,Q1,3,Mar,Friday,False,CUST1936,Customer_15,59,False,55-65,Male,Delhi,Mobile,Electronics,3,43567.37,130702.11,High,False
+ORD100584,ORD100584,False,2025-09-24,2025,Q3,9,Sep,Wednesday,False,CUST8399,Customer_160,40,False,35-44,Male,Mumbai,Book,Education,5,19565.23,97826.15,Medium,False
+ORD100585,ORD100585,False,2025-02-08,2025,Q1,2,Feb,Saturday,True,CUST8075,Customer_401,62,False,55-65,Female,Patna,Shoes,Fashion,5,7642.55,38212.75,Low,False
+ORD100586,ORD100586,False,2025-01-13,2025,Q1,1,Jan,Monday,False,CUST8826,Customer_206,20,False,18-24,Female,Gaya,Mobile,Electronics,7,22060.0,154420.0,High,False
+ORD100587,ORD100587,False,2025-09-04,2025,Q3,9,Sep,Thursday,False,CUST9700,Customer_441,25,False,25-34,Female,Kolkata,Laptop,Electronics,2,20074.3,40148.6,Low,False
+ORD100588,ORD100588,False,2025-03-20,2025,Q1,3,Mar,Thursday,False,CUST8600,Customer_53,42,False,35-44,Male,Hyderabad,Book,Education,2,5442.06,10884.12,Low,False
+ORD100589,ORD100589,False,2025-12-17,2025,Q4,12,Dec,Wednesday,False,CUST8513,Customer_125,49,False,45-54,Female,Pune,Mobile,Electronics,6,38159.29,228955.74,Very High,False
+ORD100590,ORD100590,False,2025-12-19,2025,Q4,12,Dec,Friday,False,CUST8595,Customer_63,44,False,35-44,Female,Mumbai,Laptop,Electronics,1,18229.0,18229.0,Low,False
+ORD100591,ORD100591,False,2025-06-27,2025,Q2,6,Jun,Friday,False,CUST9489,Customer_385,61,False,55-65,Male,Delhi,Book,Education,2,14656.73,29313.46,Low,False
+ORD100592,ORD100592,False,2025-08-08,2025,Q3,8,Aug,Friday,False,CUST7226,Customer_421,51,False,45-54,Male,Mumbai,Mobile,Electronics,3,1286.36,3859.08,Low,False
+ORD100593,ORD100593,False,2025-01-01,2025,Q1,1,Jan,Wednesday,False,CUST1840,Customer_90,43,False,35-44,Female,Kolkata,Laptop,Electronics,2,11893.8,23787.6,Low,False
+ORD100594,ORD100594,False,2025-08-06,2025,Q3,8,Aug,Wednesday,False,CUST9449,Customer_178,49,False,45-54,Female,Mumbai,Shoes,Fashion,2,11967.47,23934.94,Low,False
+ORD100595,ORD100595,False,2025-04-17,2025,Q2,4,Apr,Thursday,False,CUST3537,Customer_377,24,False,18-24,Female,Pune,Chair,Furniture,4,35411.73,141646.92,High,False
+ORD100596,ORD100596,False,2025-10-12,2025,Q4,10,Oct,Sunday,True,CUST4041,Customer_394,30,False,25-34,Female,Delhi,Rice,Grocery,1,15515.24,15515.24,Low,False
+ORD100597,ORD100597,False,2025-05-06,2025,Q2,5,May,Tuesday,False,CUST4417,Customer_234,52,False,45-54,Male,Mumbai,Mobile,Electronics,9,697.87,6280.83,Low,False
+ORD100598,ORD100598,False,2025-08-04,2025,Q3,8,Aug,Monday,False,CUST4099,Customer_377,55,False,55-65,Female,Delhi,Shoes,Fashion,10,20857.23,208572.3,Very High,False
+ORD100599,ORD100599,False,2025-03-28,2025,Q1,3,Mar,Friday,False,CUST3107,Customer_99,21,False,18-24,Female,Kolkata,Mobile,Electronics,8,3595.82,28766.56,Low,False
+ORD100600,ORD100050,True,2025-02-21,2025,Q1,2,Feb,Friday,False,CUST8859,Customer_53,40,True,35-44,Male,Unknown,Laptop,Electronics,7,20144.84,141013.88,High,False
+ORD100601,ORD100601,False,2025-04-02,2025,Q2,4,Apr,Wednesday,False,CUST9111,Customer_235,61,False,55-65,Female,Kolkata,Shoes,Fashion,5,30620.75,153103.75,High,False
+ORD100602,ORD100602,False,2025-09-05,2025,Q3,9,Sep,Friday,False,CUST8813,Customer_83,54,False,45-54,Male,Bengaluru,Laptop,Electronics,9,38955.26,350597.34,Very High,False
+ORD100603,ORD100603,False,2025-08-04,2025,Q3,8,Aug,Monday,False,CUST7221,Customer_478,39,False,35-44,Male,Gaya,Laptop,Electronics,2,7534.68,15069.36,Low,False
+ORD100604,ORD100604,False,2025-07-28,2025,Q3,7,Jul,Monday,False,CUST5899,Customer_500,31,False,25-34,Female,Gaya,Laptop,Electronics,4,5789.5,23158.0,Low,False
+ORD100605,ORD100605,False,2025-07-27,2025,Q3,7,Jul,Sunday,True,CUST4483,Customer_109,63,False,55-65,Female,Patna,Book,Education,8,46278.59,370228.72,Very High,False
+ORD100606,ORD100606,False,2025-02-20,2025,Q1,2,Feb,Thursday,False,CUST4438,Customer_133,56,False,55-65,Female,Kolkata,Chair,Furniture,2,14770.13,29540.26,Low,False
+ORD100607,ORD100607,False,2025-10-21,2025,Q4,10,Oct,Tuesday,False,CUST9123,Customer_395,27,False,25-34,Female,Mumbai,Rice,Grocery,6,45095.75,270574.5,Very High,False
+ORD100608,ORD100608,False,2025-07-22,2025,Q3,7,Jul,Tuesday,False,CUST2364,Customer_290,34,False,25-34,Female,Hyderabad,Rice,Grocery,8,10393.69,83149.52,Medium,False
+ORD100609,ORD100609,False,2025-02-20,2025,Q1,2,Feb,Thursday,False,CUST6314,Customer_66,19,False,18-24,Female,Gaya,Rice,Grocery,4,38952.78,155811.12,High,False
+ORD100610,ORD100610,False,2025-11-23,2025,Q4,11,Nov,Sunday,True,CUST8128,Customer_101,48,False,45-54,Male,Kolkata,Laptop,Electronics,5,3414.17,17070.85,Low,False
+ORD100611,ORD100611,False,2025-12-21,2025,Q4,12,Dec,Sunday,True,CUST8583,Customer_290,37,False,35-44,Female,Delhi,Laptop,Electronics,7,5129.02,35903.14,Low,False
+ORD100612,ORD100612,False,2025-04-09,2025,Q2,4,Apr,Wednesday,False,CUST4488,Customer_414,39,False,35-44,Female,Kolkata,Mobile,Electronics,3,15846.45,47539.35,Medium,False
+ORD100613,ORD100613,False,2025-06-01,2025,Q2,6,Jun,Sunday,True,CUST5178,Customer_170,23,False,18-24,Male,Mumbai,Book,Education,4,27448.01,109792.04,High,False
+ORD100614,ORD100614,False,2025-05-06,2025,Q2,5,May,Tuesday,False,CUST9217,Customer_448,39,False,35-44,Female,Delhi,Book,Education,4,5518.35,22073.4,Low,False
+ORD100615,ORD100615,False,2025-03-26,2025,Q1,3,Mar,Wednesday,False,CUST4150,Customer_415,31,False,25-34,Female,Delhi,Book,Education,9,39988.02,359892.18,Very High,False
+ORD100616,ORD100616,False,2025-12-10,2025,Q4,12,Dec,Wednesday,False,CUST3751,Customer_270,36,False,35-44,Male,Bengaluru,Shoes,Fashion,3,23079.96,69239.88,Medium,False
+ORD100617,ORD100617,False,2025-06-04,2025,Q2,6,Jun,Wednesday,False,CUST1991,Customer_359,41,False,35-44,Female,Kolkata,Book,Education,9,14044.67,126402.03,High,False
+ORD100618,ORD100618,False,2025-07-14,2025,Q3,7,Jul,Monday,False,CUST8124,Customer_344,33,False,25-34,Female,Pune,Shoes,Fashion,2,43693.36,87386.72,Medium,False
+ORD100619,ORD100619,False,2025-12-17,2025,Q4,12,Dec,Wednesday,False,CUST6678,Customer_241,41,False,35-44,Male,Kolkata,Rice,Grocery,2,14181.47,28362.94,Low,False
+ORD100620,ORD100620,False,2025-10-11,2025,Q4,10,Oct,Saturday,True,CUST8268,Customer_18,47,False,45-54,Female,Kolkata,Shoes,Fashion,4,28783.13,115132.52,High,False
+ORD100621,ORD100621,False,2025-12-25,2025,Q4,12,Dec,Thursday,False,CUST1835,Customer_81,61,False,55-65,Female,Gaya,Chair,Furniture,2,32432.65,64865.3,Medium,False
+ORD100622,ORD100622,False,2025-05-11,2025,Q2,5,May,Sunday,True,CUST3497,Customer_408,57,False,55-65,Male,Patna,Laptop,Electronics,4,29976.58,119906.32,High,False
+ORD100623,ORD100623,False,2025-02-13,2025,Q1,2,Feb,Thursday,False,CUST1452,Customer_68,62,False,55-65,Female,Hyderabad,Shoes,Fashion,7,38029.64,266207.48,Very High,False
+ORD100624,ORD100624,False,2025-06-21,2025,Q2,6,Jun,Saturday,True,CUST7416,Customer_191,54,False,45-54,Female,Hyderabad,Rice,Grocery,10,48255.19,482551.9,Very High,True
+ORD100625,ORD100625,False,2025-06-19,2025,Q2,6,Jun,Thursday,False,CUST4137,Customer_51,46,False,45-54,Male,Mumbai,Laptop,Electronics,9,27971.17,251740.53,Very High,False
+ORD100626,ORD100626,False,2025-11-26,2025,Q4,11,Nov,Wednesday,False,CUST8649,Customer_160,30,False,25-34,Male,Gaya,Rice,Grocery,9,46756.46,420808.14,Very High,False
+ORD100627,ORD100627,False,2025-02-02,2025,Q1,2,Feb,Sunday,True,CUST7361,Customer_159,20,False,18-24,Male,Hyderabad,Laptop,Electronics,3,47466.18,142398.54,High,False
+ORD100628,ORD100628,False,2025-06-13,2025,Q2,6,Jun,Friday,False,CUST9567,Customer_218,38,False,35-44,Male,Delhi,Shoes,Fashion,1,33193.9,33193.9,Low,False
+ORD100629,ORD100629,False,2025-05-16,2025,Q2,5,May,Friday,False,CUST6432,Customer_194,62,False,55-65,Male,Mumbai,Book,Education,1,46021.88,46021.88,Low,False
+ORD100630,ORD100630,False,2025-03-12,2025,Q1,3,Mar,Wednesday,False,CUST4934,Customer_25,41,False,35-44,Male,Bengaluru,Rice,Grocery,7,45512.65,318588.55,Very High,False
+ORD100631,ORD100631,False,2025-09-04,2025,Q3,9,Sep,Thursday,False,CUST6845,Customer_337,34,False,25-34,Male,Hyderabad,Chair,Furniture,9,46924.58,422321.22,Very High,False
+ORD100632,ORD100632,False,2025-03-02,2025,Q1,3,Mar,Sunday,True,CUST1252,Customer_81,24,False,18-24,Male,Pune,Shoes,Fashion,3,37343.19,112029.57,High,False
+ORD100633,ORD100633,False,2025-07-20,2025,Q3,7,Jul,Sunday,True,CUST1994,Customer_408,27,False,25-34,Female,Patna,Chair,Furniture,10,14175.96,141759.6,High,False
+ORD100634,ORD100634,False,2025-03-13,2025,Q1,3,Mar,Thursday,False,CUST9488,Customer_147,37,False,35-44,Male,Pune,Shoes,Fashion,8,7259.89,58079.12,Medium,False
+ORD100635,ORD100635,False,2025-11-20,2025,Q4,11,Nov,Thursday,False,CUST9421,Customer_213,58,False,55-65,Male,Patna,Chair,Furniture,3,257.28,771.84,Low,False
+ORD100636,ORD100636,False,2025-05-10,2025,Q2,5,May,Saturday,True,CUST4810,Customer_416,18,False,18-24,Male,Kolkata,Shoes,Fashion,4,24291.82,97167.28,Medium,False
+ORD100637,ORD100637,False,2025-03-10,2025,Q1,3,Mar,Monday,False,CUST1106,Customer_135,31,False,25-34,Male,Patna,Rice,Grocery,2,25919.18,51838.36,Medium,False
+ORD100638,ORD100638,False,2025-03-27,2025,Q1,3,Mar,Thursday,False,CUST9693,Customer_267,19,False,18-24,Male,Bengaluru,Rice,Grocery,4,24382.42,97529.68,Medium,False
+ORD100639,ORD100639,False,2025-05-08,2025,Q2,5,May,Thursday,False,CUST3004,Customer_162,46,False,45-54,Female,Pune,Shoes,Fashion,1,3971.35,3971.35,Low,False
+ORD100640,ORD100640,False,2025-10-13,2025,Q4,10,Oct,Monday,False,CUST6421,Customer_218,22,False,18-24,Male,Gaya,Laptop,Electronics,5,7739.33,38696.65,Low,False
+ORD100641,ORD100641,False,2025-06-14,2025,Q2,6,Jun,Saturday,True,CUST6345,Customer_214,32,False,25-34,Female,Delhi,Book,Education,1,34302.92,34302.92,Low,False
+ORD100642,ORD100642,False,2025-10-19,2025,Q4,10,Oct,Sunday,True,CUST9384,Customer_230,28,False,25-34,Female,Mumbai,Rice,Grocery,1,20626.25,20626.25,Low,False
+ORD100643,ORD100643,False,2025-05-12,2025,Q2,5,May,Monday,False,CUST9081,Customer_244,63,False,55-65,Female,Mumbai,Laptop,Electronics,9,39545.61,355910.49,Very High,False
+ORD100644,ORD100644,False,2025-09-18,2025,Q3,9,Sep,Thursday,False,CUST6589,Customer_367,30,False,25-34,Male,Kolkata,Chair,Furniture,3,23490.33,70470.99,Medium,False
+ORD100645,ORD100645,False,2025-05-04,2025,Q2,5,May,Sunday,True,CUST7844,Customer_469,53,False,45-54,Male,Patna,Chair,Furniture,6,22343.44,134060.64,High,False
+ORD100646,ORD100646,False,2025-08-29,2025,Q3,8,Aug,Friday,False,CUST4673,Customer_386,42,False,35-44,Female,Delhi,Shoes,Fashion,5,16279.37,81396.85,Medium,False
+ORD100647,ORD100647,False,2025-12-14,2025,Q4,12,Dec,Sunday,True,CUST7504,Customer_183,52,False,45-54,Male,Pune,Laptop,Electronics,4,26566.32,106265.28,Medium,False
+ORD100648,ORD100648,False,2025-09-09,2025,Q3,9,Sep,Tuesday,False,CUST6921,Customer_68,62,False,55-65,Female,Patna,Mobile,Electronics,6,1867.81,11206.86,Low,False
+ORD100649,ORD100649,False,2025-01-06,2025,Q1,1,Jan,Monday,False,CUST4109,Customer_31,53,False,45-54,Female,Delhi,Rice,Grocery,10,22106.78,221067.8,Very High,False
+ORD100650,ORD100650,False,2025-09-22,2025,Q3,9,Sep,Monday,False,CUST2181,Customer_125,41,True,35-44,Female,Bengaluru,Rice,Grocery,3,7467.04,22401.12,Low,False
+ORD100651,ORD100651,False,2025-01-31,2025,Q1,1,Jan,Friday,False,CUST8708,Customer_293,59,False,55-65,Male,Kolkata,Laptop,Electronics,7,27547.81,192834.67,High,False
+ORD100652,ORD100652,False,2025-02-03,2025,Q1,2,Feb,Monday,False,CUST7219,Customer_391,30,False,25-34,Male,Pune,Book,Education,10,22952.77,229527.7,Very High,False
+ORD100653,ORD100653,False,2025-04-21,2025,Q2,4,Apr,Monday,False,CUST5516,Customer_343,21,False,18-24,Male,Kolkata,Rice,Grocery,6,35222.23,211333.38,Very High,False
+ORD100654,ORD100654,False,2025-02-23,2025,Q1,2,Feb,Sunday,True,CUST9562,Customer_162,39,False,35-44,Male,Mumbai,Chair,Furniture,8,16240.66,129925.28,High,False
+ORD100655,ORD100655,False,2025-08-01,2025,Q3,8,Aug,Friday,False,CUST8347,Customer_236,55,False,55-65,Male,Hyderabad,Book,Education,1,12255.87,12255.87,Low,False
+ORD100656,ORD100656,False,2025-07-09,2025,Q3,7,Jul,Wednesday,False,CUST3567,Customer_407,21,False,18-24,Male,Bengaluru,Chair,Furniture,7,42941.88,300593.16,Very High,False
+ORD100657,ORD100657,False,2025-12-01,2025,Q4,12,Dec,Monday,False,CUST8110,Customer_268,54,False,45-54,Male,Delhi,Laptop,Electronics,10,10307.48,103074.8,Medium,False
+ORD100658,ORD100658,False,2025-10-14,2025,Q4,10,Oct,Tuesday,False,CUST4584,Customer_138,18,False,18-24,Female,Pune,Shoes,Fashion,10,46270.13,462701.3,Very High,True
+ORD100659,ORD100659,False,2025-09-02,2025,Q3,9,Sep,Tuesday,False,CUST4537,Customer_9,63,False,55-65,Male,Gaya,Book,Education,5,33524.03,167620.15,High,False
+ORD100660,ORD100660,False,2025-01-13,2025,Q1,1,Jan,Monday,False,CUST5154,Customer_453,20,False,18-24,Male,Mumbai,Book,Education,2,38065.84,76131.68,Medium,False
+ORD100661,ORD100661,False,2025-09-13,2025,Q3,9,Sep,Saturday,True,CUST9614,Customer_235,23,False,18-24,Male,Bengaluru,Shoes,Fashion,10,8465.62,84656.2,Medium,False
+ORD100662,ORD100662,False,2025-09-17,2025,Q3,9,Sep,Wednesday,False,CUST8300,Customer_242,44,False,35-44,Female,Hyderabad,Rice,Grocery,9,1610.18,14491.62,Low,False
+ORD100663,ORD100663,False,2025-07-20,2025,Q3,7,Jul,Sunday,True,CUST1673,Customer_103,18,False,18-24,Male,Gaya,Rice,Grocery,5,35120.83,175604.15,High,False
+ORD100664,ORD100664,False,2025-07-07,2025,Q3,7,Jul,Monday,False,CUST7016,Customer_88,33,False,25-34,Female,Pune,Chair,Furniture,6,30775.74,184654.44,High,False
+ORD100665,ORD100665,False,2025-07-04,2025,Q3,7,Jul,Friday,False,CUST2672,Customer_324,27,False,25-34,Female,Pune,Laptop,Electronics,4,47796.53,191186.12,High,False
+ORD100666,ORD100666,False,2025-12-15,2025,Q4,12,Dec,Monday,False,CUST3237,Customer_341,48,False,45-54,Female,Kolkata,Rice,Grocery,7,38583.88,270087.16,Very High,False
+ORD100667,ORD100667,False,2025-03-02,2025,Q1,3,Mar,Sunday,True,CUST2794,Customer_219,39,False,35-44,Male,Mumbai,Laptop,Electronics,6,38368.41,230210.46,Very High,False
+ORD100668,ORD100668,False,2025-03-22,2025,Q1,3,Mar,Saturday,True,CUST6684,Customer_426,59,False,55-65,Male,Bengaluru,Chair,Furniture,4,48299.85,193199.4,High,False
+ORD100669,ORD100669,False,2025-07-12,2025,Q3,7,Jul,Saturday,True,CUST3321,Customer_151,20,False,18-24,Female,Bengaluru,Laptop,Electronics,9,6889.29,62003.61,Medium,False
+ORD100670,ORD100670,False,2025-08-13,2025,Q3,8,Aug,Wednesday,False,CUST2904,Customer_269,60,False,55-65,Female,Bengaluru,Shoes,Fashion,10,41268.06,412680.6,Very High,False
+ORD100671,ORD100671,False,2025-07-16,2025,Q3,7,Jul,Wednesday,False,CUST1681,Customer_160,60,False,55-65,Male,Delhi,Shoes,Fashion,5,28065.77,140328.85,High,False
+ORD100672,ORD100672,False,2025-12-22,2025,Q4,12,Dec,Monday,False,CUST7863,Customer_316,37,False,35-44,Female,Gaya,Chair,Furniture,8,25269.25,202154.0,High,False
+ORD100673,ORD100673,False,2025-05-26,2025,Q2,5,May,Monday,False,CUST2218,Customer_392,57,False,55-65,Male,Delhi,Chair,Furniture,2,31615.64,63231.28,Medium,False
+ORD100674,ORD100674,False,2025-01-16,2025,Q1,1,Jan,Thursday,False,CUST6288,Customer_407,55,False,55-65,Male,Kolkata,Mobile,Electronics,1,17212.99,17212.99,Low,False
+ORD100675,ORD100675,False,2025-11-20,2025,Q4,11,Nov,Thursday,False,CUST8502,Customer_220,47,False,45-54,Male,Unknown,Laptop,Electronics,1,14756.18,14756.18,Low,False
+ORD100676,ORD100676,False,2025-12-04,2025,Q4,12,Dec,Thursday,False,CUST1433,Customer_391,47,False,45-54,Female,Mumbai,Shoes,Fashion,5,21694.12,108470.6,Medium,False
+ORD100677,ORD100677,False,2025-07-21,2025,Q3,7,Jul,Monday,False,CUST4997,Customer_371,31,False,25-34,Male,Hyderabad,Book,Education,8,5632.88,45063.04,Low,False
+ORD100678,ORD100678,False,2025-08-01,2025,Q3,8,Aug,Friday,False,CUST2827,Customer_287,35,False,35-44,Male,Hyderabad,Book,Education,5,16961.15,84805.75,Medium,False
+ORD100679,ORD100679,False,2025-05-30,2025,Q2,5,May,Friday,False,CUST4559,Customer_466,57,False,55-65,Female,Bengaluru,Mobile,Electronics,3,17500.41,52501.23,Medium,False
+ORD100680,ORD100680,False,2025-07-04,2025,Q3,7,Jul,Friday,False,CUST7093,Customer_174,23,False,18-24,Male,Mumbai,Chair,Furniture,5,47401.02,237005.1,Very High,False
+ORD100681,ORD100681,False,2025-07-07,2025,Q3,7,Jul,Monday,False,CUST8364,Customer_325,21,False,18-24,Male,Hyderabad,Mobile,Electronics,7,12194.92,85364.44,Medium,False
+ORD100682,ORD100682,False,2025-06-03,2025,Q2,6,Jun,Tuesday,False,CUST3285,Customer_232,30,False,25-34,Female,Mumbai,Mobile,Electronics,8,49052.97,392423.76,Very High,False
+ORD100683,ORD100683,False,2025-04-02,2025,Q2,4,Apr,Wednesday,False,CUST1104,Customer_328,64,False,55-65,Female,Hyderabad,Book,Education,4,22686.59,90746.36,Medium,False
+ORD100684,ORD100684,False,2025-02-08,2025,Q1,2,Feb,Saturday,True,CUST5155,Customer_165,57,False,55-65,Male,Bengaluru,Laptop,Electronics,5,34508.6,172543.0,High,False
+ORD100685,ORD100685,False,2025-10-24,2025,Q4,10,Oct,Friday,False,CUST6082,Customer_105,53,False,45-54,Female,Mumbai,Laptop,Electronics,7,21599.35,151195.45,High,False
+ORD100686,ORD100686,False,2025-12-06,2025,Q4,12,Dec,Saturday,True,CUST3966,Customer_338,47,False,45-54,Female,Hyderabad,Chair,Furniture,4,30019.56,120078.24,High,False
+ORD100687,ORD100687,False,2025-04-29,2025,Q2,4,Apr,Tuesday,False,CUST2093,Customer_428,38,False,35-44,Female,Mumbai,Laptop,Electronics,5,24358.21,121791.05,High,False
+ORD100688,ORD100688,False,2025-12-31,2025,Q4,12,Dec,Wednesday,False,CUST9957,Customer_116,29,False,25-34,Female,Pune,Chair,Furniture,6,16639.76,99838.56,Medium,False
+ORD100689,ORD100689,False,2025-11-13,2025,Q4,11,Nov,Thursday,False,CUST3682,Customer_132,56,False,55-65,Female,Kolkata,Book,Education,3,48276.39,144829.17,High,False
+ORD100690,ORD100690,False,2025-02-07,2025,Q1,2,Feb,Friday,False,CUST4110,Customer_73,59,False,55-65,Female,Kolkata,Rice,Grocery,9,40069.01,360621.09,Very High,False
+ORD100691,ORD100691,False,2025-08-03,2025,Q3,8,Aug,Sunday,True,CUST2597,Customer_354,22,False,18-24,Male,Kolkata,Mobile,Electronics,9,31937.15,287434.35,Very High,False
+ORD100692,ORD100692,False,2025-02-22,2025,Q1,2,Feb,Saturday,True,CUST8390,Customer_297,47,False,45-54,Female,Mumbai,Laptop,Electronics,7,40754.69,285282.83,Very High,False
+ORD100693,ORD100693,False,2025-12-09,2025,Q4,12,Dec,Tuesday,False,CUST4270,Customer_266,30,False,25-34,Male,Kolkata,Book,Education,10,45877.49,458774.9,Very High,True
+ORD100694,ORD100694,False,2025-06-22,2025,Q2,6,Jun,Sunday,True,CUST3138,Customer_440,30,False,25-34,Female,Mumbai,Rice,Grocery,5,20994.21,104971.05,Medium,False
+ORD100695,ORD100695,False,2025-11-30,2025,Q4,11,Nov,Sunday,True,CUST4602,Customer_150,26,False,25-34,Female,Pune,Chair,Furniture,2,3215.11,6430.22,Low,False
+ORD100696,ORD100696,False,2025-11-11,2025,Q4,11,Nov,Tuesday,False,CUST7631,Customer_115,62,False,55-65,Female,Gaya,Shoes,Fashion,4,26936.34,107745.36,Medium,False
+ORD100697,ORD100697,False,2025-04-18,2025,Q2,4,Apr,Friday,False,CUST8708,Customer_462,51,False,45-54,Female,Pune,Laptop,Electronics,9,29470.1,265230.9,Very High,False
+ORD100698,ORD100698,False,2025-03-04,2025,Q1,3,Mar,Tuesday,False,CUST7317,Customer_70,54,False,45-54,Female,Delhi,Book,Education,4,31076.31,124305.24,High,False
+ORD100699,ORD100699,False,2025-07-06,2025,Q3,7,Jul,Sunday,True,CUST2644,Customer_222,24,False,18-24,Male,Pune,Chair,Furniture,4,43864.35,175457.4,High,False
+ORD100700,ORD100700,False,2025-05-20,2025,Q2,5,May,Tuesday,False,CUST9674,Customer_232,41,True,35-44,Female,Mumbai,Mobile,Electronics,9,11808.33,106274.97,Medium,False
+ORD100701,ORD100701,False,2025-09-01,2025,Q3,9,Sep,Monday,False,CUST3078,Customer_230,22,False,18-24,Male,Gaya,Rice,Grocery,2,38128.32,76256.64,Medium,False
+ORD100702,ORD100702,False,2025-07-31,2025,Q3,7,Jul,Thursday,False,CUST8962,Customer_440,30,False,25-34,Female,Kolkata,Book,Education,9,28222.97,254006.73,Very High,False
+ORD100703,ORD100703,False,2025-01-18,2025,Q1,1,Jan,Saturday,True,CUST7236,Customer_366,38,False,35-44,Male,Gaya,Book,Education,6,21720.56,130323.36,High,False
+ORD100704,ORD100704,False,2025-08-18,2025,Q3,8,Aug,Monday,False,CUST4420,Customer_268,38,False,35-44,Male,Gaya,Chair,Furniture,3,4568.61,13705.83,Low,False
+ORD100705,ORD100705,False,2025-05-14,2025,Q2,5,May,Wednesday,False,CUST6621,Customer_104,19,False,18-24,Female,Mumbai,Book,Education,3,11492.49,34477.47,Low,False
+ORD100706,ORD100706,False,2025-05-05,2025,Q2,5,May,Monday,False,CUST8532,Customer_323,43,False,35-44,Female,Delhi,Chair,Furniture,3,23252.08,69756.24,Medium,False
+ORD100707,ORD100707,False,2025-11-19,2025,Q4,11,Nov,Wednesday,False,CUST6658,Customer_274,60,False,55-65,Male,Patna,Book,Education,9,31686.77,285180.93,Very High,False
+ORD100708,ORD100708,False,2025-10-06,2025,Q4,10,Oct,Monday,False,CUST4742,Customer_177,21,False,18-24,Male,Kolkata,Laptop,Electronics,2,37278.21,74556.42,Medium,False
+ORD100709,ORD100709,False,2025-04-23,2025,Q2,4,Apr,Wednesday,False,CUST2744,Customer_300,28,False,25-34,Male,Bengaluru,Laptop,Electronics,6,12680.8,76084.8,Medium,False
+ORD100710,ORD100710,False,2025-05-24,2025,Q2,5,May,Saturday,True,CUST6870,Customer_53,51,False,45-54,Female,Hyderabad,Rice,Grocery,4,17704.67,70818.68,Medium,False
+ORD100711,ORD100711,False,2025-01-07,2025,Q1,1,Jan,Tuesday,False,CUST1175,Customer_472,20,False,18-24,Female,Gaya,Shoes,Fashion,5,22734.66,113673.3,High,False
+ORD100712,ORD100712,False,2025-09-04,2025,Q3,9,Sep,Thursday,False,CUST3745,Customer_138,55,False,55-65,Female,Hyderabad,Laptop,Electronics,6,36277.76,217666.56,Very High,False
+ORD100713,ORD100713,False,2025-12-14,2025,Q4,12,Dec,Sunday,True,CUST6638,Customer_350,45,False,45-54,Male,Bengaluru,Shoes,Fashion,6,27885.58,167313.48,High,False
+ORD100714,ORD100714,False,2025-05-05,2025,Q2,5,May,Monday,False,CUST4037,Customer_205,30,False,25-34,Male,Kolkata,Mobile,Electronics,10,47079.86,470798.6,Very High,True
+ORD100715,ORD100715,False,2025-01-06,2025,Q1,1,Jan,Monday,False,CUST8877,Customer_105,23,False,18-24,Female,Kolkata,Book,Education,2,30201.81,60403.62,Medium,False
+ORD100716,ORD100716,False,2025-02-08,2025,Q1,2,Feb,Saturday,True,CUST6096,Customer_53,51,False,45-54,Female,Patna,Shoes,Fashion,6,32890.28,197341.68,High,False
+ORD100717,ORD100717,False,2025-02-24,2025,Q1,2,Feb,Monday,False,CUST7371,Customer_463,38,False,35-44,Female,Bengaluru,Mobile,Electronics,1,39342.98,39342.98,Low,False
+ORD100718,ORD100718,False,2025-02-27,2025,Q1,2,Feb,Thursday,False,CUST4532,Customer_68,52,False,45-54,Male,Pune,Shoes,Fashion,5,42114.22,210571.1,Very High,False
+ORD100719,ORD100719,False,2025-09-13,2025,Q3,9,Sep,Saturday,True,CUST6697,Customer_137,26,False,25-34,Male,Pune,Chair,Furniture,5,15011.99,75059.95,Medium,False
+ORD100720,ORD100050,True,2025-11-06,2025,Q4,11,Nov,Thursday,False,CUST7824,Customer_190,31,False,25-34,Female,Mumbai,Rice,Grocery,4,42642.59,170570.36,High,False
+ORD100721,ORD100721,False,2025-09-14,2025,Q3,9,Sep,Sunday,True,CUST7615,Customer_277,37,False,35-44,Male,Patna,Rice,Grocery,6,27168.79,163012.74,High,False
+ORD100722,ORD100722,False,2025-08-13,2025,Q3,8,Aug,Wednesday,False,CUST8431,Customer_90,28,False,25-34,Male,Delhi,Rice,Grocery,7,31567.62,220973.34,Very High,False
+ORD100723,ORD100723,False,2025-11-28,2025,Q4,11,Nov,Friday,False,CUST8657,Customer_495,58,False,55-65,Female,Delhi,Laptop,Electronics,10,44401.64,444016.4,Very High,True
+ORD100724,ORD100724,False,2025-01-28,2025,Q1,1,Jan,Tuesday,False,CUST6762,Customer_235,47,False,45-54,Male,Delhi,Rice,Grocery,2,5467.01,10934.02,Low,False
+ORD100725,ORD100725,False,2025-10-10,2025,Q4,10,Oct,Friday,False,CUST5477,Customer_249,37,False,35-44,Female,Kolkata,Laptop,Electronics,7,40635.52,284448.64,Very High,False
+ORD100726,ORD100726,False,2025-07-06,2025,Q3,7,Jul,Sunday,True,CUST8338,Customer_90,38,False,35-44,Male,Pune,Shoes,Fashion,7,26916.23,188413.61,High,False
+ORD100727,ORD100727,False,2025-09-29,2025,Q3,9,Sep,Monday,False,CUST3850,Customer_163,27,False,25-34,Female,Kolkata,Chair,Furniture,5,24409.5,122047.5,High,False
+ORD100728,ORD100728,False,2025-10-11,2025,Q4,10,Oct,Saturday,True,CUST8017,Customer_371,37,False,35-44,Male,Patna,Chair,Furniture,10,19600.31,196003.1,High,False
+ORD100729,ORD100729,False,2025-07-30,2025,Q3,7,Jul,Wednesday,False,CUST5295,Customer_223,58,False,55-65,Female,Kolkata,Book,Education,3,40119.65,120358.95,High,False
+ORD100730,ORD100730,False,2025-01-05,2025,Q1,1,Jan,Sunday,True,CUST4553,Customer_489,44,False,35-44,Female,Kolkata,Chair,Furniture,5,33187.56,165937.8,High,False
+ORD100731,ORD100731,False,2025-06-30,2025,Q2,6,Jun,Monday,False,CUST1269,Customer_423,22,False,18-24,Female,Gaya,Book,Education,3,26807.04,80421.12,Medium,False
+ORD100732,ORD100732,False,2025-01-09,2025,Q1,1,Jan,Thursday,False,CUST6578,Customer_194,64,False,55-65,Female,Hyderabad,Shoes,Fashion,1,19202.88,19202.88,Low,False
+ORD100733,ORD100733,False,2025-02-13,2025,Q1,2,Feb,Thursday,False,CUST2832,Customer_204,22,False,18-24,Male,Pune,Chair,Furniture,6,27085.46,162512.76,High,False
+ORD100734,ORD100734,False,2025-03-07,2025,Q1,3,Mar,Friday,False,CUST8314,Customer_440,28,False,25-34,Female,Gaya,Chair,Furniture,3,24462.54,73387.62,Medium,False
+ORD100735,ORD100735,False,2025-01-27,2025,Q1,1,Jan,Monday,False,CUST7026,Customer_317,28,False,25-34,Male,Bengaluru,Rice,Grocery,6,25359.39,152156.34,High,False
+ORD100736,ORD100736,False,2025-09-23,2025,Q3,9,Sep,Tuesday,False,CUST2793,Customer_462,32,False,25-34,Female,Gaya,Mobile,Electronics,6,19210.66,115263.96,High,False
+ORD100737,ORD100737,False,2025-02-27,2025,Q1,2,Feb,Thursday,False,CUST7522,Customer_322,53,False,45-54,Female,Kolkata,Rice,Grocery,5,414.13,2070.65,Low,False
+ORD100738,ORD100738,False,2025-12-29,2025,Q4,12,Dec,Monday,False,CUST1987,Customer_35,24,False,18-24,Male,Kolkata,Laptop,Electronics,6,9761.46,58568.76,Medium,False
+ORD100739,ORD100739,False,2025-12-17,2025,Q4,12,Dec,Wednesday,False,CUST9414,Customer_359,61,False,55-65,Female,Hyderabad,Rice,Grocery,4,19284.6,77138.4,Medium,False
+ORD100740,ORD100740,False,2025-07-13,2025,Q3,7,Jul,Sunday,True,CUST2589,Customer_426,49,False,45-54,Male,Delhi,Laptop,Electronics,4,21098.23,84392.92,Medium,False
+ORD100741,ORD100741,False,2025-09-30,2025,Q3,9,Sep,Tuesday,False,CUST8851,Customer_118,64,False,55-65,Male,Kolkata,Chair,Furniture,2,1876.89,3753.78,Low,False
+ORD100742,ORD100742,False,2025-10-31,2025,Q4,10,Oct,Friday,False,CUST4103,Customer_454,33,False,25-34,Male,Pune,Rice,Grocery,7,9084.03,63588.21,Medium,False
+ORD100743,ORD100743,False,2025-03-09,2025,Q1,3,Mar,Sunday,True,CUST2138,Customer_303,42,False,35-44,Female,Gaya,Rice,Grocery,3,45959.58,137878.74,High,False
+ORD100744,ORD100744,False,2025-09-11,2025,Q3,9,Sep,Thursday,False,CUST9645,Customer_238,29,False,25-34,Male,Pune,Chair,Furniture,8,8692.39,69539.12,Medium,False
+ORD100745,ORD100745,False,2025-11-27,2025,Q4,11,Nov,Thursday,False,CUST5624,Customer_25,22,False,18-24,Male,Patna,Laptop,Electronics,7,45703.28,319922.96,Very High,False
+ORD100746,ORD100746,False,2025-11-13,2025,Q4,11,Nov,Thursday,False,CUST9518,Customer_192,22,False,18-24,Male,Pune,Mobile,Electronics,4,30973.53,123894.12,High,False
+ORD100747,ORD100747,False,2025-01-04,2025,Q1,1,Jan,Saturday,True,CUST9339,Customer_127,55,False,55-65,Male,Patna,Chair,Furniture,5,49147.41,245737.05,Very High,False
+ORD100748,ORD100748,False,2025-04-22,2025,Q2,4,Apr,Tuesday,False,CUST9465,Customer_274,57,False,55-65,Male,Gaya,Laptop,Electronics,10,17533.55,175335.5,High,False
+ORD100749,ORD100749,False,2025-04-23,2025,Q2,4,Apr,Wednesday,False,CUST6348,Customer_412,22,False,18-24,Female,Kolkata,Laptop,Electronics,5,18457.22,92286.1,Medium,False
+ORD100750,ORD100750,False,2025-07-18,2025,Q3,7,Jul,Friday,False,CUST3730,Customer_273,41,True,35-44,Female,Unknown,Chair,Furniture,10,43808.06,438080.6,Very High,False
+ORD100751,ORD100751,False,2025-01-11,2025,Q1,1,Jan,Saturday,True,CUST8058,Customer_273,60,False,55-65,Female,Pune,Book,Education,6,24375.93,146255.58,High,False
+ORD100752,ORD100752,False,2025-03-12,2025,Q1,3,Mar,Wednesday,False,CUST2921,Customer_420,27,False,25-34,Male,Patna,Shoes,Fashion,4,34969.02,139876.08,High,False
+ORD100753,ORD100753,False,2025-09-19,2025,Q3,9,Sep,Friday,False,CUST9650,Customer_361,33,False,25-34,Female,Hyderabad,Book,Education,1,17299.04,17299.04,Low,False
+ORD100754,ORD100754,False,2025-01-24,2025,Q1,1,Jan,Friday,False,CUST2604,Customer_356,40,False,35-44,Male,Kolkata,Mobile,Electronics,5,10274.45,51372.25,Medium,False
+ORD100755,ORD100755,False,2025-11-19,2025,Q4,11,Nov,Wednesday,False,CUST9651,Customer_461,60,False,55-65,Female,Delhi,Book,Education,10,24270.17,242701.7,Very High,False
+ORD100756,ORD100756,False,2025-12-20,2025,Q4,12,Dec,Saturday,True,CUST1637,Customer_70,59,False,55-65,Male,Patna,Rice,Grocery,10,2066.93,20669.3,Low,False
+ORD100757,ORD100757,False,2025-05-08,2025,Q2,5,May,Thursday,False,CUST9515,Customer_52,29,False,25-34,Female,Kolkata,Chair,Furniture,10,13304.47,133044.7,High,False
+ORD100758,ORD100758,False,2025-11-02,2025,Q4,11,Nov,Sunday,True,CUST7173,Customer_44,21,False,18-24,Male,Hyderabad,Mobile,Electronics,5,9442.5,47212.5,Medium,False
+ORD100759,ORD100759,False,2025-06-04,2025,Q2,6,Jun,Wednesday,False,CUST6279,Customer_97,21,False,18-24,Female,Kolkata,Mobile,Electronics,10,25698.62,256986.2,Very High,False
+ORD100760,ORD100760,False,2025-12-27,2025,Q4,12,Dec,Saturday,True,CUST2867,Customer_221,61,False,55-65,Male,Hyderabad,Shoes,Fashion,8,32219.95,257759.6,Very High,False
+ORD100761,ORD100761,False,2025-10-02,2025,Q4,10,Oct,Thursday,False,CUST3851,Customer_487,59,False,55-65,Male,Delhi,Laptop,Electronics,2,14931.2,29862.4,Low,False
+ORD100762,ORD100762,False,2025-12-07,2025,Q4,12,Dec,Sunday,True,CUST8729,Customer_72,48,False,45-54,Male,Kolkata,Chair,Furniture,4,40783.14,163132.56,High,False
+ORD100763,ORD100763,False,2025-05-01,2025,Q2,5,May,Thursday,False,CUST3580,Customer_60,56,False,55-65,Female,Gaya,Laptop,Electronics,5,17824.96,89124.8,Medium,False
+ORD100764,ORD100764,False,2025-10-13,2025,Q4,10,Oct,Monday,False,CUST4706,Customer_200,32,False,25-34,Male,Bengaluru,Laptop,Electronics,10,49217.41,492174.1,Very High,True
+ORD100765,ORD100765,False,2025-07-05,2025,Q3,7,Jul,Saturday,True,CUST8834,Customer_413,61,False,55-65,Female,Mumbai,Rice,Grocery,2,36631.23,73262.46,Medium,False
+ORD100766,ORD100766,False,2025-06-24,2025,Q2,6,Jun,Tuesday,False,CUST6815,Customer_295,43,False,35-44,Female,Patna,Chair,Furniture,3,5550.25,16650.75,Low,False
+ORD100767,ORD100767,False,2025-03-31,2025,Q1,3,Mar,Monday,False,CUST1790,Customer_12,43,False,35-44,Male,Hyderabad,Mobile,Electronics,1,12225.22,12225.22,Low,False
+ORD100768,ORD100768,False,2025-05-09,2025,Q2,5,May,Friday,False,CUST9952,Customer_453,30,False,25-34,Female,Bengaluru,Mobile,Electronics,10,19819.95,198199.5,High,False
+ORD100769,ORD100769,False,2025-10-10,2025,Q4,10,Oct,Friday,False,CUST7600,Customer_208,23,False,18-24,Male,Pune,Laptop,Electronics,1,42736.43,42736.43,Low,False
+ORD100770,ORD100770,False,2025-01-08,2025,Q1,1,Jan,Wednesday,False,CUST9628,Customer_422,27,False,25-34,Male,Bengaluru,Chair,Furniture,2,36426.05,72852.1,Medium,False
+ORD100771,ORD100771,False,2025-10-31,2025,Q4,10,Oct,Friday,False,CUST5415,Customer_460,29,False,25-34,Female,Delhi,Shoes,Fashion,1,12121.61,12121.61,Low,False
+ORD100772,ORD100772,False,2025-10-16,2025,Q4,10,Oct,Thursday,False,CUST6752,Customer_52,65,False,55-65,Male,Kolkata,Rice,Grocery,5,11824.36,59121.8,Medium,False
+ORD100773,ORD100773,False,2025-04-24,2025,Q2,4,Apr,Thursday,False,CUST7110,Customer_176,60,False,55-65,Male,Hyderabad,Mobile,Electronics,4,988.45,3953.8,Low,False
+ORD100774,ORD100774,False,2025-10-06,2025,Q4,10,Oct,Monday,False,CUST5240,Customer_379,43,False,35-44,Male,Patna,Mobile,Electronics,7,13263.83,92846.81,Medium,False
+ORD100775,ORD100775,False,2025-01-10,2025,Q1,1,Jan,Friday,False,CUST5505,Customer_189,38,False,35-44,Female,Bengaluru,Book,Education,6,35023.55,210141.3,Very High,False
+ORD100776,ORD100776,False,2025-07-09,2025,Q3,7,Jul,Wednesday,False,CUST6116,Customer_343,32,False,25-34,Female,Gaya,Chair,Furniture,10,8630.9,86309.0,Medium,False
+ORD100777,ORD100777,False,2025-02-16,2025,Q1,2,Feb,Sunday,True,CUST3566,Customer_430,45,False,45-54,Female,Patna,Mobile,Electronics,6,29757.58,178545.48,High,False
+ORD100778,ORD100778,False,2025-12-04,2025,Q4,12,Dec,Thursday,False,CUST3763,Customer_257,57,False,55-65,Male,Hyderabad,Chair,Furniture,2,45538.2,91076.4,Medium,False
+ORD100779,ORD100779,False,2025-04-18,2025,Q2,4,Apr,Friday,False,CUST3948,Customer_465,38,False,35-44,Male,Hyderabad,Chair,Furniture,6,19454.75,116728.5,High,False
+ORD100780,ORD100780,False,2025-07-29,2025,Q3,7,Jul,Tuesday,False,CUST2369,Customer_259,56,False,55-65,Male,Mumbai,Chair,Furniture,3,21435.84,64307.52,Medium,False
+ORD100781,ORD100781,False,2025-02-21,2025,Q1,2,Feb,Friday,False,CUST3542,Customer_156,51,False,45-54,Male,Patna,Laptop,Electronics,1,47618.43,47618.43,Medium,False
+ORD100782,ORD100782,False,2025-12-23,2025,Q4,12,Dec,Tuesday,False,CUST7724,Customer_365,38,False,35-44,Male,Kolkata,Book,Education,4,25110.56,100442.24,Medium,False
+ORD100783,ORD100783,False,2025-09-20,2025,Q3,9,Sep,Saturday,True,CUST5419,Customer_263,65,False,55-65,Female,Patna,Book,Education,9,797.71,7179.39,Low,False
+ORD100784,ORD100784,False,2025-12-11,2025,Q4,12,Dec,Thursday,False,CUST6571,Customer_156,43,False,35-44,Female,Pune,Chair,Furniture,3,25235.41,75706.23,Medium,False
+ORD100785,ORD100785,False,2025-01-18,2025,Q1,1,Jan,Saturday,True,CUST7650,Customer_453,50,False,45-54,Male,Kolkata,Book,Education,8,43467.0,347736.0,Very High,False
+ORD100786,ORD100786,False,2025-10-14,2025,Q4,10,Oct,Tuesday,False,CUST7445,Customer_233,60,False,55-65,Female,Bengaluru,Shoes,Fashion,9,35691.39,321222.51,Very High,False
+ORD100787,ORD100787,False,2025-06-22,2025,Q2,6,Jun,Sunday,True,CUST6565,Customer_431,50,False,45-54,Female,Gaya,Book,Education,6,28107.77,168646.62,High,False
+ORD100788,ORD100788,False,2025-05-04,2025,Q2,5,May,Sunday,True,CUST2969,Customer_287,59,False,55-65,Male,Kolkata,Rice,Grocery,6,39662.1,237972.6,Very High,False
+ORD100789,ORD100789,False,2025-07-13,2025,Q3,7,Jul,Sunday,True,CUST3298,Customer_155,63,False,55-65,Female,Kolkata,Rice,Grocery,5,14533.4,72667.0,Medium,False
+ORD100790,ORD100790,False,2025-12-28,2025,Q4,12,Dec,Sunday,True,CUST3260,Customer_237,55,False,55-65,Male,Mumbai,Book,Education,9,12322.26,110900.34,High,False
+ORD100791,ORD100791,False,2025-09-03,2025,Q3,9,Sep,Wednesday,False,CUST9962,Customer_161,45,False,45-54,Male,Mumbai,Chair,Furniture,10,18178.32,181783.2,High,False
+ORD100792,ORD100792,False,2025-05-21,2025,Q2,5,May,Wednesday,False,CUST6814,Customer_70,62,False,55-65,Male,Bengaluru,Shoes,Fashion,9,6282.93,56546.37,Medium,False
+ORD100793,ORD100793,False,2025-12-11,2025,Q4,12,Dec,Thursday,False,CUST2859,Customer_395,21,False,18-24,Female,Kolkata,Rice,Grocery,4,40391.3,161565.2,High,False
+ORD100794,ORD100794,False,2025-05-24,2025,Q2,5,May,Saturday,True,CUST7228,Customer_200,21,False,18-24,Female,Bengaluru,Shoes,Fashion,3,39157.52,117472.56,High,False
+ORD100795,ORD100795,False,2025-01-30,2025,Q1,1,Jan,Thursday,False,CUST2551,Customer_343,19,False,18-24,Male,Patna,Book,Education,5,12334.78,61673.9,Medium,False
+ORD100796,ORD100796,False,2026-01-01,2026,Q1,1,Jan,Thursday,False,CUST6845,Customer_385,57,False,55-65,Female,Mumbai,Shoes,Fashion,9,38573.17,347158.53,Very High,False
+ORD100797,ORD100797,False,2025-07-22,2025,Q3,7,Jul,Tuesday,False,CUST5806,Customer_167,48,False,45-54,Male,Bengaluru,Book,Education,6,18842.34,113054.04,High,False
+ORD100798,ORD100798,False,2025-07-01,2025,Q3,7,Jul,Tuesday,False,CUST5718,Customer_251,62,False,55-65,Female,Kolkata,Shoes,Fashion,4,20118.35,80473.4,Medium,False
+ORD100799,ORD100799,False,2025-11-07,2025,Q4,11,Nov,Friday,False,CUST8242,Customer_492,51,False,45-54,Male,Mumbai,Rice,Grocery,6,39243.45,235460.7,Very High,False
+ORD100800,ORD100800,False,2025-09-27,2025,Q3,9,Sep,Saturday,True,CUST1618,Customer_166,40,True,35-44,Male,Patna,Rice,Grocery,10,15891.66,158916.6,High,False
+ORD100801,ORD100801,False,2025-05-10,2025,Q2,5,May,Saturday,True,CUST3297,Customer_465,47,False,45-54,Male,Gaya,Mobile,Electronics,1,40350.67,40350.67,Low,False
+ORD100802,ORD100802,False,2025-11-14,2025,Q4,11,Nov,Friday,False,CUST4901,Customer_327,29,False,25-34,Female,Mumbai,Rice,Grocery,1,47545.23,47545.23,Medium,False
+ORD100803,ORD100803,False,2025-10-11,2025,Q4,10,Oct,Saturday,True,CUST3189,Customer_384,30,False,25-34,Female,Kolkata,Book,Education,4,17304.91,69219.64,Medium,False
+ORD100804,ORD100804,False,2025-12-11,2025,Q4,12,Dec,Thursday,False,CUST3690,Customer_413,32,False,25-34,Female,Delhi,Book,Education,6,17079.99,102479.94,Medium,False
+ORD100805,ORD100805,False,2025-05-22,2025,Q2,5,May,Thursday,False,CUST7876,Customer_34,57,False,55-65,Male,Bengaluru,Shoes,Fashion,9,44772.96,402956.64,Very High,False
+ORD100806,ORD100806,False,2025-03-02,2025,Q1,3,Mar,Sunday,True,CUST9089,Customer_303,50,False,45-54,Female,Gaya,Shoes,Fashion,10,32483.32,324833.2,Very High,False
+ORD100807,ORD100807,False,2025-10-05,2025,Q4,10,Oct,Sunday,True,CUST6442,Customer_10,62,False,55-65,Male,Kolkata,Chair,Furniture,9,47699.69,429297.21,Very High,False
+ORD100808,ORD100808,False,2025-06-20,2025,Q2,6,Jun,Friday,False,CUST9514,Customer_180,28,False,25-34,Female,Patna,Chair,Furniture,2,23127.63,46255.26,Low,False
+ORD100809,ORD100809,False,2025-06-02,2025,Q2,6,Jun,Monday,False,CUST7903,Customer_163,60,False,55-65,Female,Bengaluru,Shoes,Fashion,6,16882.56,101295.36,Medium,False
+ORD100810,ORD100810,False,2025-06-04,2025,Q2,6,Jun,Wednesday,False,CUST1658,Customer_324,52,False,45-54,Male,Hyderabad,Rice,Grocery,6,32296.32,193777.92,High,False
+ORD100811,ORD100811,False,2025-01-04,2025,Q1,1,Jan,Saturday,True,CUST6719,Customer_394,30,False,25-34,Female,Patna,Book,Education,3,15090.15,45270.45,Low,False
+ORD100812,ORD100812,False,2025-01-31,2025,Q1,1,Jan,Friday,False,CUST4941,Customer_457,50,False,45-54,Female,Mumbai,Chair,Furniture,2,30197.53,60395.06,Medium,False
+ORD100813,ORD100813,False,2025-05-14,2025,Q2,5,May,Wednesday,False,CUST5851,Customer_418,50,False,45-54,Male,Patna,Mobile,Electronics,2,41544.45,83088.9,Medium,False
+ORD100814,ORD100814,False,2025-09-17,2025,Q3,9,Sep,Wednesday,False,CUST1149,Customer_14,40,False,35-44,Female,Hyderabad,Laptop,Electronics,8,42593.69,340749.52,Very High,False
+ORD100815,ORD100815,False,2025-09-08,2025,Q3,9,Sep,Monday,False,CUST6336,Customer_63,52,False,45-54,Male,Delhi,Mobile,Electronics,1,26771.99,26771.99,Low,False
+ORD100816,ORD100816,False,2025-06-04,2025,Q2,6,Jun,Wednesday,False,CUST1960,Customer_367,44,False,35-44,Male,Kolkata,Rice,Grocery,9,31690.41,285213.69,Very High,False
+ORD100817,ORD100817,False,2025-03-29,2025,Q1,3,Mar,Saturday,True,CUST6933,Customer_224,23,False,18-24,Female,Patna,Rice,Grocery,6,20913.85,125483.1,High,False
+ORD100818,ORD100818,False,2025-07-05,2025,Q3,7,Jul,Saturday,True,CUST3006,Customer_343,49,False,45-54,Male,Hyderabad,Chair,Furniture,7,36034.1,252238.7,Very High,False
+ORD100819,ORD100819,False,2025-12-09,2025,Q4,12,Dec,Tuesday,False,CUST8754,Customer_77,28,False,25-34,Male,Kolkata,Mobile,Electronics,8,21646.64,173173.12,High,False
+ORD100820,ORD100820,False,2025-01-09,2025,Q1,1,Jan,Thursday,False,CUST9458,Customer_391,60,False,55-65,Male,Bengaluru,Laptop,Electronics,1,21553.66,21553.66,Low,False
+ORD100821,ORD100821,False,2025-06-16,2025,Q2,6,Jun,Monday,False,CUST4979,Customer_273,45,False,45-54,Male,Mumbai,Book,Education,3,17152.2,51456.6,Medium,False
+ORD100822,ORD100822,False,2025-09-15,2025,Q3,9,Sep,Monday,False,CUST6340,Customer_125,37,False,35-44,Female,Gaya,Rice,Grocery,1,21368.29,21368.29,Low,False
+ORD100823,ORD100823,False,2025-07-21,2025,Q3,7,Jul,Monday,False,CUST7814,Customer_134,20,False,18-24,Female,Bengaluru,Shoes,Fashion,7,47413.32,331893.24,Very High,False
+ORD100824,ORD100824,False,2025-03-30,2025,Q1,3,Mar,Sunday,True,CUST8199,Customer_39,64,False,55-65,Female,Gaya,Chair,Furniture,4,2716.24,10864.96,Low,False
+ORD100825,ORD100825,False,2025-07-13,2025,Q3,7,Jul,Sunday,True,CUST9718,Customer_11,57,False,55-65,Female,Unknown,Laptop,Electronics,2,45863.13,91726.26,Medium,False
+ORD100826,ORD100826,False,2025-04-05,2025,Q2,4,Apr,Saturday,True,CUST7065,Customer_335,24,False,18-24,Female,Bengaluru,Shoes,Fashion,5,48228.96,241144.8,Very High,False
+ORD100827,ORD100827,False,2025-06-19,2025,Q2,6,Jun,Thursday,False,CUST6162,Customer_165,42,False,35-44,Male,Mumbai,Laptop,Electronics,1,31849.44,31849.44,Low,False
+ORD100828,ORD100828,False,2025-11-03,2025,Q4,11,Nov,Monday,False,CUST6944,Customer_460,33,False,25-34,Male,Gaya,Book,Education,4,8685.69,34742.76,Low,False
+ORD100829,ORD100829,False,2025-02-27,2025,Q1,2,Feb,Thursday,False,CUST8319,Customer_362,44,False,35-44,Male,Delhi,Rice,Grocery,2,49685.64,99371.28,Medium,False
+ORD100830,ORD100830,False,2025-04-10,2025,Q2,4,Apr,Thursday,False,CUST6540,Customer_230,19,False,18-24,Male,Kolkata,Shoes,Fashion,8,10921.12,87368.96,Medium,False
+ORD100831,ORD100831,False,2025-01-09,2025,Q1,1,Jan,Thursday,False,CUST8453,Customer_68,53,False,45-54,Female,Patna,Laptop,Electronics,3,33896.35,101689.05,Medium,False
+ORD100832,ORD100832,False,2025-08-16,2025,Q3,8,Aug,Saturday,True,CUST5605,Customer_23,30,False,25-34,Female,Kolkata,Shoes,Fashion,4,31512.79,126051.16,High,False
+ORD100833,ORD100833,False,2025-11-05,2025,Q4,11,Nov,Wednesday,False,CUST8704,Customer_440,20,False,18-24,Female,Kolkata,Mobile,Electronics,6,17944.07,107664.42,Medium,False
+ORD100834,ORD100834,False,2025-12-03,2025,Q4,12,Dec,Wednesday,False,CUST3264,Customer_227,51,False,45-54,Female,Gaya,Mobile,Electronics,3,14145.7,42437.1,Low,False
+ORD100835,ORD100835,False,2025-03-21,2025,Q1,3,Mar,Friday,False,CUST9364,Customer_352,62,False,55-65,Female,Gaya,Book,Education,3,33186.38,99559.14,Medium,False
+ORD100836,ORD100836,False,2025-06-10,2025,Q2,6,Jun,Tuesday,False,CUST3366,Customer_47,23,False,18-24,Male,Patna,Mobile,Electronics,5,24537.11,122685.55,High,False
+ORD100837,ORD100837,False,2025-09-05,2025,Q3,9,Sep,Friday,False,CUST6067,Customer_499,26,False,25-34,Male,Kolkata,Mobile,Electronics,4,7989.47,31957.88,Low,False
+ORD100838,ORD100838,False,2025-11-27,2025,Q4,11,Nov,Thursday,False,CUST5389,Customer_362,44,False,35-44,Female,Mumbai,Shoes,Fashion,6,9784.56,58707.36,Medium,False
+ORD100839,ORD100839,False,2025-05-12,2025,Q2,5,May,Monday,False,CUST8766,Customer_140,47,False,45-54,Female,Hyderabad,Laptop,Electronics,5,47021.1,235105.5,Very High,False
+ORD100840,ORD100050,True,2025-08-03,2025,Q3,8,Aug,Sunday,True,CUST5585,Customer_289,35,False,35-44,Male,Kolkata,Chair,Furniture,9,28747.47,258727.23,Very High,False
+ORD100841,ORD100841,False,2025-04-16,2025,Q2,4,Apr,Wednesday,False,CUST7544,Customer_225,26,False,25-34,Male,Mumbai,Book,Education,10,35093.39,350933.9,Very High,False
+ORD100842,ORD100842,False,2025-11-06,2025,Q4,11,Nov,Thursday,False,CUST8217,Customer_83,43,False,35-44,Female,Delhi,Book,Education,3,22843.06,68529.18,Medium,False
+ORD100843,ORD100843,False,2025-06-05,2025,Q2,6,Jun,Thursday,False,CUST6780,Customer_262,42,False,35-44,Female,Hyderabad,Book,Education,7,38502.79,269519.53,Very High,False
+ORD100844,ORD100844,False,2025-08-22,2025,Q3,8,Aug,Friday,False,CUST9804,Customer_284,32,False,25-34,Male,Patna,Mobile,Electronics,5,45283.42,226417.1,Very High,False
+ORD100845,ORD100845,False,2025-11-07,2025,Q4,11,Nov,Friday,False,CUST5876,Customer_389,42,False,35-44,Female,Patna,Mobile,Electronics,6,37149.97,222899.82,Very High,False
+ORD100846,ORD100846,False,2025-09-29,2025,Q3,9,Sep,Monday,False,CUST1026,Customer_445,65,False,55-65,Female,Kolkata,Book,Education,7,23566.47,164965.29,High,False
+ORD100847,ORD100847,False,2025-11-08,2025,Q4,11,Nov,Saturday,True,CUST5432,Customer_163,57,False,55-65,Male,Patna,Shoes,Fashion,10,1557.12,15571.2,Low,False
+ORD100848,ORD100848,False,2025-03-28,2025,Q1,3,Mar,Friday,False,CUST8575,Customer_481,21,False,18-24,Male,Patna,Book,Education,1,38929.37,38929.37,Low,False
+ORD100849,ORD100849,False,2025-03-17,2025,Q1,3,Mar,Monday,False,CUST5455,Customer_287,26,False,25-34,Male,Bengaluru,Chair,Furniture,2,43357.83,86715.66,Medium,False
+ORD100850,ORD100850,False,2025-04-12,2025,Q2,4,Apr,Saturday,True,CUST2834,Customer_98,40,True,35-44,Male,Kolkata,Rice,Grocery,9,30091.26,270821.34,Very High,False
+ORD100851,ORD100851,False,2025-06-29,2025,Q2,6,Jun,Sunday,True,CUST4431,Customer_177,19,False,18-24,Male,Gaya,Chair,Furniture,10,3051.95,30519.5,Low,False
+ORD100852,ORD100852,False,2025-06-01,2025,Q2,6,Jun,Sunday,True,CUST3744,Customer_2,20,False,18-24,Female,Mumbai,Shoes,Fashion,3,31063.57,93190.71,Medium,False
+ORD100853,ORD100853,False,2025-03-17,2025,Q1,3,Mar,Monday,False,CUST1962,Customer_116,23,False,18-24,Male,Delhi,Rice,Grocery,10,5580.23,55802.3,Medium,False
+ORD100854,ORD100854,False,2025-06-25,2025,Q2,6,Jun,Wednesday,False,CUST7787,Customer_139,40,False,35-44,Male,Pune,Book,Education,8,35859.94,286879.52,Very High,False
+ORD100855,ORD100855,False,2025-05-19,2025,Q2,5,May,Monday,False,CUST3679,Customer_242,48,False,45-54,Male,Patna,Shoes,Fashion,5,47893.0,239465.0,Very High,False
+ORD100856,ORD100856,False,2025-05-26,2025,Q2,5,May,Monday,False,CUST8455,Customer_468,37,False,35-44,Female,Bengaluru,Shoes,Fashion,2,47996.02,95992.04,Medium,False
+ORD100857,ORD100857,False,2025-09-18,2025,Q3,9,Sep,Thursday,False,CUST4973,Customer_443,24,False,18-24,Male,Kolkata,Shoes,Fashion,1,42500.65,42500.65,Low,False
+ORD100858,ORD100858,False,2025-12-20,2025,Q4,12,Dec,Saturday,True,CUST7578,Customer_245,38,False,35-44,Female,Delhi,Rice,Grocery,8,7543.31,60346.48,Medium,False
+ORD100859,ORD100859,False,2025-07-28,2025,Q3,7,Jul,Monday,False,CUST9287,Customer_281,54,False,45-54,Female,Bengaluru,Book,Education,4,7779.34,31117.36,Low,False
+ORD100860,ORD100860,False,2025-07-10,2025,Q3,7,Jul,Thursday,False,CUST3430,Customer_184,51,False,45-54,Female,Kolkata,Mobile,Electronics,6,35959.07,215754.42,Very High,False
+ORD100861,ORD100861,False,2025-10-15,2025,Q4,10,Oct,Wednesday,False,CUST9817,Customer_388,45,False,45-54,Male,Patna,Mobile,Electronics,7,9471.49,66300.43,Medium,False
+ORD100862,ORD100862,False,2025-09-28,2025,Q3,9,Sep,Sunday,True,CUST7072,Customer_4,62,False,55-65,Female,Gaya,Shoes,Fashion,8,26327.39,210619.12,Very High,False
+ORD100863,ORD100863,False,2025-05-10,2025,Q2,5,May,Saturday,True,CUST9510,Customer_15,63,False,55-65,Female,Delhi,Chair,Furniture,9,48313.36,434820.24,Very High,False
+ORD100864,ORD100864,False,2025-11-20,2025,Q4,11,Nov,Thursday,False,CUST3327,Customer_94,19,False,18-24,Female,Pune,Laptop,Electronics,2,45217.92,90435.84,Medium,False
+ORD100865,ORD100865,False,2025-07-20,2025,Q3,7,Jul,Sunday,True,CUST2202,Customer_26,26,False,25-34,Female,Patna,Chair,Furniture,2,40130.21,80260.42,Medium,False
+ORD100866,ORD100866,False,2025-12-23,2025,Q4,12,Dec,Tuesday,False,CUST3767,Customer_470,49,False,45-54,Female,Hyderabad,Chair,Furniture,7,283.1,1981.7,Low,False
+ORD100867,ORD100867,False,2025-01-09,2025,Q1,1,Jan,Thursday,False,CUST4947,Customer_352,58,False,55-65,Male,Bengaluru,Chair,Furniture,5,7521.13,37605.65,Low,False
+ORD100868,ORD100868,False,2025-06-14,2025,Q2,6,Jun,Saturday,True,CUST4888,Customer_13,38,False,35-44,Male,Pune,Shoes,Fashion,5,8055.03,40275.15,Low,False
+ORD100869,ORD100869,False,2025-12-21,2025,Q4,12,Dec,Sunday,True,CUST4996,Customer_184,64,False,55-65,Male,Delhi,Book,Education,4,28263.33,113053.32,High,False
+ORD100870,ORD100870,False,2025-09-12,2025,Q3,9,Sep,Friday,False,CUST4112,Customer_71,33,False,25-34,Female,Kolkata,Shoes,Fashion,4,12941.53,51766.12,Medium,False
+ORD100871,ORD100871,False,2025-03-16,2025,Q1,3,Mar,Sunday,True,CUST1442,Customer_371,22,False,18-24,Female,Pune,Book,Education,1,27918.98,27918.98,Low,False
+ORD100872,ORD100872,False,2025-12-23,2025,Q4,12,Dec,Tuesday,False,CUST2757,Customer_366,55,False,55-65,Male,Patna,Mobile,Electronics,3,21349.35,64048.05,Medium,False
+ORD100873,ORD100873,False,2025-11-18,2025,Q4,11,Nov,Tuesday,False,CUST5319,Customer_129,35,False,35-44,Female,Mumbai,Mobile,Electronics,5,27648.52,138242.6,High,False
+ORD100874,ORD100874,False,2025-12-12,2025,Q4,12,Dec,Friday,False,CUST4391,Customer_214,36,False,35-44,Male,Hyderabad,Mobile,Electronics,5,39484.31,197421.55,High,False
+ORD100875,ORD100875,False,2025-10-12,2025,Q4,10,Oct,Sunday,True,CUST7317,Customer_304,25,False,25-34,Male,Delhi,Chair,Furniture,6,2417.66,14505.96,Low,False
+ORD100876,ORD100876,False,2025-11-30,2025,Q4,11,Nov,Sunday,True,CUST7473,Customer_372,36,False,35-44,Female,Mumbai,Rice,Grocery,5,40104.71,200523.55,High,False
+ORD100877,ORD100877,False,2025-12-19,2025,Q4,12,Dec,Friday,False,CUST9104,Customer_443,37,False,35-44,Male,Bengaluru,Book,Education,4,22929.61,91718.44,Medium,False
+ORD100878,ORD100878,False,2025-11-25,2025,Q4,11,Nov,Tuesday,False,CUST7091,Customer_1,48,False,45-54,Female,Mumbai,Rice,Grocery,10,23757.31,237573.1,Very High,False
+ORD100879,ORD100879,False,2025-05-18,2025,Q2,5,May,Sunday,True,CUST1258,Customer_443,40,False,35-44,Male,Hyderabad,Laptop,Electronics,7,6769.87,47389.09,Medium,False
+ORD100880,ORD100880,False,2025-10-08,2025,Q4,10,Oct,Wednesday,False,CUST1691,Customer_177,55,False,55-65,Male,Mumbai,Mobile,Electronics,2,7104.93,14209.86,Low,False
+ORD100881,ORD100881,False,2025-06-27,2025,Q2,6,Jun,Friday,False,CUST9404,Customer_463,19,False,18-24,Female,Gaya,Book,Education,2,35430.53,70861.06,Medium,False
+ORD100882,ORD100882,False,2025-08-22,2025,Q3,8,Aug,Friday,False,CUST6532,Customer_187,43,False,35-44,Female,Hyderabad,Rice,Grocery,8,44811.59,358492.72,Very High,False
+ORD100883,ORD100883,False,2025-06-03,2025,Q2,6,Jun,Tuesday,False,CUST1779,Customer_378,65,False,55-65,Female,Delhi,Shoes,Fashion,10,16661.37,166613.7,High,False
+ORD100884,ORD100884,False,2025-03-07,2025,Q1,3,Mar,Friday,False,CUST4651,Customer_359,54,False,45-54,Male,Kolkata,Mobile,Electronics,7,14207.04,99449.28,Medium,False
+ORD100885,ORD100885,False,2025-05-07,2025,Q2,5,May,Wednesday,False,CUST9027,Customer_153,43,False,35-44,Female,Mumbai,Shoes,Fashion,8,3220.99,25767.92,Low,False
+ORD100886,ORD100886,False,2025-08-12,2025,Q3,8,Aug,Tuesday,False,CUST1396,Customer_479,34,False,25-34,Male,Pune,Chair,Furniture,1,21572.48,21572.48,Low,False
+ORD100887,ORD100887,False,2025-01-15,2025,Q1,1,Jan,Wednesday,False,CUST9132,Customer_210,21,False,18-24,Female,Pune,Rice,Grocery,8,38808.88,310471.04,Very High,False
+ORD100888,ORD100888,False,2025-11-26,2025,Q4,11,Nov,Wednesday,False,CUST4926,Customer_102,45,False,45-54,Male,Delhi,Book,Education,2,6525.25,13050.5,Low,False
+ORD100889,ORD100889,False,2025-03-25,2025,Q1,3,Mar,Tuesday,False,CUST3987,Customer_126,55,False,55-65,Female,Pune,Rice,Grocery,9,36721.83,330496.47,Very High,False
+ORD100890,ORD100890,False,2025-08-30,2025,Q3,8,Aug,Saturday,True,CUST5136,Customer_257,30,False,25-34,Male,Mumbai,Rice,Grocery,1,16506.48,16506.48,Low,False
+ORD100891,ORD100891,False,2025-02-11,2025,Q1,2,Feb,Tuesday,False,CUST8849,Customer_380,19,False,18-24,Female,Patna,Book,Education,4,45273.26,181093.04,High,False
+ORD100892,ORD100892,False,2025-04-26,2025,Q2,4,Apr,Saturday,True,CUST3603,Customer_448,56,False,55-65,Female,Delhi,Rice,Grocery,1,15061.67,15061.67,Low,False
+ORD100893,ORD100893,False,2025-05-18,2025,Q2,5,May,Sunday,True,CUST4073,Customer_353,25,False,25-34,Female,Pune,Shoes,Fashion,3,30814.91,92444.73,Medium,False
+ORD100894,ORD100894,False,2025-12-01,2025,Q4,12,Dec,Monday,False,CUST7068,Customer_106,24,False,18-24,Male,Hyderabad,Book,Education,8,36507.56,292060.48,Very High,False
+ORD100895,ORD100895,False,2025-10-20,2025,Q4,10,Oct,Monday,False,CUST5762,Customer_404,20,False,18-24,Female,Mumbai,Book,Education,1,31247.14,31247.14,Low,False
+ORD100896,ORD100896,False,2025-11-05,2025,Q4,11,Nov,Wednesday,False,CUST1611,Customer_451,49,False,45-54,Male,Patna,Rice,Grocery,3,15350.0,46050.0,Low,False
+ORD100897,ORD100897,False,2025-06-07,2025,Q2,6,Jun,Saturday,True,CUST1806,Customer_354,58,False,55-65,Male,Patna,Chair,Furniture,9,7148.05,64332.45,Medium,False
+ORD100898,ORD100898,False,2025-11-02,2025,Q4,11,Nov,Sunday,True,CUST4730,Customer_484,20,False,18-24,Female,Patna,Laptop,Electronics,8,25411.08,203288.64,High,False
+ORD100899,ORD100899,False,2025-12-15,2025,Q4,12,Dec,Monday,False,CUST7164,Customer_251,64,False,55-65,Male,Pune,Shoes,Fashion,10,28254.51,282545.1,Very High,False
+ORD100900,ORD100900,False,2025-04-27,2025,Q2,4,Apr,Sunday,True,CUST3867,Customer_54,41,True,35-44,Female,Unknown,Laptop,Electronics,5,5069.79,25348.95,Low,False
+ORD100901,ORD100901,False,2025-10-21,2025,Q4,10,Oct,Tuesday,False,CUST6152,Customer_438,39,False,35-44,Female,Bengaluru,Mobile,Electronics,3,39619.15,118857.45,High,False
+ORD100902,ORD100902,False,2025-11-19,2025,Q4,11,Nov,Wednesday,False,CUST6881,Customer_158,41,False,35-44,Female,Delhi,Laptop,Electronics,7,42494.73,297463.11,Very High,False
+ORD100903,ORD100903,False,2025-11-12,2025,Q4,11,Nov,Wednesday,False,CUST3438,Customer_98,56,False,55-65,Male,Patna,Shoes,Fashion,6,24739.29,148435.74,High,False
+ORD100904,ORD100904,False,2025-03-25,2025,Q1,3,Mar,Tuesday,False,CUST1890,Customer_277,21,False,18-24,Male,Gaya,Chair,Furniture,3,43166.95,129500.85,High,False
+ORD100905,ORD100905,False,2025-01-11,2025,Q1,1,Jan,Saturday,True,CUST9994,Customer_13,49,False,45-54,Male,Delhi,Chair,Furniture,6,43613.07,261678.42,Very High,False
+ORD100906,ORD100906,False,2025-12-01,2025,Q4,12,Dec,Monday,False,CUST1906,Customer_76,36,False,35-44,Male,Hyderabad,Chair,Furniture,2,20357.35,40714.7,Low,False
+ORD100907,ORD100907,False,2025-01-19,2025,Q1,1,Jan,Sunday,True,CUST4977,Customer_359,33,False,25-34,Male,Mumbai,Chair,Furniture,5,40193.89,200969.45,High,False
+ORD100908,ORD100908,False,2025-02-14,2025,Q1,2,Feb,Friday,False,CUST6241,Customer_242,55,False,55-65,Male,Hyderabad,Chair,Furniture,2,9063.83,18127.66,Low,False
+ORD100909,ORD100909,False,2025-08-13,2025,Q3,8,Aug,Wednesday,False,CUST1759,Customer_71,64,False,55-65,Female,Delhi,Laptop,Electronics,5,21830.06,109150.3,High,False
+ORD100910,ORD100910,False,2025-07-28,2025,Q3,7,Jul,Monday,False,CUST4515,Customer_281,48,False,45-54,Female,Hyderabad,Rice,Grocery,2,39424.04,78848.08,Medium,False
+ORD100911,ORD100911,False,2025-06-06,2025,Q2,6,Jun,Friday,False,CUST6309,Customer_345,55,False,55-65,Female,Mumbai,Rice,Grocery,2,30743.1,61486.2,Medium,False
+ORD100912,ORD100912,False,2025-02-10,2025,Q1,2,Feb,Monday,False,CUST2384,Customer_365,49,False,45-54,Male,Gaya,Laptop,Electronics,3,10131.58,30394.74,Low,False
+ORD100913,ORD100913,False,2025-05-04,2025,Q2,5,May,Sunday,True,CUST5025,Customer_159,28,False,25-34,Female,Patna,Book,Education,1,20875.52,20875.52,Low,False
+ORD100914,ORD100914,False,2025-07-28,2025,Q3,7,Jul,Monday,False,CUST5363,Customer_86,22,False,18-24,Female,Pune,Shoes,Fashion,3,43152.69,129458.07,High,False
+ORD100915,ORD100915,False,2025-05-21,2025,Q2,5,May,Wednesday,False,CUST1753,Customer_493,58,False,55-65,Female,Hyderabad,Shoes,Fashion,1,3239.94,3239.94,Low,False
+ORD100916,ORD100916,False,2025-02-27,2025,Q1,2,Feb,Thursday,False,CUST7186,Customer_150,36,False,35-44,Female,Mumbai,Shoes,Fashion,1,10625.65,10625.65,Low,False
+ORD100917,ORD100917,False,2025-04-03,2025,Q2,4,Apr,Thursday,False,CUST2804,Customer_115,32,False,25-34,Female,Pune,Mobile,Electronics,3,30169.38,90508.14,Medium,False
+ORD100918,ORD100918,False,2025-11-06,2025,Q4,11,Nov,Thursday,False,CUST1997,Customer_219,29,False,25-34,Female,Patna,Mobile,Electronics,2,29914.46,59828.92,Medium,False
+ORD100919,ORD100919,False,2025-11-19,2025,Q4,11,Nov,Wednesday,False,CUST7609,Customer_327,41,False,35-44,Female,Pune,Shoes,Fashion,5,30991.63,154958.15,High,False
+ORD100920,ORD100920,False,2025-12-08,2025,Q4,12,Dec,Monday,False,CUST7026,Customer_105,36,False,35-44,Female,Bengaluru,Mobile,Electronics,7,15799.46,110596.22,High,False
+ORD100921,ORD100921,False,2025-05-06,2025,Q2,5,May,Tuesday,False,CUST6414,Customer_82,30,False,25-34,Male,Delhi,Mobile,Electronics,6,10404.98,62429.88,Medium,False
+ORD100922,ORD100922,False,2025-10-19,2025,Q4,10,Oct,Sunday,True,CUST3652,Customer_436,59,False,55-65,Male,Hyderabad,Book,Education,1,21496.95,21496.95,Low,False
+ORD100923,ORD100923,False,2025-10-08,2025,Q4,10,Oct,Wednesday,False,CUST4106,Customer_226,33,False,25-34,Male,Gaya,Rice,Grocery,7,42785.56,299498.92,Very High,False
+ORD100924,ORD100924,False,2025-11-13,2025,Q4,11,Nov,Thursday,False,CUST7933,Customer_232,50,False,45-54,Male,Bengaluru,Rice,Grocery,10,9123.6,91236.0,Medium,False
+ORD100925,ORD100925,False,2025-06-10,2025,Q2,6,Jun,Tuesday,False,CUST9299,Customer_13,62,False,55-65,Female,Delhi,Mobile,Electronics,6,35834.15,215004.9,Very High,False
+ORD100926,ORD100926,False,2025-12-24,2025,Q4,12,Dec,Wednesday,False,CUST5160,Customer_144,52,False,45-54,Female,Delhi,Book,Education,3,653.97,1961.91,Low,False
+ORD100927,ORD100927,False,2025-01-31,2025,Q1,1,Jan,Friday,False,CUST2260,Customer_325,54,False,45-54,Male,Kolkata,Mobile,Electronics,3,3846.65,11539.95,Low,False
+ORD100928,ORD100928,False,2025-08-03,2025,Q3,8,Aug,Sunday,True,CUST7676,Customer_42,39,False,35-44,Female,Bengaluru,Rice,Grocery,10,40522.56,405225.6,Very High,False
+ORD100929,ORD100929,False,2025-08-29,2025,Q3,8,Aug,Friday,False,CUST7405,Customer_15,57,False,55-65,Male,Mumbai,Shoes,Fashion,4,39917.24,159668.96,High,False
+ORD100930,ORD100930,False,2025-12-07,2025,Q4,12,Dec,Sunday,True,CUST4565,Customer_359,65,False,55-65,Female,Delhi,Rice,Grocery,1,23886.69,23886.69,Low,False
+ORD100931,ORD100931,False,2025-01-18,2025,Q1,1,Jan,Saturday,True,CUST6319,Customer_393,32,False,25-34,Female,Bengaluru,Shoes,Fashion,1,46629.03,46629.03,Low,False
+ORD100932,ORD100932,False,2025-08-04,2025,Q3,8,Aug,Monday,False,CUST4077,Customer_138,50,False,45-54,Male,Mumbai,Laptop,Electronics,4,27478.45,109913.8,High,False
+ORD100933,ORD100933,False,2025-01-21,2025,Q1,1,Jan,Tuesday,False,CUST8537,Customer_494,50,False,45-54,Female,Hyderabad,Laptop,Electronics,8,4925.05,39400.4,Low,False
+ORD100934,ORD100934,False,2025-04-02,2025,Q2,4,Apr,Wednesday,False,CUST6407,Customer_107,63,False,55-65,Male,Kolkata,Shoes,Fashion,8,35023.64,280189.12,Very High,False
+ORD100935,ORD100935,False,2025-11-01,2025,Q4,11,Nov,Saturday,True,CUST2025,Customer_239,37,False,35-44,Female,Delhi,Chair,Furniture,2,49387.2,98774.4,Medium,False
+ORD100936,ORD100936,False,2025-11-10,2025,Q4,11,Nov,Monday,False,CUST1122,Customer_447,65,False,55-65,Female,Kolkata,Rice,Grocery,4,30607.95,122431.8,High,False
+ORD100937,ORD100937,False,2025-10-22,2025,Q4,10,Oct,Wednesday,False,CUST1997,Customer_437,40,False,35-44,Male,Patna,Chair,Furniture,10,7627.77,76277.7,Medium,False
+ORD100938,ORD100938,False,2025-09-28,2025,Q3,9,Sep,Sunday,True,CUST9287,Customer_420,30,False,25-34,Male,Pune,Shoes,Fashion,3,44146.06,132438.18,High,False
+ORD100939,ORD100939,False,2025-12-13,2025,Q4,12,Dec,Saturday,True,CUST5413,Customer_20,62,False,55-65,Male,Bengaluru,Laptop,Electronics,7,31015.64,217109.48,Very High,False
+ORD100940,ORD100940,False,2025-08-22,2025,Q3,8,Aug,Friday,False,CUST8466,Customer_66,43,False,35-44,Male,Hyderabad,Laptop,Electronics,1,47743.08,47743.08,Medium,False
+ORD100941,ORD100941,False,2025-06-11,2025,Q2,6,Jun,Wednesday,False,CUST9493,Customer_34,35,False,35-44,Male,Gaya,Laptop,Electronics,10,12754.35,127543.5,High,False
+ORD100942,ORD100942,False,2025-04-02,2025,Q2,4,Apr,Wednesday,False,CUST3576,Customer_397,53,False,45-54,Male,Hyderabad,Laptop,Electronics,7,45883.95,321187.65,Very High,False
+ORD100943,ORD100943,False,2025-07-27,2025,Q3,7,Jul,Sunday,True,CUST2586,Customer_386,64,False,55-65,Male,Pune,Laptop,Electronics,5,16990.85,84954.25,Medium,False
+ORD100944,ORD100944,False,2025-07-13,2025,Q3,7,Jul,Sunday,True,CUST3499,Customer_139,20,False,18-24,Male,Mumbai,Chair,Furniture,2,20191.53,40383.06,Low,False
+ORD100945,ORD100945,False,2025-08-12,2025,Q3,8,Aug,Tuesday,False,CUST7718,Customer_293,26,False,25-34,Male,Delhi,Mobile,Electronics,8,46866.95,374935.6,Very High,False
+ORD100946,ORD100946,False,2025-06-28,2025,Q2,6,Jun,Saturday,True,CUST3330,Customer_450,62,False,55-65,Female,Hyderabad,Mobile,Electronics,8,20319.29,162554.32,High,False
+ORD100947,ORD100947,False,2025-08-04,2025,Q3,8,Aug,Monday,False,CUST9113,Customer_175,61,False,55-65,Male,Hyderabad,Book,Education,6,31857.18,191143.08,High,False
+ORD100948,ORD100948,False,2025-02-24,2025,Q1,2,Feb,Monday,False,CUST1004,Customer_191,64,False,55-65,Female,Bengaluru,Mobile,Electronics,2,4160.77,8321.54,Low,False
+ORD100949,ORD100949,False,2025-05-17,2025,Q2,5,May,Saturday,True,CUST8381,Customer_112,40,False,35-44,Male,Kolkata,Book,Education,10,47314.42,473144.2,Very High,True
+ORD100950,ORD100950,False,2025-11-01,2025,Q4,11,Nov,Saturday,True,CUST6316,Customer_59,40,True,35-44,Male,Pune,Laptop,Electronics,9,34569.56,311126.04,Very High,False
+ORD100951,ORD100951,False,2025-05-17,2025,Q2,5,May,Saturday,True,CUST2403,Customer_258,22,False,18-24,Male,Pune,Mobile,Electronics,8,29747.29,237978.32,Very High,False
+ORD100952,ORD100952,False,2025-02-13,2025,Q1,2,Feb,Thursday,False,CUST1357,Customer_361,48,False,45-54,Male,Delhi,Shoes,Fashion,8,24450.18,195601.44,High,False
+ORD100953,ORD100953,False,2025-04-16,2025,Q2,4,Apr,Wednesday,False,CUST4337,Customer_269,53,False,45-54,Female,Kolkata,Mobile,Electronics,4,13994.12,55976.48,Medium,False
+ORD100954,ORD100954,False,2025-08-11,2025,Q3,8,Aug,Monday,False,CUST9175,Customer_441,36,False,35-44,Male,Mumbai,Shoes,Fashion,9,23583.66,212252.94,Very High,False
+ORD100955,ORD100955,False,2025-06-16,2025,Q2,6,Jun,Monday,False,CUST7177,Customer_40,21,False,18-24,Male,Hyderabad,Shoes,Fashion,3,25138.65,75415.95,Medium,False
+ORD100956,ORD100956,False,2025-12-10,2025,Q4,12,Dec,Wednesday,False,CUST9009,Customer_424,43,False,35-44,Male,Mumbai,Mobile,Electronics,3,25618.42,76855.26,Medium,False
+ORD100957,ORD100957,False,2025-03-07,2025,Q1,3,Mar,Friday,False,CUST8996,Customer_165,59,False,55-65,Male,Hyderabad,Shoes,Fashion,3,42044.69,126134.07,High,False
+ORD100958,ORD100958,False,2025-04-10,2025,Q2,4,Apr,Thursday,False,CUST3759,Customer_313,65,False,55-65,Female,Mumbai,Rice,Grocery,9,33475.97,301283.73,Very High,False
+ORD100959,ORD100959,False,2025-01-09,2025,Q1,1,Jan,Thursday,False,CUST9966,Customer_455,46,False,45-54,Female,Kolkata,Rice,Grocery,5,29215.06,146075.3,High,False
+ORD100960,ORD100050,True,2025-02-09,2025,Q1,2,Feb,Sunday,True,CUST7188,Customer_89,62,False,55-65,Male,Bengaluru,Mobile,Electronics,1,34619.77,34619.77,Low,False
+ORD100961,ORD100961,False,2025-10-31,2025,Q4,10,Oct,Friday,False,CUST6311,Customer_257,65,False,55-65,Female,Mumbai,Book,Education,9,33480.07,301320.63,Very High,False
+ORD100962,ORD100962,False,2025-04-20,2025,Q2,4,Apr,Sunday,True,CUST8525,Customer_126,40,False,35-44,Female,Gaya,Shoes,Fashion,10,8532.9,85329.0,Medium,False
+ORD100963,ORD100963,False,2025-12-09,2025,Q4,12,Dec,Tuesday,False,CUST9285,Customer_452,49,False,45-54,Female,Gaya,Laptop,Electronics,7,31899.76,223298.32,Very High,False
+ORD100964,ORD100964,False,2025-12-08,2025,Q4,12,Dec,Monday,False,CUST8387,Customer_133,48,False,45-54,Female,Bengaluru,Chair,Furniture,5,30847.69,154238.45,High,False
+ORD100965,ORD100965,False,2025-09-02,2025,Q3,9,Sep,Tuesday,False,CUST5726,Customer_192,20,False,18-24,Male,Pune,Mobile,Electronics,2,39578.6,79157.2,Medium,False
+ORD100966,ORD100966,False,2025-05-13,2025,Q2,5,May,Tuesday,False,CUST7238,Customer_335,54,False,45-54,Female,Delhi,Mobile,Electronics,8,35028.53,280228.24,Very High,False
+ORD100967,ORD100967,False,2025-07-05,2025,Q3,7,Jul,Saturday,True,CUST3843,Customer_209,44,False,35-44,Female,Bengaluru,Mobile,Electronics,6,6287.85,37727.1,Low,False
+ORD100968,ORD100968,False,2025-02-15,2025,Q1,2,Feb,Saturday,True,CUST7185,Customer_285,61,False,55-65,Female,Delhi,Chair,Furniture,3,32751.77,98255.31,Medium,False
+ORD100969,ORD100969,False,2025-07-21,2025,Q3,7,Jul,Monday,False,CUST7757,Customer_494,58,False,55-65,Male,Mumbai,Laptop,Electronics,9,24421.73,219795.57,Very High,False
+ORD100970,ORD100970,False,2025-08-08,2025,Q3,8,Aug,Friday,False,CUST1713,Customer_457,27,False,25-34,Female,Bengaluru,Shoes,Fashion,1,31739.18,31739.18,Low,False
+ORD100971,ORD100971,False,2025-02-22,2025,Q1,2,Feb,Saturday,True,CUST6987,Customer_107,31,False,25-34,Female,Gaya,Rice,Grocery,1,6976.56,6976.56,Low,False
+ORD100972,ORD100972,False,2025-09-05,2025,Q3,9,Sep,Friday,False,CUST5829,Customer_37,32,False,25-34,Male,Delhi,Book,Education,4,9989.04,39956.16,Low,False
+ORD100973,ORD100973,False,2025-11-05,2025,Q4,11,Nov,Wednesday,False,CUST2542,Customer_219,43,False,35-44,Male,Hyderabad,Laptop,Electronics,10,43146.39,431463.9,Very High,False
+ORD100974,ORD100974,False,2025-07-28,2025,Q3,7,Jul,Monday,False,CUST4869,Customer_392,37,False,35-44,Male,Kolkata,Laptop,Electronics,10,48566.78,485667.8,Very High,True
+ORD100975,ORD100975,False,2025-10-15,2025,Q4,10,Oct,Wednesday,False,CUST2870,Customer_311,25,False,25-34,Female,Unknown,Book,Education,6,6189.16,37134.96,Low,False
+ORD100976,ORD100976,False,2025-05-29,2025,Q2,5,May,Thursday,False,CUST5338,Customer_269,22,False,18-24,Female,Patna,Shoes,Fashion,3,46910.35,140731.05,High,False
+ORD100977,ORD100977,False,2025-10-16,2025,Q4,10,Oct,Thursday,False,CUST5373,Customer_256,24,False,18-24,Male,Delhi,Shoes,Fashion,1,25737.43,25737.43,Low,False
+ORD100978,ORD100978,False,2025-02-20,2025,Q1,2,Feb,Thursday,False,CUST2256,Customer_284,50,False,45-54,Male,Hyderabad,Shoes,Fashion,3,38656.45,115969.35,High,False
+ORD100979,ORD100979,False,2025-06-13,2025,Q2,6,Jun,Friday,False,CUST7388,Customer_6,48,False,45-54,Male,Hyderabad,Rice,Grocery,6,44566.74,267400.44,Very High,False
+ORD100980,ORD100980,False,2025-11-22,2025,Q4,11,Nov,Saturday,True,CUST1159,Customer_492,30,False,25-34,Male,Pune,Laptop,Electronics,5,16513.54,82567.7,Medium,False
+ORD100981,ORD100981,False,2025-08-03,2025,Q3,8,Aug,Sunday,True,CUST9081,Customer_448,24,False,18-24,Male,Hyderabad,Book,Education,6,5066.44,30398.64,Low,False
+ORD100982,ORD100982,False,2025-03-30,2025,Q1,3,Mar,Sunday,True,CUST4003,Customer_305,54,False,45-54,Female,Bengaluru,Rice,Grocery,10,46852.2,468522.0,Very High,True
+ORD100983,ORD100983,False,2025-09-03,2025,Q3,9,Sep,Wednesday,False,CUST6511,Customer_15,54,False,45-54,Male,Mumbai,Shoes,Fashion,3,18013.26,54039.78,Medium,False
+ORD100984,ORD100984,False,2025-11-07,2025,Q4,11,Nov,Friday,False,CUST2836,Customer_434,46,False,45-54,Female,Patna,Shoes,Fashion,4,36188.72,144754.88,High,False
+ORD100985,ORD100985,False,2025-05-19,2025,Q2,5,May,Monday,False,CUST3730,Customer_397,58,False,55-65,Female,Gaya,Chair,Furniture,3,33517.79,100553.37,Medium,False
+ORD100986,ORD100986,False,2025-03-27,2025,Q1,3,Mar,Thursday,False,CUST9945,Customer_495,24,False,18-24,Male,Hyderabad,Rice,Grocery,1,3375.35,3375.35,Low,False
+ORD100987,ORD100987,False,2025-03-16,2025,Q1,3,Mar,Sunday,True,CUST1603,Customer_434,37,False,35-44,Female,Mumbai,Mobile,Electronics,4,34140.07,136560.28,High,False
+ORD100988,ORD100988,False,2025-12-16,2025,Q4,12,Dec,Tuesday,False,CUST9871,Customer_187,27,False,25-34,Female,Pune,Mobile,Electronics,2,17345.15,34690.3,Low,False
+ORD100989,ORD100989,False,2025-10-18,2025,Q4,10,Oct,Saturday,True,CUST2418,Customer_425,57,False,55-65,Male,Gaya,Chair,Furniture,2,46527.93,93055.86,Medium,False
+ORD100990,ORD100990,False,2025-04-14,2025,Q2,4,Apr,Monday,False,CUST2126,Customer_385,34,False,25-34,Male,Patna,Rice,Grocery,1,21819.5,21819.5,Low,False
+ORD100991,ORD100991,False,2025-02-28,2025,Q1,2,Feb,Friday,False,CUST1284,Customer_375,31,False,25-34,Male,Bengaluru,Mobile,Electronics,4,26365.27,105461.08,Medium,False
+ORD100992,ORD100992,False,2025-08-20,2025,Q3,8,Aug,Wednesday,False,CUST6389,Customer_484,27,False,25-34,Male,Kolkata,Chair,Furniture,9,34835.55,313519.95,Very High,False
+ORD100993,ORD100993,False,2025-06-16,2025,Q2,6,Jun,Monday,False,CUST9381,Customer_10,52,False,45-54,Male,Patna,Book,Education,8,44625.98,357007.84,Very High,False
+ORD100994,ORD100994,False,2025-07-11,2025,Q3,7,Jul,Friday,False,CUST2967,Customer_483,52,False,45-54,Female,Mumbai,Chair,Furniture,5,7279.34,36396.7,Low,False
+ORD100995,ORD100995,False,2025-07-30,2025,Q3,7,Jul,Wednesday,False,CUST9092,Customer_97,64,False,55-65,Male,Mumbai,Chair,Furniture,1,37930.19,37930.19,Low,False
+ORD100996,ORD100996,False,2025-06-12,2025,Q2,6,Jun,Thursday,False,CUST9351,Customer_352,36,False,35-44,Male,Pune,Book,Education,9,44322.64,398903.76,Very High,False
+ORD100997,ORD100997,False,2025-11-07,2025,Q4,11,Nov,Friday,False,CUST6410,Customer_301,61,False,55-65,Male,Gaya,Laptop,Electronics,9,35405.54,318649.86,Very High,False
+ORD100998,ORD100998,False,2025-09-03,2025,Q3,9,Sep,Wednesday,False,CUST7618,Customer_154,25,False,25-34,Male,Gaya,Shoes,Fashion,5,18454.65,92273.25,Medium,False
+ORD100999,ORD100999,False,2025-09-30,2025,Q3,9,Sep,Tuesday,False,CUST9544,Customer_140,62,False,55-65,Female,Hyderabad,Laptop,Electronics,9,12971.59,116744.31,High,False
+ORD101000,ORD101000,False,2025-02-21,2025,Q1,2,Feb,Friday,False,CUST9501,Customer_241,40,True,35-44,Male,Delhi,Mobile,Electronics,9,2879.01,25911.09,Low,False
+ORD101001,ORD101001,False,2025-04-23,2025,Q2,4,Apr,Wednesday,False,CUST2714,Customer_98,58,False,55-65,Female,Gaya,Chair,Furniture,9,22493.87,202444.83,High,False
